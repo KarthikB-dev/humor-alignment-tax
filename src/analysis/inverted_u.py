@@ -104,7 +104,7 @@ def fit_inverted_u(
         p_value_quadratic=float(p_value),
         n_samples=n,
         peak_x=peak_x,
-        is_inverted_u=(a < 0 and p_value < alpha),
+        is_inverted_u=bool(a < 0 and p_value < alpha),
     )
 
 

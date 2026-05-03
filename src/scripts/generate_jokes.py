@@ -33,10 +33,13 @@ def generate_joke(
     max_new_tokens: int = 128,
 ) -> str | None:
     """Generate a single joke with the given decoding config."""
-    messages = [{"role": "user", "content": GENERATION_PROMPT}]
-    formatted = tokenizer.apply_chat_template(
-        messages, tokenize=False, add_generation_prompt=True
-    )
+    if tokenizer.chat_template is not None:
+        messages = [{"role": "user", "content": GENERATION_PROMPT}]
+        formatted = tokenizer.apply_chat_template(
+            messages, tokenize=False, add_generation_prompt=True
+        )
+    else:
+        formatted = GENERATION_PROMPT
     inputs = tokenizer(formatted, return_tensors="pt").to(model.device)
     prompt_len = inputs["input_ids"].shape[1]
 
@@ -83,7 +86,7 @@ def main() -> None:
     parser.add_argument(
         "--model_keys",
         nargs="+",
-        default=["LLAMA_3_1_8B_BASE", "LLAMA_3_1_8B_INSTRUCT"],
+        default=["LLAMA_3_2_1B_BASE", "LLAMA_3_2_1B_INSTRUCT"],
     )
     parser.add_argument(
         "--n_jokes", type=int, default=50, help="Jokes to generate per config"

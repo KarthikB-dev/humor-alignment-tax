@@ -56,12 +56,12 @@ def main() -> None:
     parser.add_argument("--output_dir", default="data/analysis")
     parser.add_argument(
         "--base_model",
-        default="Llama-3.1-8B",
+        default="Llama-3.2-1B",
         help="Base model name (filename stem in metrics_dir)",
     )
     parser.add_argument(
         "--aligned_model",
-        default="Llama-3.1-8B-Instruct",
+        default="Llama-3.2-1B-Instruct",
         help="Aligned model name (filename stem in metrics_dir)",
     )
     parser.add_argument("--alpha", type=float, default=0.05)

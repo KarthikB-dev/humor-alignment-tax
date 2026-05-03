@@ -25,7 +25,7 @@ def main() -> None:
     )
     parser.add_argument(
         "--judge_model",
-        default="LLAMA_3_1_8B_INSTRUCT",
+        default="LLAMA_3_2_1B_INSTRUCT",
         help="Model key for the judge (must be instruction-tuned)",
     )
     parser.add_argument(

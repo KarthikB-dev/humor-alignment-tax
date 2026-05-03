@@ -47,5 +47,5 @@ def model_name_from_path(path: str) -> str:
 
 
 MODEL_PAIRS = [
-    ("LLAMA_3_1_8B_BASE", "LLAMA_3_1_8B_INSTRUCT"),
+    ("LLAMA_3_2_1B_BASE", "LLAMA_3_2_1B_INSTRUCT"),
 ]
