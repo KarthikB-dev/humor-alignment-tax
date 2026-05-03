@@ -114,6 +114,12 @@ def main() -> None:
     )
     parser.add_argument("--output_dir", default="data/metrics")
     parser.add_argument("--seed", type=int, default=42)
+    parser.add_argument(
+        "--models",
+        nargs="+",
+        default=None,
+        help="Run these individual model keys instead of MODEL_PAIRS (e.g. LLAMA_3_2_1B_INSTRUCT_SAFETY)",
+    )
     args = parser.parse_args()
 
     wandb.init(
@@ -148,29 +154,38 @@ def main() -> None:
             indent=2,
         )
 
-    for base_key, aligned_key in MODEL_PAIRS:
-        base_path = get_model_path(base_key)
-        aligned_path = get_model_path(aligned_key)
+    if args.models:
+        # Individual model mode — run each key independently
+        for model_key in args.models:
+            model_path = get_model_path(model_key)
+            metrics = extract_metrics_for_model(model_path, jokes, args.output_dir)
+            model_name = model_name_from_path(model_path)
+            for metric_name, vals in metrics.items():
+                wandb.log({f"{model_name}/{metric_name}/mean": float(vals.mean()),
+                           f"{model_name}/{metric_name}/std": float(vals.std())})
+    else:
+        for base_key, aligned_key in MODEL_PAIRS:
+            base_path = get_model_path(base_key)
+            aligned_path = get_model_path(aligned_key)
 
-        base_metrics = extract_metrics_for_model(base_path, jokes, args.output_dir)
-        aligned_metrics = extract_metrics_for_model(
-            aligned_path, jokes, args.output_dir
-        )
-
-        # Log summary stats to wandb
-        for metric_name in base_metrics:
-            wandb.log(
-                {
-                    f"base/{metric_name}/mean": float(base_metrics[metric_name].mean()),
-                    f"base/{metric_name}/std": float(base_metrics[metric_name].std()),
-                    f"aligned/{metric_name}/mean": float(
-                        aligned_metrics[metric_name].mean()
-                    ),
-                    f"aligned/{metric_name}/std": float(
-                        aligned_metrics[metric_name].std()
-                    ),
-                }
+            base_metrics = extract_metrics_for_model(base_path, jokes, args.output_dir)
+            aligned_metrics = extract_metrics_for_model(
+                aligned_path, jokes, args.output_dir
             )
+
+            for metric_name in base_metrics:
+                wandb.log(
+                    {
+                        f"base/{metric_name}/mean": float(base_metrics[metric_name].mean()),
+                        f"base/{metric_name}/std": float(base_metrics[metric_name].std()),
+                        f"aligned/{metric_name}/mean": float(
+                            aligned_metrics[metric_name].mean()
+                        ),
+                        f"aligned/{metric_name}/std": float(
+                            aligned_metrics[metric_name].std()
+                        ),
+                    }
+                )
 
     print("\nDone. All metrics saved.", flush=True)
     wandb.finish()
