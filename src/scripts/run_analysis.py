@@ -28,9 +28,14 @@ def load_metrics(metrics_dir: str, model_name: str) -> dict[str, np.ndarray]:
     }
 
 
-def load_judgments(judgments_dir: str, model_name: str) -> dict[str, np.ndarray]:
-    """Load humor judgments and return arrays for each dimension."""
-    path = Path(judgments_dir) / f"judgments_{model_name}.json"
+def load_judgments(path: str | Path) -> dict[str, np.ndarray]:
+    """Load humor judgments and return arrays for each dimension.
+
+    Handles both the legacy flat format (scores at the top level, e.g.
+    ``judgments_<model>.json``) and the Claude/Gemini-judge format where the
+    four scores are nested under a ``judge_scores`` object (failed judgments
+    carry an ``error`` key instead and become NaN).
+    """
     with open(path) as f:
         judgments = json.load(f)
 
@@ -39,10 +44,8 @@ def load_judgments(judgments_dir: str, model_name: str) -> dict[str, np.ndarray]
     for dim in dims:
         vals = []
         for j in judgments:
-            if dim in j:
-                vals.append(j[dim])
-            else:
-                vals.append(np.nan)
+            scores = j.get("judge_scores", j)  # nested (new) or flat (legacy)
+            vals.append(scores[dim] if dim in scores else np.nan)
         result[dim] = np.array(vals, dtype=np.float32)
     return result
 
@@ -53,6 +56,13 @@ def main() -> None:
     )
     parser.add_argument("--metrics_dir", default="data/metrics")
     parser.add_argument("--judgments_dir", default="data/judgments")
+    parser.add_argument(
+        "--judgments_file",
+        default="data/judgments/gemini_bulk/judgments_corpus.json",
+        help="Path to the corpus judgments to use for the inverted-U fit. "
+        "Defaults to the Gemini-judge corpus file; pass a legacy "
+        "judgments_<model>.json to reproduce the old analysis.",
+    )
     parser.add_argument("--output_dir", default="data/analysis")
     parser.add_argument(
         "--base_model",
@@ -75,8 +85,9 @@ def main() -> None:
     base_metrics = load_metrics(args.metrics_dir, args.base_model)
     aligned_metrics = load_metrics(args.metrics_dir, args.aligned_model)
 
-    # Use aligned model's judgments (instruct model is the judge)
-    humor_scores = load_judgments(args.judgments_dir, args.aligned_model)
+    # Humor scores for the corpus jokes (positionally aligned with the metrics).
+    print(f"Using judgments: {args.judgments_file}", flush=True)
+    humor_scores = load_judgments(args.judgments_file)
 
     # ---- Inverted-U analysis ----
     print("\n" + "=" * 60)

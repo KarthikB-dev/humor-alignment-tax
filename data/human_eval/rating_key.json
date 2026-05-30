@@ -1,0 +1,1322 @@
+{
+  "hr000": {
+    "tier": "corpus",
+    "config": "one_liner",
+    "stratum": "corpus/one_liner",
+    "llm_scores": {
+      "unexpectedness": 8.0,
+      "cleverness": 7.0,
+      "amusement": 7.0,
+      "overall": 7.0
+    }
+  },
+  "hr001": {
+    "tier": "instruct",
+    "config": "default",
+    "stratum": "instruct/default",
+    "llm_scores": {
+      "unexpectedness": 6.0,
+      "cleverness": 7.0,
+      "amusement": 7.0,
+      "overall": 7.0
+    }
+  },
+  "hr002": {
+    "tier": "corpus",
+    "config": "one_liner",
+    "stratum": "corpus/one_liner",
+    "llm_scores": {
+      "unexpectedness": 8.0,
+      "cleverness": 7.0,
+      "amusement": 7.0,
+      "overall": 7.0
+    }
+  },
+  "hr003": {
+    "tier": "instruct",
+    "config": "wide_nucleus",
+    "stratum": "instruct/wide_nucleus",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 6.0,
+      "amusement": 7.0,
+      "overall": 7.0
+    }
+  },
+  "hr004": {
+    "tier": "safety",
+    "config": "narrow_nucleus",
+    "stratum": "safety/narrow_nucleus",
+    "llm_scores": {
+      "unexpectedness": 1.0,
+      "cleverness": 1.0,
+      "amusement": 1.0,
+      "overall": 1.0
+    }
+  },
+  "hr005": {
+    "tier": "base",
+    "config": "default",
+    "stratum": "base/default",
+    "llm_scores": {
+      "unexpectedness": 9.0,
+      "cleverness": 8.0,
+      "amusement": 7.0,
+      "overall": 8.0
+    }
+  },
+  "hr006": {
+    "tier": "base",
+    "config": "wide_nucleus",
+    "stratum": "base/wide_nucleus",
+    "llm_scores": {
+      "unexpectedness": 1.0,
+      "cleverness": 1.0,
+      "amusement": 1.0,
+      "overall": 1.0
+    }
+  },
+  "hr007": {
+    "tier": "instruct",
+    "config": "narrow_nucleus",
+    "stratum": "instruct/narrow_nucleus",
+    "llm_scores": {
+      "unexpectedness": 8.0,
+      "cleverness": 9.0,
+      "amusement": 8.0,
+      "overall": 8.0
+    }
+  },
+  "hr008": {
+    "tier": "base",
+    "config": "high_temp",
+    "stratum": "base/high_temp",
+    "llm_scores": {
+      "unexpectedness": 3.0,
+      "cleverness": 2.0,
+      "amusement": 1.0,
+      "overall": 1.0
+    }
+  },
+  "hr009": {
+    "tier": "base",
+    "config": "default",
+    "stratum": "base/default",
+    "llm_scores": {
+      "unexpectedness": 5.0,
+      "cleverness": 7.0,
+      "amusement": 6.0,
+      "overall": 6.0
+    }
+  },
+  "hr010": {
+    "tier": "corpus",
+    "config": "r_jokes",
+    "stratum": "corpus/r_jokes",
+    "llm_scores": {
+      "unexpectedness": 6.0,
+      "cleverness": 5.0,
+      "amusement": 4.0,
+      "overall": 5.0
+    }
+  },
+  "hr011": {
+    "tier": "base",
+    "config": "mid_temp",
+    "stratum": "base/mid_temp",
+    "llm_scores": {
+      "unexpectedness": 2.0,
+      "cleverness": 1.0,
+      "amusement": 1.0,
+      "overall": 1.0
+    }
+  },
+  "hr012": {
+    "tier": "corpus",
+    "config": "r_jokes",
+    "stratum": "corpus/r_jokes",
+    "llm_scores": {
+      "unexpectedness": 8.0,
+      "cleverness": 2.0,
+      "amusement": 1.0,
+      "overall": 1.0
+    }
+  },
+  "hr013": {
+    "tier": "instruct",
+    "config": "narrow_nucleus",
+    "stratum": "instruct/narrow_nucleus",
+    "llm_scores": {
+      "unexpectedness": 6.0,
+      "cleverness": 7.0,
+      "amusement": 7.0,
+      "overall": 7.0
+    }
+  },
+  "hr014": {
+    "tier": "base",
+    "config": "narrow_nucleus",
+    "stratum": "base/narrow_nucleus",
+    "llm_scores": {
+      "unexpectedness": 8.0,
+      "cleverness": 7.0,
+      "amusement": 6.0,
+      "overall": 7.0
+    }
+  },
+  "hr015": {
+    "tier": "instruct",
+    "config": "default",
+    "stratum": "instruct/default",
+    "llm_scores": {
+      "unexpectedness": 5.0,
+      "cleverness": 7.0,
+      "amusement": 6.0,
+      "overall": 6.0
+    }
+  },
+  "hr016": {
+    "tier": "safety",
+    "config": "wide_nucleus",
+    "stratum": "safety/wide_nucleus",
+    "llm_scores": {
+      "unexpectedness": 3.0,
+      "cleverness": 2.0,
+      "amusement": 1.0,
+      "overall": 2.0
+    }
+  },
+  "hr017": {
+    "tier": "base",
+    "config": "very_high_temp",
+    "stratum": "base/very_high_temp",
+    "llm_scores": {
+      "unexpectedness": 2.0,
+      "cleverness": 1.0,
+      "amusement": 1.0,
+      "overall": 1.0
+    }
+  },
+  "hr018": {
+    "tier": "base",
+    "config": "high_temp",
+    "stratum": "base/high_temp",
+    "llm_scores": {
+      "unexpectedness": 3.0,
+      "cleverness": 2.0,
+      "amusement": 1.0,
+      "overall": 2.0
+    }
+  },
+  "hr019": {
+    "tier": "safety",
+    "config": "wide_nucleus",
+    "stratum": "safety/wide_nucleus",
+    "llm_scores": {
+      "unexpectedness": 2.0,
+      "cleverness": 5.0,
+      "amusement": 4.0,
+      "overall": 4.0
+    }
+  },
+  "hr020": {
+    "tier": "base",
+    "config": "narrow_nucleus",
+    "stratum": "base/narrow_nucleus",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 2.0,
+      "amusement": 3.0,
+      "overall": 4.0
+    }
+  },
+  "hr021": {
+    "tier": "instruct",
+    "config": "wide_nucleus",
+    "stratum": "instruct/wide_nucleus",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 9.0,
+      "amusement": 8.0,
+      "overall": 8.0
+    }
+  },
+  "hr022": {
+    "tier": "instruct",
+    "config": "high_temp",
+    "stratum": "instruct/high_temp",
+    "llm_scores": {
+      "unexpectedness": 6.0,
+      "cleverness": 7.0,
+      "amusement": 7.0,
+      "overall": 7.0
+    }
+  },
+  "hr023": {
+    "tier": "instruct",
+    "config": "very_high_temp",
+    "stratum": "instruct/very_high_temp",
+    "llm_scores": {
+      "unexpectedness": 6.0,
+      "cleverness": 7.0,
+      "amusement": 7.0,
+      "overall": 7.0
+    }
+  },
+  "hr024": {
+    "tier": "instruct",
+    "config": "mid_temp",
+    "stratum": "instruct/mid_temp",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 9.0,
+      "amusement": 8.0,
+      "overall": 8.0
+    }
+  },
+  "hr025": {
+    "tier": "safety",
+    "config": "mid_temp",
+    "stratum": "safety/mid_temp",
+    "llm_scores": {
+      "unexpectedness": 1.0,
+      "cleverness": 2.0,
+      "amusement": 1.0,
+      "overall": 1.0
+    }
+  },
+  "hr026": {
+    "tier": "safety",
+    "config": "very_high_temp",
+    "stratum": "safety/very_high_temp",
+    "llm_scores": {
+      "unexpectedness": 8.0,
+      "cleverness": 7.0,
+      "amusement": 7.0,
+      "overall": 7.0
+    }
+  },
+  "hr027": {
+    "tier": "instruct",
+    "config": "narrow_nucleus",
+    "stratum": "instruct/narrow_nucleus",
+    "llm_scores": {
+      "unexpectedness": 8.0,
+      "cleverness": 9.0,
+      "amusement": 7.0,
+      "overall": 8.0
+    }
+  },
+  "hr028": {
+    "tier": "instruct",
+    "config": "default",
+    "stratum": "instruct/default",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 9.0,
+      "amusement": 8.0,
+      "overall": 8.0
+    }
+  },
+  "hr029": {
+    "tier": "safety",
+    "config": "default",
+    "stratum": "safety/default",
+    "llm_scores": {
+      "unexpectedness": 3.0,
+      "cleverness": 1.0,
+      "amusement": 1.0,
+      "overall": 1.0
+    }
+  },
+  "hr030": {
+    "tier": "safety",
+    "config": "wide_nucleus",
+    "stratum": "safety/wide_nucleus",
+    "llm_scores": {
+      "unexpectedness": 1.0,
+      "cleverness": 1.0,
+      "amusement": 1.0,
+      "overall": 1.0
+    }
+  },
+  "hr031": {
+    "tier": "instruct",
+    "config": "default",
+    "stratum": "instruct/default",
+    "llm_scores": {
+      "unexpectedness": 8.0,
+      "cleverness": 9.0,
+      "amusement": 8.0,
+      "overall": 8.0
+    }
+  },
+  "hr032": {
+    "tier": "instruct",
+    "config": "very_high_temp",
+    "stratum": "instruct/very_high_temp",
+    "llm_scores": {
+      "unexpectedness": 8.0,
+      "cleverness": 9.0,
+      "amusement": 8.0,
+      "overall": 8.0
+    }
+  },
+  "hr033": {
+    "tier": "safety",
+    "config": "mid_temp",
+    "stratum": "safety/mid_temp",
+    "llm_scores": {
+      "unexpectedness": 2.0,
+      "cleverness": 5.0,
+      "amusement": 4.0,
+      "overall": 4.0
+    }
+  },
+  "hr034": {
+    "tier": "safety",
+    "config": "very_high_temp",
+    "stratum": "safety/very_high_temp",
+    "llm_scores": {
+      "unexpectedness": 9.0,
+      "cleverness": 6.0,
+      "amusement": 7.0,
+      "overall": 7.0
+    }
+  },
+  "hr035": {
+    "tier": "instruct",
+    "config": "mid_temp",
+    "stratum": "instruct/mid_temp",
+    "llm_scores": {
+      "unexpectedness": 8.0,
+      "cleverness": 9.0,
+      "amusement": 8.0,
+      "overall": 8.0
+    }
+  },
+  "hr036": {
+    "tier": "instruct",
+    "config": "default",
+    "stratum": "instruct/default",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 9.0,
+      "amusement": 8.0,
+      "overall": 8.0
+    }
+  },
+  "hr037": {
+    "tier": "safety",
+    "config": "narrow_nucleus",
+    "stratum": "safety/narrow_nucleus",
+    "llm_scores": {
+      "unexpectedness": 2.0,
+      "cleverness": 5.0,
+      "amusement": 4.0,
+      "overall": 4.0
+    }
+  },
+  "hr038": {
+    "tier": "safety",
+    "config": "low_temp",
+    "stratum": "safety/low_temp",
+    "llm_scores": {
+      "unexpectedness": 6.0,
+      "cleverness": 5.0,
+      "amusement": 4.0,
+      "overall": 5.0
+    }
+  },
+  "hr039": {
+    "tier": "base",
+    "config": "high_temp",
+    "stratum": "base/high_temp",
+    "llm_scores": {
+      "unexpectedness": 1.0,
+      "cleverness": 1.0,
+      "amusement": 1.0,
+      "overall": 1.0
+    }
+  },
+  "hr040": {
+    "tier": "corpus",
+    "config": "one_liner",
+    "stratum": "corpus/one_liner",
+    "llm_scores": {
+      "unexpectedness": 8.0,
+      "cleverness": 7.0,
+      "amusement": 9.0,
+      "overall": 8.0
+    }
+  },
+  "hr041": {
+    "tier": "base",
+    "config": "wide_nucleus",
+    "stratum": "base/wide_nucleus",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 8.0,
+      "amusement": 6.0,
+      "overall": 7.0
+    }
+  },
+  "hr042": {
+    "tier": "instruct",
+    "config": "wide_nucleus",
+    "stratum": "instruct/wide_nucleus",
+    "llm_scores": {
+      "unexpectedness": 5.0,
+      "cleverness": 7.0,
+      "amusement": 6.0,
+      "overall": 6.0
+    }
+  },
+  "hr043": {
+    "tier": "base",
+    "config": "narrow_nucleus",
+    "stratum": "base/narrow_nucleus",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 8.0,
+      "amusement": 7.0,
+      "overall": 7.0
+    }
+  },
+  "hr044": {
+    "tier": "instruct",
+    "config": "wide_nucleus",
+    "stratum": "instruct/wide_nucleus",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 8.0,
+      "amusement": 7.0,
+      "overall": 7.0
+    }
+  },
+  "hr045": {
+    "tier": "safety",
+    "config": "low_temp",
+    "stratum": "safety/low_temp",
+    "llm_scores": {
+      "unexpectedness": 3.0,
+      "cleverness": 2.0,
+      "amusement": 1.0,
+      "overall": 2.0
+    }
+  },
+  "hr046": {
+    "tier": "safety",
+    "config": "high_temp",
+    "stratum": "safety/high_temp",
+    "llm_scores": {
+      "unexpectedness": 2.0,
+      "cleverness": 1.0,
+      "amusement": 1.0,
+      "overall": 1.0
+    }
+  },
+  "hr047": {
+    "tier": "safety",
+    "config": "narrow_nucleus",
+    "stratum": "safety/narrow_nucleus",
+    "llm_scores": {
+      "unexpectedness": 6.0,
+      "cleverness": 5.0,
+      "amusement": 4.0,
+      "overall": 5.0
+    }
+  },
+  "hr048": {
+    "tier": "base",
+    "config": "mid_temp",
+    "stratum": "base/mid_temp",
+    "llm_scores": {
+      "unexpectedness": 6.0,
+      "cleverness": 7.0,
+      "amusement": 6.0,
+      "overall": 6.0
+    }
+  },
+  "hr049": {
+    "tier": "corpus",
+    "config": "r_jokes",
+    "stratum": "corpus/r_jokes",
+    "llm_scores": {
+      "unexpectedness": 6.0,
+      "cleverness": 7.0,
+      "amusement": 6.0,
+      "overall": 7.0
+    }
+  },
+  "hr050": {
+    "tier": "base",
+    "config": "mid_temp",
+    "stratum": "base/mid_temp",
+    "llm_scores": {
+      "unexpectedness": 3.0,
+      "cleverness": 2.0,
+      "amusement": 2.0,
+      "overall": 2.0
+    }
+  },
+  "hr051": {
+    "tier": "base",
+    "config": "narrow_nucleus",
+    "stratum": "base/narrow_nucleus",
+    "llm_scores": {
+      "unexpectedness": 2.0,
+      "cleverness": 1.0,
+      "amusement": 1.0,
+      "overall": 1.0
+    }
+  },
+  "hr052": {
+    "tier": "instruct",
+    "config": "low_temp",
+    "stratum": "instruct/low_temp",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 9.0,
+      "amusement": 8.0,
+      "overall": 8.0
+    }
+  },
+  "hr053": {
+    "tier": "instruct",
+    "config": "low_temp",
+    "stratum": "instruct/low_temp",
+    "llm_scores": {
+      "unexpectedness": 6.0,
+      "cleverness": 7.0,
+      "amusement": 6.0,
+      "overall": 6.0
+    }
+  },
+  "hr054": {
+    "tier": "safety",
+    "config": "very_high_temp",
+    "stratum": "safety/very_high_temp",
+    "llm_scores": {
+      "unexpectedness": 6.0,
+      "cleverness": 5.0,
+      "amusement": 4.0,
+      "overall": 5.0
+    }
+  },
+  "hr055": {
+    "tier": "corpus",
+    "config": "r_jokes",
+    "stratum": "corpus/r_jokes",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 5.0,
+      "amusement": 6.0,
+      "overall": 6.0
+    }
+  },
+  "hr056": {
+    "tier": "instruct",
+    "config": "very_high_temp",
+    "stratum": "instruct/very_high_temp",
+    "llm_scores": {
+      "unexpectedness": 8.0,
+      "cleverness": 7.0,
+      "amusement": 6.0,
+      "overall": 7.0
+    }
+  },
+  "hr057": {
+    "tier": "instruct",
+    "config": "low_temp",
+    "stratum": "instruct/low_temp",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 8.0,
+      "amusement": 7.0,
+      "overall": 7.0
+    }
+  },
+  "hr058": {
+    "tier": "safety",
+    "config": "default",
+    "stratum": "safety/default",
+    "llm_scores": {
+      "unexpectedness": 1.0,
+      "cleverness": 1.0,
+      "amusement": 1.0,
+      "overall": 1.0
+    }
+  },
+  "hr059": {
+    "tier": "corpus",
+    "config": "one_liner",
+    "stratum": "corpus/one_liner",
+    "llm_scores": {
+      "unexpectedness": 8.0,
+      "cleverness": 7.0,
+      "amusement": 7.0,
+      "overall": 7.0
+    }
+  },
+  "hr060": {
+    "tier": "instruct",
+    "config": "wide_nucleus",
+    "stratum": "instruct/wide_nucleus",
+    "llm_scores": {
+      "unexpectedness": 6.0,
+      "cleverness": 7.0,
+      "amusement": 7.0,
+      "overall": 7.0
+    }
+  },
+  "hr061": {
+    "tier": "base",
+    "config": "high_temp",
+    "stratum": "base/high_temp",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 6.0,
+      "amusement": 7.0,
+      "overall": 7.0
+    }
+  },
+  "hr062": {
+    "tier": "instruct",
+    "config": "mid_temp",
+    "stratum": "instruct/mid_temp",
+    "llm_scores": {
+      "unexpectedness": 8.0,
+      "cleverness": 9.0,
+      "amusement": 8.0,
+      "overall": 8.0
+    }
+  },
+  "hr063": {
+    "tier": "safety",
+    "config": "wide_nucleus",
+    "stratum": "safety/wide_nucleus",
+    "llm_scores": {
+      "unexpectedness": 6.0,
+      "cleverness": 5.0,
+      "amusement": 4.0,
+      "overall": 5.0
+    }
+  },
+  "hr064": {
+    "tier": "safety",
+    "config": "low_temp",
+    "stratum": "safety/low_temp",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 5.0,
+      "amusement": 6.0,
+      "overall": 6.0
+    }
+  },
+  "hr065": {
+    "tier": "safety",
+    "config": "low_temp",
+    "stratum": "safety/low_temp",
+    "llm_scores": {
+      "unexpectedness": 1.0,
+      "cleverness": 1.0,
+      "amusement": 1.0,
+      "overall": 1.0
+    }
+  },
+  "hr066": {
+    "tier": "instruct",
+    "config": "very_high_temp",
+    "stratum": "instruct/very_high_temp",
+    "llm_scores": {
+      "unexpectedness": 6.0,
+      "cleverness": 7.0,
+      "amusement": 5.0,
+      "overall": 6.0
+    }
+  },
+  "hr067": {
+    "tier": "instruct",
+    "config": "low_temp",
+    "stratum": "instruct/low_temp",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 9.0,
+      "amusement": 8.0,
+      "overall": 8.0
+    }
+  },
+  "hr068": {
+    "tier": "instruct",
+    "config": "high_temp",
+    "stratum": "instruct/high_temp",
+    "llm_scores": {
+      "unexpectedness": 6.0,
+      "cleverness": 7.0,
+      "amusement": 7.0,
+      "overall": 7.0
+    }
+  },
+  "hr069": {
+    "tier": "safety",
+    "config": "very_high_temp",
+    "stratum": "safety/very_high_temp",
+    "llm_scores": {
+      "unexpectedness": 2.0,
+      "cleverness": 5.0,
+      "amusement": 4.0,
+      "overall": 4.0
+    }
+  },
+  "hr070": {
+    "tier": "corpus",
+    "config": "r_jokes",
+    "stratum": "corpus/r_jokes",
+    "llm_scores": {
+      "unexpectedness": 10.0,
+      "cleverness": 1.0,
+      "amusement": 1.0,
+      "overall": 1.0
+    }
+  },
+  "hr071": {
+    "tier": "corpus",
+    "config": "r_jokes",
+    "stratum": "corpus/r_jokes",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 5.0,
+      "amusement": 6.0,
+      "overall": 6.0
+    }
+  },
+  "hr072": {
+    "tier": "base",
+    "config": "very_high_temp",
+    "stratum": "base/very_high_temp",
+    "llm_scores": {
+      "unexpectedness": 2.0,
+      "cleverness": 1.0,
+      "amusement": 1.0,
+      "overall": 1.0
+    }
+  },
+  "hr073": {
+    "tier": "corpus",
+    "config": "r_jokes",
+    "stratum": "corpus/r_jokes",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 6.0,
+      "amusement": 7.0,
+      "overall": 7.0
+    }
+  },
+  "hr074": {
+    "tier": "corpus",
+    "config": "one_liner",
+    "stratum": "corpus/one_liner",
+    "llm_scores": {
+      "unexpectedness": 9.0,
+      "cleverness": 7.0,
+      "amusement": 8.0,
+      "overall": 8.0
+    }
+  },
+  "hr075": {
+    "tier": "instruct",
+    "config": "high_temp",
+    "stratum": "instruct/high_temp",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 8.0,
+      "amusement": 7.0,
+      "overall": 7.0
+    }
+  },
+  "hr076": {
+    "tier": "safety",
+    "config": "high_temp",
+    "stratum": "safety/high_temp",
+    "llm_scores": {
+      "unexpectedness": 6.0,
+      "cleverness": 7.0,
+      "amusement": 7.0,
+      "overall": 7.0
+    }
+  },
+  "hr077": {
+    "tier": "base",
+    "config": "very_high_temp",
+    "stratum": "base/very_high_temp",
+    "llm_scores": {
+      "unexpectedness": 6.0,
+      "cleverness": 7.0,
+      "amusement": 6.0,
+      "overall": 6.0
+    }
+  },
+  "hr078": {
+    "tier": "base",
+    "config": "wide_nucleus",
+    "stratum": "base/wide_nucleus",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 6.0,
+      "amusement": 5.0,
+      "overall": 6.0
+    }
+  },
+  "hr079": {
+    "tier": "safety",
+    "config": "low_temp",
+    "stratum": "safety/low_temp",
+    "llm_scores": {
+      "unexpectedness": 1.0,
+      "cleverness": 2.0,
+      "amusement": 1.0,
+      "overall": 1.0
+    }
+  },
+  "hr080": {
+    "tier": "instruct",
+    "config": "very_high_temp",
+    "stratum": "instruct/very_high_temp",
+    "llm_scores": {
+      "unexpectedness": 6.0,
+      "cleverness": 7.0,
+      "amusement": 7.0,
+      "overall": 7.0
+    }
+  },
+  "hr081": {
+    "tier": "safety",
+    "config": "mid_temp",
+    "stratum": "safety/mid_temp",
+    "llm_scores": {
+      "unexpectedness": 3.0,
+      "cleverness": 2.0,
+      "amusement": 1.0,
+      "overall": 2.0
+    }
+  },
+  "hr082": {
+    "tier": "safety",
+    "config": "very_high_temp",
+    "stratum": "safety/very_high_temp",
+    "llm_scores": {
+      "unexpectedness": 1.0,
+      "cleverness": 1.0,
+      "amusement": 1.0,
+      "overall": 1.0
+    }
+  },
+  "hr083": {
+    "tier": "base",
+    "config": "very_high_temp",
+    "stratum": "base/very_high_temp",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 5.0,
+      "amusement": 6.0,
+      "overall": 6.0
+    }
+  },
+  "hr084": {
+    "tier": "safety",
+    "config": "narrow_nucleus",
+    "stratum": "safety/narrow_nucleus",
+    "llm_scores": {
+      "unexpectedness": 1.0,
+      "cleverness": 1.0,
+      "amusement": 1.0,
+      "overall": 1.0
+    }
+  },
+  "hr085": {
+    "tier": "safety",
+    "config": "narrow_nucleus",
+    "stratum": "safety/narrow_nucleus",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 5.0,
+      "amusement": 4.0,
+      "overall": 5.0
+    }
+  },
+  "hr086": {
+    "tier": "safety",
+    "config": "high_temp",
+    "stratum": "safety/high_temp",
+    "llm_scores": {
+      "unexpectedness": 1.0,
+      "cleverness": 1.0,
+      "amusement": 1.0,
+      "overall": 1.0
+    }
+  },
+  "hr087": {
+    "tier": "base",
+    "config": "wide_nucleus",
+    "stratum": "base/wide_nucleus",
+    "llm_scores": {
+      "unexpectedness": 1.0,
+      "cleverness": 1.0,
+      "amusement": 1.0,
+      "overall": 1.0
+    }
+  },
+  "hr088": {
+    "tier": "base",
+    "config": "default",
+    "stratum": "base/default",
+    "llm_scores": {
+      "unexpectedness": 8.0,
+      "cleverness": 7.0,
+      "amusement": 6.0,
+      "overall": 7.0
+    }
+  },
+  "hr089": {
+    "tier": "instruct",
+    "config": "mid_temp",
+    "stratum": "instruct/mid_temp",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 9.0,
+      "amusement": 8.0,
+      "overall": 8.0
+    }
+  },
+  "hr090": {
+    "tier": "instruct",
+    "config": "narrow_nucleus",
+    "stratum": "instruct/narrow_nucleus",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 8.0,
+      "amusement": 7.0,
+      "overall": 7.0
+    }
+  },
+  "hr091": {
+    "tier": "corpus",
+    "config": "r_jokes",
+    "stratum": "corpus/r_jokes",
+    "llm_scores": {
+      "unexpectedness": 6.0,
+      "cleverness": 5.0,
+      "amusement": 4.0,
+      "overall": 5.0
+    }
+  },
+  "hr092": {
+    "tier": "base",
+    "config": "very_high_temp",
+    "stratum": "base/very_high_temp",
+    "llm_scores": {
+      "unexpectedness": 1.0,
+      "cleverness": 1.0,
+      "amusement": 1.0,
+      "overall": 1.0
+    }
+  },
+  "hr093": {
+    "tier": "base",
+    "config": "high_temp",
+    "stratum": "base/high_temp",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 6.0,
+      "amusement": 5.0,
+      "overall": 6.0
+    }
+  },
+  "hr094": {
+    "tier": "corpus",
+    "config": "one_liner",
+    "stratum": "corpus/one_liner",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 6.0,
+      "amusement": 7.0,
+      "overall": 7.0
+    }
+  },
+  "hr095": {
+    "tier": "safety",
+    "config": "mid_temp",
+    "stratum": "safety/mid_temp",
+    "llm_scores": {
+      "unexpectedness": 2.0,
+      "cleverness": 5.0,
+      "amusement": 6.0,
+      "overall": 5.0
+    }
+  },
+  "hr096": {
+    "tier": "corpus",
+    "config": "r_jokes",
+    "stratum": "corpus/r_jokes",
+    "llm_scores": {
+      "unexpectedness": 3.0,
+      "cleverness": 5.0,
+      "amusement": 6.0,
+      "overall": 5.0
+    }
+  },
+  "hr097": {
+    "tier": "instruct",
+    "config": "very_high_temp",
+    "stratum": "instruct/very_high_temp",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 9.0,
+      "amusement": 8.0,
+      "overall": 8.0
+    }
+  },
+  "hr098": {
+    "tier": "safety",
+    "config": "high_temp",
+    "stratum": "safety/high_temp",
+    "llm_scores": {
+      "unexpectedness": 3.0,
+      "cleverness": 2.0,
+      "amusement": 1.0,
+      "overall": 2.0
+    }
+  },
+  "hr099": {
+    "tier": "safety",
+    "config": "default",
+    "stratum": "safety/default",
+    "llm_scores": {
+      "unexpectedness": 3.0,
+      "cleverness": 2.0,
+      "amusement": 2.0,
+      "overall": 2.0
+    }
+  },
+  "hr100": {
+    "tier": "instruct",
+    "config": "low_temp",
+    "stratum": "instruct/low_temp",
+    "llm_scores": {
+      "unexpectedness": 6.0,
+      "cleverness": 7.0,
+      "amusement": 7.0,
+      "overall": 7.0
+    }
+  },
+  "hr101": {
+    "tier": "instruct",
+    "config": "high_temp",
+    "stratum": "instruct/high_temp",
+    "llm_scores": {
+      "unexpectedness": 3.0,
+      "cleverness": 4.0,
+      "amusement": 2.0,
+      "overall": 3.0
+    }
+  },
+  "hr102": {
+    "tier": "safety",
+    "config": "mid_temp",
+    "stratum": "safety/mid_temp",
+    "llm_scores": {
+      "unexpectedness": 2.0,
+      "cleverness": 5.0,
+      "amusement": 7.0,
+      "overall": 6.0
+    }
+  },
+  "hr103": {
+    "tier": "base",
+    "config": "default",
+    "stratum": "base/default",
+    "llm_scores": {
+      "unexpectedness": 6.0,
+      "cleverness": 5.0,
+      "amusement": 4.0,
+      "overall": 5.0
+    }
+  },
+  "hr104": {
+    "tier": "safety",
+    "config": "default",
+    "stratum": "safety/default",
+    "llm_scores": {
+      "unexpectedness": 1.0,
+      "cleverness": 2.0,
+      "amusement": 1.0,
+      "overall": 1.0
+    }
+  },
+  "hr105": {
+    "tier": "base",
+    "config": "mid_temp",
+    "stratum": "base/mid_temp",
+    "llm_scores": {
+      "unexpectedness": 8.0,
+      "cleverness": 7.0,
+      "amusement": 6.0,
+      "overall": 7.0
+    }
+  },
+  "hr106": {
+    "tier": "instruct",
+    "config": "high_temp",
+    "stratum": "instruct/high_temp",
+    "llm_scores": {
+      "unexpectedness": 6.0,
+      "cleverness": 7.0,
+      "amusement": 6.0,
+      "overall": 6.0
+    }
+  },
+  "hr107": {
+    "tier": "base",
+    "config": "wide_nucleus",
+    "stratum": "base/wide_nucleus",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 6.0,
+      "amusement": 7.0,
+      "overall": 7.0
+    }
+  },
+  "hr108": {
+    "tier": "corpus",
+    "config": "one_liner",
+    "stratum": "corpus/one_liner",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 6.0,
+      "amusement": 8.0,
+      "overall": 7.0
+    }
+  },
+  "hr109": {
+    "tier": "base",
+    "config": "high_temp",
+    "stratum": "base/high_temp",
+    "llm_scores": {
+      "unexpectedness": 3.0,
+      "cleverness": 2.0,
+      "amusement": 2.0,
+      "overall": 2.0
+    }
+  },
+  "hr110": {
+    "tier": "instruct",
+    "config": "high_temp",
+    "stratum": "instruct/high_temp",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 8.0,
+      "amusement": 7.0,
+      "overall": 7.0
+    }
+  },
+  "hr111": {
+    "tier": "instruct",
+    "config": "mid_temp",
+    "stratum": "instruct/mid_temp",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 9.0,
+      "amusement": 8.0,
+      "overall": 8.0
+    }
+  },
+  "hr112": {
+    "tier": "safety",
+    "config": "default",
+    "stratum": "safety/default",
+    "llm_scores": {
+      "unexpectedness": 1.0,
+      "cleverness": 1.0,
+      "amusement": 1.0,
+      "overall": 1.0
+    }
+  },
+  "hr113": {
+    "tier": "instruct",
+    "config": "narrow_nucleus",
+    "stratum": "instruct/narrow_nucleus",
+    "llm_scores": {
+      "unexpectedness": 7.0,
+      "cleverness": 8.0,
+      "amusement": 7.0,
+      "overall": 7.0
+    }
+  },
+  "hr114": {
+    "tier": "base",
+    "config": "narrow_nucleus",
+    "stratum": "base/narrow_nucleus",
+    "llm_scores": {
+      "unexpectedness": 1.0,
+      "cleverness": 1.0,
+      "amusement": 1.0,
+      "overall": 1.0
+    }
+  },
+  "hr115": {
+    "tier": "safety",
+    "config": "wide_nucleus",
+    "stratum": "safety/wide_nucleus",
+    "llm_scores": {
+      "unexpectedness": 2.0,
+      "cleverness": 5.0,
+      "amusement": 4.0,
+      "overall": 4.0
+    }
+  },
+  "hr116": {
+    "tier": "base",
+    "config": "mid_temp",
+    "stratum": "base/mid_temp",
+    "llm_scores": {
+      "unexpectedness": 3.0,
+      "cleverness": 2.0,
+      "amusement": 2.0,
+      "overall": 2.0
+    }
+  },
+  "hr117": {
+    "tier": "safety",
+    "config": "very_high_temp",
+    "stratum": "safety/very_high_temp",
+    "llm_scores": {
+      "unexpectedness": 6.0,
+      "cleverness": 5.0,
+      "amusement": 4.0,
+      "overall": 5.0
+    }
+  },
+  "hr118": {
+    "tier": "base",
+    "config": "default",
+    "stratum": "base/default",
+    "llm_scores": {
+      "unexpectedness": 3.0,
+      "cleverness": 2.0,
+      "amusement": 2.0,
+      "overall": 2.0
+    }
+  },
+  "hr119": {
+    "tier": "safety",
+    "config": "high_temp",
+    "stratum": "safety/high_temp",
+    "llm_scores": {
+      "unexpectedness": 1.0,
+      "cleverness": 5.0,
+      "amusement": 2.0,
+      "overall": 3.0
+    }
+  }
+}

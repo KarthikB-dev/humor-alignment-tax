@@ -1,0 +1,7002 @@
+[
+  {
+    "joke_id": "oogiri_37003a4b",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 48
+  },
+  {
+    "joke_id": "oogiri_14fd7d43",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 33
+  },
+  {
+    "joke_id": "oogiri_c4ae85fe",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 92
+  },
+  {
+    "joke_id": "oogiri_35547482",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 45
+  },
+  {
+    "joke_id": "oogiri_965360db",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 12
+  },
+  {
+    "joke_id": "oogiri_46c65376",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 7
+  },
+  {
+    "joke_id": "oogiri_6ba4c2b1",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 12
+  },
+  {
+    "joke_id": "oogiri_b6085c0d",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 24
+  },
+  {
+    "joke_id": "oogiri_661550de",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 9
+  },
+  {
+    "joke_id": "oogiri_c0807220",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 9
+  },
+  {
+    "joke_id": "oogiri_19f2a7dc",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 24
+  },
+  {
+    "joke_id": "oogiri_3ec39018",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 20
+  },
+  {
+    "joke_id": "oogiri_5ef0a621",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 32,
+    "punchline_len": 30
+  },
+  {
+    "joke_id": "oogiri_14893f60",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 61
+  },
+  {
+    "joke_id": "oogiri_2a820132",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 5
+  },
+  {
+    "joke_id": "oogiri_e83496f6",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 129
+  },
+  {
+    "joke_id": "oogiri_6264eaf5",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 14
+  },
+  {
+    "joke_id": "oogiri_a6e754c8",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 10
+  },
+  {
+    "joke_id": "oogiri_5cf3ba47",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 8,
+    "punchline_len": 6
+  },
+  {
+    "joke_id": "oogiri_b846806b",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 29
+  },
+  {
+    "joke_id": "oogiri_0c953b36",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 5
+  },
+  {
+    "joke_id": "oogiri_6faa5928",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 13
+  },
+  {
+    "joke_id": "oogiri_31613bf2",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 10
+  },
+  {
+    "joke_id": "oogiri_01c97f6a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 9
+  },
+  {
+    "joke_id": "oogiri_f4d4c1ae",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 8
+  },
+  {
+    "joke_id": "oogiri_11d4ba37",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 21
+  },
+  {
+    "joke_id": "oogiri_7be43ab9",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 45
+  },
+  {
+    "joke_id": "oogiri_094c889f",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 2
+  },
+  {
+    "joke_id": "oogiri_9bdf51ab",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 24
+  },
+  {
+    "joke_id": "oogiri_1a307948",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 10
+  },
+  {
+    "joke_id": "oogiri_87ae2b47",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 12
+  },
+  {
+    "joke_id": "oogiri_9152b9d2",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 180
+  },
+  {
+    "joke_id": "oogiri_e23f5705",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 43,
+    "punchline_len": 10
+  },
+  {
+    "joke_id": "oogiri_2c80d5be",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 20
+  },
+  {
+    "joke_id": "oogiri_9306d343",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 4
+  },
+  {
+    "joke_id": "oogiri_e3b2e567",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 100
+  },
+  {
+    "joke_id": "oogiri_2122df35",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 6
+  },
+  {
+    "joke_id": "oogiri_549a3bd4",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 4
+  },
+  {
+    "joke_id": "oogiri_f223be7d",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 40
+  },
+  {
+    "joke_id": "oogiri_3678dc22",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 6
+  },
+  {
+    "joke_id": "oogiri_ac5aa779",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 4
+  },
+  {
+    "joke_id": "oogiri_e2b42e68",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 89
+  },
+  {
+    "joke_id": "oogiri_b8ef30a4",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 11
+  },
+  {
+    "joke_id": "oogiri_f52bb7c2",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 93
+  },
+  {
+    "joke_id": "oogiri_c4dfcc3d",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 19
+  },
+  {
+    "joke_id": "oogiri_b398fc1a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 178
+  },
+  {
+    "joke_id": "oogiri_e8b54cde",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 14
+  },
+  {
+    "joke_id": "oogiri_1caa0217",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 380
+  },
+  {
+    "joke_id": "oogiri_4bc41ac5",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 10
+  },
+  {
+    "joke_id": "oogiri_3ddf14fd",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 6
+  },
+  {
+    "joke_id": "oogiri_ec79b444",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 31,
+    "punchline_len": 42
+  },
+  {
+    "joke_id": "oogiri_1e8a2d41",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 19
+  },
+  {
+    "joke_id": "oogiri_a7958c4a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 37
+  },
+  {
+    "joke_id": "oogiri_e044718b",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 9,
+    "punchline_len": 19
+  },
+  {
+    "joke_id": "oogiri_8c452f15",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 36,
+    "punchline_len": 7
+  },
+  {
+    "joke_id": "oogiri_16db1be0",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 25
+  },
+  {
+    "joke_id": "oogiri_2ba8e372",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 50,
+    "punchline_len": 74
+  },
+  {
+    "joke_id": "oogiri_e466d06e",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 15
+  },
+  {
+    "joke_id": "oogiri_a10f484b",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 117
+  },
+  {
+    "joke_id": "oogiri_e1519237",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 12
+  },
+  {
+    "joke_id": "oogiri_67fb343c",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 13
+  },
+  {
+    "joke_id": "oogiri_79f6ab30",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 31,
+    "punchline_len": 50
+  },
+  {
+    "joke_id": "oogiri_bd8189bf",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 4
+  },
+  {
+    "joke_id": "oogiri_9a2aaca7",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 11
+  },
+  {
+    "joke_id": "oogiri_ffafffaa",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 17
+  },
+  {
+    "joke_id": "oogiri_aa74c5d6",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 47,
+    "punchline_len": 143
+  },
+  {
+    "joke_id": "oogiri_516591dd",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 14
+  },
+  {
+    "joke_id": "oogiri_10f0291b",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 80
+  },
+  {
+    "joke_id": "oogiri_8316417d",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 7
+  },
+  {
+    "joke_id": "oogiri_cc3e4d1a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 297
+  },
+  {
+    "joke_id": "oogiri_979cde33",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 133
+  },
+  {
+    "joke_id": "oogiri_1111026a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 176
+  },
+  {
+    "joke_id": "oogiri_12ad017c",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 14
+  },
+  {
+    "joke_id": "oogiri_aa9eb39c",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 33
+  },
+  {
+    "joke_id": "oogiri_5f166c22",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 5,
+    "punchline_len": 13
+  },
+  {
+    "joke_id": "oogiri_df4ee71f",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 23
+  },
+  {
+    "joke_id": "oogiri_cab75bf0",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 5
+  },
+  {
+    "joke_id": "oogiri_7c9c91bb",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 24
+  },
+  {
+    "joke_id": "oogiri_b9add1d1",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 8,
+    "punchline_len": 25
+  },
+  {
+    "joke_id": "oogiri_b1c454d5",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 28,
+    "punchline_len": 57
+  },
+  {
+    "joke_id": "oogiri_d13abc3a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 8
+  },
+  {
+    "joke_id": "oogiri_d523ca91",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 22
+  },
+  {
+    "joke_id": "oogiri_186bafc0",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 87
+  },
+  {
+    "joke_id": "oogiri_51af2f7e",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 42,
+    "punchline_len": 36
+  },
+  {
+    "joke_id": "oogiri_b7408e3b",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 31,
+    "punchline_len": 145
+  },
+  {
+    "joke_id": "oogiri_d6d1d889",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 178
+  },
+  {
+    "joke_id": "oogiri_e1d2ef3e",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 20
+  },
+  {
+    "joke_id": "oogiri_60ffe91e",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 5
+  },
+  {
+    "joke_id": "oogiri_ae9a5cfe",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 8
+  },
+  {
+    "joke_id": "oogiri_9a08fd17",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 15
+  },
+  {
+    "joke_id": "oogiri_ea6f9ff2",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 45
+  },
+  {
+    "joke_id": "oogiri_def03275",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 15
+  },
+  {
+    "joke_id": "oogiri_2bd81880",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 309
+  },
+  {
+    "joke_id": "oogiri_73421a6a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 19
+  },
+  {
+    "joke_id": "oogiri_5b3e9728",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 55
+  },
+  {
+    "joke_id": "oogiri_b6f98f29",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 12
+  },
+  {
+    "joke_id": "oogiri_afc11dd2",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 16
+  },
+  {
+    "joke_id": "oogiri_63da811c",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 4
+  },
+  {
+    "joke_id": "oogiri_8a6e6ad5",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 38,
+    "punchline_len": 10
+  },
+  {
+    "joke_id": "oogiri_74827db5",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 15
+  },
+  {
+    "joke_id": "oogiri_3ba9b164",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 30
+  },
+  {
+    "joke_id": "oogiri_8ed58caa",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 41,
+    "punchline_len": 6
+  },
+  {
+    "joke_id": "oogiri_b9146b8d",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 7
+  },
+  {
+    "joke_id": "oogiri_8232670d",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 9
+  },
+  {
+    "joke_id": "oogiri_5d557eb6",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 2
+  },
+  {
+    "joke_id": "oogiri_0c44096e",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 53
+  },
+  {
+    "joke_id": "oogiri_87769c9a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 13
+  },
+  {
+    "joke_id": "oogiri_3b82831b",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 35,
+    "punchline_len": 17
+  },
+  {
+    "joke_id": "oogiri_2e8a94ad",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 23
+  },
+  {
+    "joke_id": "oogiri_79f2e4f9",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 41,
+    "punchline_len": 89
+  },
+  {
+    "joke_id": "oogiri_86f72eb5",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 7
+  },
+  {
+    "joke_id": "oogiri_2bcf14f6",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 7,
+    "punchline_len": 7
+  },
+  {
+    "joke_id": "oogiri_f78beb1c",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 6
+  },
+  {
+    "joke_id": "oogiri_928d2b45",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 36,
+    "punchline_len": 36
+  },
+  {
+    "joke_id": "oogiri_7c6c8741",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 37,
+    "punchline_len": 22
+  },
+  {
+    "joke_id": "oogiri_9a426b5e",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 20
+  },
+  {
+    "joke_id": "oogiri_fe1664ee",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 27
+  },
+  {
+    "joke_id": "oogiri_fa49fd1a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 29
+  },
+  {
+    "joke_id": "oogiri_8c0bd1ce",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 197
+  },
+  {
+    "joke_id": "oogiri_2d24106f",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 19
+  },
+  {
+    "joke_id": "oogiri_576a86ee",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 5
+  },
+  {
+    "joke_id": "oogiri_9f84d6e0",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 31,
+    "punchline_len": 29
+  },
+  {
+    "joke_id": "oogiri_91085795",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 145
+  },
+  {
+    "joke_id": "oogiri_aa0a2c1a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 22
+  },
+  {
+    "joke_id": "oogiri_243fc6a9",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 14
+  },
+  {
+    "joke_id": "oogiri_a5687901",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 70
+  },
+  {
+    "joke_id": "oogiri_c68ca8a4",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 28,
+    "punchline_len": 261
+  },
+  {
+    "joke_id": "oogiri_fb135ac4",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 41,
+    "punchline_len": 22
+  },
+  {
+    "joke_id": "oogiri_aa1a2b59",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 41
+  },
+  {
+    "joke_id": "oogiri_ff757b0b",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 57
+  },
+  {
+    "joke_id": "oogiri_6b212133",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 3
+  },
+  {
+    "joke_id": "oogiri_df66e8f3",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 12
+  },
+  {
+    "joke_id": "oogiri_ef5de74e",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 13
+  },
+  {
+    "joke_id": "oogiri_798232ae",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 9,
+    "punchline_len": 22
+  },
+  {
+    "joke_id": "oogiri_50ea0886",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 296
+  },
+  {
+    "joke_id": "oogiri_9f2e95b6",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 261
+  },
+  {
+    "joke_id": "oogiri_cff40b1e",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 86
+  },
+  {
+    "joke_id": "oogiri_5f9ea4bb",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 28
+  },
+  {
+    "joke_id": "oogiri_742dcc27",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 59
+  },
+  {
+    "joke_id": "oogiri_ebef34e6",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 8,
+    "punchline_len": 46
+  },
+  {
+    "joke_id": "oogiri_98111b0e",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 128
+  },
+  {
+    "joke_id": "oogiri_9bf86f08",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 70
+  },
+  {
+    "joke_id": "oogiri_cef6da5a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 36
+  },
+  {
+    "joke_id": "oogiri_466ef329",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 7,
+    "punchline_len": 4
+  },
+  {
+    "joke_id": "oogiri_f3522cc1",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 5
+  },
+  {
+    "joke_id": "oogiri_f6d8876b",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 38
+  },
+  {
+    "joke_id": "oogiri_be46c9d6",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 9
+  },
+  {
+    "joke_id": "oogiri_1f32132a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 140
+  },
+  {
+    "joke_id": "oogiri_1d7c0118",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 5
+  },
+  {
+    "joke_id": "oogiri_7e78296e",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 28,
+    "punchline_len": 19
+  },
+  {
+    "joke_id": "oogiri_36464506",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 48
+  },
+  {
+    "joke_id": "oogiri_b4bc9a7d",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 51
+  },
+  {
+    "joke_id": "oogiri_fa80ad25",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 3
+  },
+  {
+    "joke_id": "oogiri_030529ef",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 22
+  },
+  {
+    "joke_id": "oogiri_f415f6dc",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 9,
+    "punchline_len": 19
+  },
+  {
+    "joke_id": "oogiri_414cd039",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 18
+  },
+  {
+    "joke_id": "oogiri_b70267f0",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 22
+  },
+  {
+    "joke_id": "oogiri_d08042c5",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 51
+  },
+  {
+    "joke_id": "oogiri_170021e1",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 167
+  },
+  {
+    "joke_id": "oogiri_b952d69c",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 9,
+    "punchline_len": 20
+  },
+  {
+    "joke_id": "oogiri_abb51c58",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 17
+  },
+  {
+    "joke_id": "oogiri_01e377ca",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 51,
+    "punchline_len": 31
+  },
+  {
+    "joke_id": "oogiri_9337b18b",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 13
+  },
+  {
+    "joke_id": "oogiri_6fa045f2",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 96
+  },
+  {
+    "joke_id": "oogiri_b8c7b00a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 111
+  },
+  {
+    "joke_id": "oogiri_58783d36",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 48
+  },
+  {
+    "joke_id": "oogiri_75f0d215",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 17
+  },
+  {
+    "joke_id": "oogiri_3064d533",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 41,
+    "punchline_len": 5
+  },
+  {
+    "joke_id": "oogiri_22c68186",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 8,
+    "punchline_len": 13
+  },
+  {
+    "joke_id": "oogiri_584a55e6",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 33,
+    "punchline_len": 10
+  },
+  {
+    "joke_id": "oogiri_35eda58a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 9,
+    "punchline_len": 32
+  },
+  {
+    "joke_id": "oogiri_e6dcbc9c",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 198
+  },
+  {
+    "joke_id": "oogiri_89911bd4",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 10
+  },
+  {
+    "joke_id": "oogiri_7ccf41e0",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 7
+  },
+  {
+    "joke_id": "oogiri_9b72caf1",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 156
+  },
+  {
+    "joke_id": "oogiri_157ce1b9",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 351
+  },
+  {
+    "joke_id": "oogiri_f972051f",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 4
+  },
+  {
+    "joke_id": "oogiri_e06cccd6",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 8
+  },
+  {
+    "joke_id": "oogiri_db5dfcce",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 19
+  },
+  {
+    "joke_id": "oogiri_918474a1",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 41
+  },
+  {
+    "joke_id": "oogiri_168c9abb",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 8,
+    "punchline_len": 16
+  },
+  {
+    "joke_id": "oogiri_6d7fb872",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 230
+  },
+  {
+    "joke_id": "oogiri_d66baebf",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 7
+  },
+  {
+    "joke_id": "oogiri_e216bab6",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 6,
+    "punchline_len": 32
+  },
+  {
+    "joke_id": "oogiri_a4f2fdf5",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 50,
+    "punchline_len": 55
+  },
+  {
+    "joke_id": "oogiri_20b2cf1d",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 31
+  },
+  {
+    "joke_id": "oogiri_657045b6",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 15
+  },
+  {
+    "joke_id": "oogiri_c1980a59",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 6
+  },
+  {
+    "joke_id": "oogiri_b78371ef",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 13
+  },
+  {
+    "joke_id": "oogiri_6626a140",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 178
+  },
+  {
+    "joke_id": "oogiri_b0019532",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 4
+  },
+  {
+    "joke_id": "oogiri_123a9b47",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 5
+  },
+  {
+    "joke_id": "oogiri_343c85b2",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 18
+  },
+  {
+    "joke_id": "oogiri_d4809036",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 9
+  },
+  {
+    "joke_id": "oogiri_20d23a47",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 15
+  },
+  {
+    "joke_id": "oogiri_adab0465",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 21
+  },
+  {
+    "joke_id": "oogiri_ce6cde86",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 5
+  },
+  {
+    "joke_id": "oogiri_99db3eb1",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 8
+  },
+  {
+    "joke_id": "oogiri_318be535",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 23
+  },
+  {
+    "joke_id": "oogiri_86ac009d",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 10
+  },
+  {
+    "joke_id": "oogiri_8eec9ac7",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 33,
+    "punchline_len": 9
+  },
+  {
+    "joke_id": "oogiri_bed39bb8",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 35
+  },
+  {
+    "joke_id": "oogiri_0dc38e6e",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 1
+  },
+  {
+    "joke_id": "oogiri_5eb5ca29",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 182
+  },
+  {
+    "joke_id": "oogiri_f9d72069",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 12
+  },
+  {
+    "joke_id": "oogiri_11af8117",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 90
+  },
+  {
+    "joke_id": "oogiri_b6357316",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 53
+  },
+  {
+    "joke_id": "oogiri_ae8b1a85",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 6
+  },
+  {
+    "joke_id": "oogiri_901e3e6b",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 12
+  },
+  {
+    "joke_id": "oogiri_d72f37cd",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 116
+  },
+  {
+    "joke_id": "oogiri_a6f42b59",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 22
+  },
+  {
+    "joke_id": "oogiri_ce424fe9",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 43,
+    "punchline_len": 128
+  },
+  {
+    "joke_id": "oogiri_6175864a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 48
+  },
+  {
+    "joke_id": "oogiri_7949d761",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 9
+  },
+  {
+    "joke_id": "oogiri_cd7ca05a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 17
+  },
+  {
+    "joke_id": "oogiri_35af00d0",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 100
+  },
+  {
+    "joke_id": "oogiri_63556108",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 46
+  },
+  {
+    "joke_id": "oogiri_281831e5",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 10
+  },
+  {
+    "joke_id": "oogiri_05661619",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 27
+  },
+  {
+    "joke_id": "oogiri_88194754",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 7,
+    "punchline_len": 13
+  },
+  {
+    "joke_id": "oogiri_17d7e545",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 35,
+    "punchline_len": 82
+  },
+  {
+    "joke_id": "oogiri_f689d3e8",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 19
+  },
+  {
+    "joke_id": "oogiri_094e57a4",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 306
+  },
+  {
+    "joke_id": "oogiri_2dbb78af",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 27
+  },
+  {
+    "joke_id": "oogiri_3ab28cb2",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 20
+  },
+  {
+    "joke_id": "oogiri_e70025b0",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 34,
+    "punchline_len": 30
+  },
+  {
+    "joke_id": "oogiri_609b4469",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 52
+  },
+  {
+    "joke_id": "oogiri_60b20fac",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 8
+  },
+  {
+    "joke_id": "oogiri_fbc27cde",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 9,
+    "punchline_len": 7
+  },
+  {
+    "joke_id": "oogiri_f91bb2e1",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 4,
+    "punchline_len": 41
+  },
+  {
+    "joke_id": "oogiri_a0971e32",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 11
+  },
+  {
+    "joke_id": "oogiri_f8531d8c",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 22
+  },
+  {
+    "joke_id": "oogiri_d8d028fe",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 18
+  },
+  {
+    "joke_id": "oogiri_c1194450",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 333
+  },
+  {
+    "joke_id": "oogiri_119b2e9b",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 10
+  },
+  {
+    "joke_id": "oogiri_44e2e3ab",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 62
+  },
+  {
+    "joke_id": "oogiri_2030f9bd",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 17
+  },
+  {
+    "joke_id": "oogiri_2d1801fb",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 8
+  },
+  {
+    "joke_id": "oogiri_c0cfd76c",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 44,
+    "punchline_len": 12
+  },
+  {
+    "joke_id": "oogiri_a8597355",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 44
+  },
+  {
+    "joke_id": "oogiri_922a5557",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 32,
+    "punchline_len": 15
+  },
+  {
+    "joke_id": "oogiri_f5699bfb",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 9,
+    "punchline_len": 22
+  },
+  {
+    "joke_id": "oogiri_679447d9",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 16
+  },
+  {
+    "joke_id": "oogiri_c2a2f7a0",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 20
+  },
+  {
+    "joke_id": "oogiri_f610d7fe",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 18
+  },
+  {
+    "joke_id": "oogiri_d78aa3a2",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 3
+  },
+  {
+    "joke_id": "oogiri_60d4d4b8",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 45
+  },
+  {
+    "joke_id": "oogiri_ef57e17d",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 4
+  },
+  {
+    "joke_id": "oogiri_9f1cf54a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 370
+  },
+  {
+    "joke_id": "oogiri_0e699941",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 8,
+    "punchline_len": 14
+  },
+  {
+    "joke_id": "oogiri_ac15c655",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 11
+  },
+  {
+    "joke_id": "oogiri_fff909b5",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 15
+  },
+  {
+    "joke_id": "oogiri_831b79a6",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 3
+  },
+  {
+    "joke_id": "oogiri_0705c42f",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 38,
+    "punchline_len": 17
+  },
+  {
+    "joke_id": "oogiri_600cb7e4",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 25
+  },
+  {
+    "joke_id": "oogiri_01247f54",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 4
+  },
+  {
+    "joke_id": "oogiri_4b99bdf6",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 9
+  },
+  {
+    "joke_id": "oogiri_ff4145f4",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 59
+  },
+  {
+    "joke_id": "oogiri_c7c298ce",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 7
+  },
+  {
+    "joke_id": "oogiri_9d8654fb",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 7
+  },
+  {
+    "joke_id": "oogiri_f96d12bf",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 4
+  },
+  {
+    "joke_id": "oogiri_cdc61b12",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 21
+  },
+  {
+    "joke_id": "oogiri_ee0978aa",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 28
+  },
+  {
+    "joke_id": "oogiri_b691d3f8",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 8
+  },
+  {
+    "joke_id": "oogiri_5b1ee13d",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 38,
+    "punchline_len": 11
+  },
+  {
+    "joke_id": "oogiri_b4b192e2",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 37,
+    "punchline_len": 24
+  },
+  {
+    "joke_id": "oogiri_dff66424",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 13
+  },
+  {
+    "joke_id": "oogiri_a779e595",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 18
+  },
+  {
+    "joke_id": "oogiri_0da642d5",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 50
+  },
+  {
+    "joke_id": "oogiri_e62caf00",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 9
+  },
+  {
+    "joke_id": "oogiri_a3184442",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 15
+  },
+  {
+    "joke_id": "oogiri_c94d5a41",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 7,
+    "punchline_len": 9
+  },
+  {
+    "joke_id": "oogiri_56eb3b96",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 9
+  },
+  {
+    "joke_id": "oogiri_77a1f758",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 15
+  },
+  {
+    "joke_id": "oogiri_9397da3d",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 18
+  },
+  {
+    "joke_id": "oogiri_6567a713",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 16
+  },
+  {
+    "joke_id": "oogiri_7b5f8462",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 8
+  },
+  {
+    "joke_id": "oogiri_5084e457",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 2
+  },
+  {
+    "joke_id": "oogiri_335ca9ff",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 14
+  },
+  {
+    "joke_id": "oogiri_30426a01",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 16
+  },
+  {
+    "joke_id": "oogiri_ab47bc6b",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 9
+  },
+  {
+    "joke_id": "oogiri_5703a743",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 45
+  },
+  {
+    "joke_id": "oogiri_afce309d",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 8,
+    "punchline_len": 18
+  },
+  {
+    "joke_id": "oogiri_1a8e51c6",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 138
+  },
+  {
+    "joke_id": "oogiri_56a91e5a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 18
+  },
+  {
+    "joke_id": "oogiri_7d28f805",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 118
+  },
+  {
+    "joke_id": "oogiri_dfc08ee0",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 12
+  },
+  {
+    "joke_id": "oogiri_95f8c52f",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 9
+  },
+  {
+    "joke_id": "oogiri_8e331115",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 5
+  },
+  {
+    "joke_id": "oogiri_953d99b5",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 20
+  },
+  {
+    "joke_id": "oogiri_aefe1709",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 5
+  },
+  {
+    "joke_id": "oogiri_59efc5b9",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 13
+  },
+  {
+    "joke_id": "oogiri_2e69584d",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 32
+  },
+  {
+    "joke_id": "oogiri_ee87eea4",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 60
+  },
+  {
+    "joke_id": "oogiri_aaaa03ef",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 8
+  },
+  {
+    "joke_id": "oogiri_5a15af85",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 20
+  },
+  {
+    "joke_id": "oogiri_be8df7f2",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 35
+  },
+  {
+    "joke_id": "oogiri_1b274f75",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 3
+  },
+  {
+    "joke_id": "oogiri_be097294",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 4
+  },
+  {
+    "joke_id": "oogiri_cac757ed",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 15
+  },
+  {
+    "joke_id": "oogiri_082c5a2e",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 33
+  },
+  {
+    "joke_id": "oogiri_0e574b14",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 27
+  },
+  {
+    "joke_id": "oogiri_2efb7e0e",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 18
+  },
+  {
+    "joke_id": "oogiri_ca24f9e3",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 76
+  },
+  {
+    "joke_id": "oogiri_9f493c5b",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 55,
+    "punchline_len": 26
+  },
+  {
+    "joke_id": "oogiri_64711e58",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 25
+  },
+  {
+    "joke_id": "oogiri_42a445bb",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 49,
+    "punchline_len": 62
+  },
+  {
+    "joke_id": "oogiri_7d6d0aca",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 46
+  },
+  {
+    "joke_id": "oogiri_59b93921",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 8
+  },
+  {
+    "joke_id": "oogiri_1d2e8e1a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 252
+  },
+  {
+    "joke_id": "oogiri_0ef1fe3a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 155
+  },
+  {
+    "joke_id": "oogiri_5056d1db",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 8
+  },
+  {
+    "joke_id": "oogiri_cbea9eeb",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 11
+  },
+  {
+    "joke_id": "oogiri_330c9462",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 16
+  },
+  {
+    "joke_id": "oogiri_5ecd5d2e",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 53
+  },
+  {
+    "joke_id": "oogiri_d20f93f6",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 9,
+    "punchline_len": 9
+  },
+  {
+    "joke_id": "oogiri_ce228bb5",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 8
+  },
+  {
+    "joke_id": "oogiri_4048d50a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 8
+  },
+  {
+    "joke_id": "oogiri_de273dc3",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 18
+  },
+  {
+    "joke_id": "oogiri_5fbf587d",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 149
+  },
+  {
+    "joke_id": "oogiri_0cc83683",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 12
+  },
+  {
+    "joke_id": "oogiri_a2c4686a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 79
+  },
+  {
+    "joke_id": "oogiri_ea1f7f43",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 5,
+    "punchline_len": 6
+  },
+  {
+    "joke_id": "oogiri_aacabdb2",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 38,
+    "punchline_len": 11
+  },
+  {
+    "joke_id": "oogiri_167e5a52",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 32
+  },
+  {
+    "joke_id": "oogiri_aebed3ef",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 36,
+    "punchline_len": 10
+  },
+  {
+    "joke_id": "oogiri_aea89dbc",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 102
+  },
+  {
+    "joke_id": "oogiri_5a9e1ea8",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 8
+  },
+  {
+    "joke_id": "oogiri_cfaa7364",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 19
+  },
+  {
+    "joke_id": "oogiri_a059f6de",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 112
+  },
+  {
+    "joke_id": "oogiri_e0b82a3d",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 28,
+    "punchline_len": 84
+  },
+  {
+    "joke_id": "oogiri_5a40dbd5",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 21
+  },
+  {
+    "joke_id": "oogiri_da92f172",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 12
+  },
+  {
+    "joke_id": "oogiri_85ea7b17",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 12
+  },
+  {
+    "joke_id": "oogiri_2937e2cb",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 9
+  },
+  {
+    "joke_id": "oogiri_7dee8f2b",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 55
+  },
+  {
+    "joke_id": "oogiri_b06d7265",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 35
+  },
+  {
+    "joke_id": "oogiri_97d38c9e",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 27
+  },
+  {
+    "joke_id": "oogiri_e2d984d9",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 45
+  },
+  {
+    "joke_id": "oogiri_fc8aca48",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 32
+  },
+  {
+    "joke_id": "oogiri_47ba6705",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 7
+  },
+  {
+    "joke_id": "oogiri_6d5af721",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 53,
+    "punchline_len": 16
+  },
+  {
+    "joke_id": "oogiri_ffac01f2",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 19
+  },
+  {
+    "joke_id": "oogiri_85e4790c",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 6
+  },
+  {
+    "joke_id": "oogiri_4ababa70",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 14
+  },
+  {
+    "joke_id": "oogiri_df0a6b74",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 9
+  },
+  {
+    "joke_id": "oogiri_d594e13a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 6,
+    "punchline_len": 8
+  },
+  {
+    "joke_id": "oogiri_82e864ca",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 6
+  },
+  {
+    "joke_id": "oogiri_0e5151c2",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 21
+  },
+  {
+    "joke_id": "oogiri_3996df46",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 226
+  },
+  {
+    "joke_id": "oogiri_4e6b1905",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 11
+  },
+  {
+    "joke_id": "oogiri_c7029049",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 37,
+    "punchline_len": 11
+  },
+  {
+    "joke_id": "oogiri_3480cd36",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 3
+  },
+  {
+    "joke_id": "oogiri_990b8207",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 9,
+    "punchline_len": 3
+  },
+  {
+    "joke_id": "oogiri_99d7ec14",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 6
+  },
+  {
+    "joke_id": "oogiri_53b89592",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 10
+  },
+  {
+    "joke_id": "oogiri_28f768ef",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 37
+  },
+  {
+    "joke_id": "oogiri_3909a4ca",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 12
+  },
+  {
+    "joke_id": "oogiri_5a032f19",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 18
+  },
+  {
+    "joke_id": "oogiri_0e980273",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 14
+  },
+  {
+    "joke_id": "oogiri_995da889",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 2
+  },
+  {
+    "joke_id": "oogiri_bf861c9c",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 34
+  },
+  {
+    "joke_id": "oogiri_84cc9607",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 9,
+    "punchline_len": 4
+  },
+  {
+    "joke_id": "oogiri_a1042ef5",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 19
+  },
+  {
+    "joke_id": "oogiri_ddb8142f",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 28,
+    "punchline_len": 11
+  },
+  {
+    "joke_id": "oogiri_448ce8a9",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 36,
+    "punchline_len": 67
+  },
+  {
+    "joke_id": "oogiri_e384432e",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 16
+  },
+  {
+    "joke_id": "oogiri_a915365e",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 29
+  },
+  {
+    "joke_id": "oogiri_fb44ff4b",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 51,
+    "punchline_len": 32
+  },
+  {
+    "joke_id": "oogiri_57d81694",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 3
+  },
+  {
+    "joke_id": "oogiri_145f09ed",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 5
+  },
+  {
+    "joke_id": "oogiri_a32ea9ad",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 9
+  },
+  {
+    "joke_id": "oogiri_0c089db7",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 4
+  },
+  {
+    "joke_id": "oogiri_531872ed",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 71
+  },
+  {
+    "joke_id": "oogiri_d3af0a27",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 4
+  },
+  {
+    "joke_id": "oogiri_2f8f1d8d",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 66
+  },
+  {
+    "joke_id": "oogiri_1487e41d",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 5
+  },
+  {
+    "joke_id": "oogiri_dc5c73c4",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 14
+  },
+  {
+    "joke_id": "oogiri_70c08567",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 16
+  },
+  {
+    "joke_id": "oogiri_b3186292",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 16
+  },
+  {
+    "joke_id": "oogiri_b69958d3",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 8
+  },
+  {
+    "joke_id": "oogiri_946858a4",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 6,
+    "punchline_len": 13
+  },
+  {
+    "joke_id": "oogiri_41c7e0dc",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 101
+  },
+  {
+    "joke_id": "oogiri_4acd5c2d",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 35,
+    "punchline_len": 41
+  },
+  {
+    "joke_id": "oogiri_798de09b",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 54,
+    "punchline_len": 48
+  },
+  {
+    "joke_id": "oogiri_f9ee50e5",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 4
+  },
+  {
+    "joke_id": "oogiri_04d808b5",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 7,
+    "punchline_len": 14
+  },
+  {
+    "joke_id": "oogiri_bf4d479b",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 45
+  },
+  {
+    "joke_id": "oogiri_54e0bed7",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 34,
+    "punchline_len": 5
+  },
+  {
+    "joke_id": "oogiri_8107948d",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 12
+  },
+  {
+    "joke_id": "oogiri_69bab250",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 16
+  },
+  {
+    "joke_id": "oogiri_20f628cc",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 36,
+    "punchline_len": 17
+  },
+  {
+    "joke_id": "oogiri_c7f19ab7",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 3
+  },
+  {
+    "joke_id": "oogiri_13492a32",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 4
+  },
+  {
+    "joke_id": "oogiri_19bc18a1",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 82
+  },
+  {
+    "joke_id": "oogiri_88bbda5a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 17
+  },
+  {
+    "joke_id": "oogiri_5500c4fb",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 10
+  },
+  {
+    "joke_id": "oogiri_ccdeb08c",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 50,
+    "punchline_len": 155
+  },
+  {
+    "joke_id": "oogiri_b0264105",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 7,
+    "punchline_len": 13
+  },
+  {
+    "joke_id": "oogiri_7cbf7e92",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 9
+  },
+  {
+    "joke_id": "oogiri_c825e601",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 31,
+    "punchline_len": 39
+  },
+  {
+    "joke_id": "oogiri_09587218",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 7
+  },
+  {
+    "joke_id": "oogiri_37337178",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 9
+  },
+  {
+    "joke_id": "oogiri_d076ed60",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 123
+  },
+  {
+    "joke_id": "oogiri_85539862",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 6
+  },
+  {
+    "joke_id": "oogiri_c5cfac43",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 19
+  },
+  {
+    "joke_id": "oogiri_79800f4a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 28,
+    "punchline_len": 3
+  },
+  {
+    "joke_id": "oogiri_2b1754aa",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 32,
+    "punchline_len": 345
+  },
+  {
+    "joke_id": "oogiri_1c50f1a6",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 8,
+    "punchline_len": 10
+  },
+  {
+    "joke_id": "oogiri_fa44dbc5",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 22
+  },
+  {
+    "joke_id": "oogiri_1ade6303",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 13
+  },
+  {
+    "joke_id": "oogiri_d4814d57",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 50,
+    "punchline_len": 13
+  },
+  {
+    "joke_id": "oogiri_9f29cd98",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 11
+  },
+  {
+    "joke_id": "oogiri_b1d85001",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 8
+  },
+  {
+    "joke_id": "oogiri_f49fd506",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 9
+  },
+  {
+    "joke_id": "oogiri_ca15cb98",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 16
+  },
+  {
+    "joke_id": "oogiri_4d659f9c",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 7
+  },
+  {
+    "joke_id": "oogiri_fa6e54f4",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 9
+  },
+  {
+    "joke_id": "oogiri_25d107f0",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 368
+  },
+  {
+    "joke_id": "oogiri_a9db23af",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 90
+  },
+  {
+    "joke_id": "oogiri_cbd41a24",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 8,
+    "punchline_len": 16
+  },
+  {
+    "joke_id": "oogiri_19185966",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 14
+  },
+  {
+    "joke_id": "oogiri_4f677960",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 41,
+    "punchline_len": 22
+  },
+  {
+    "joke_id": "oogiri_54c6eaca",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 39,
+    "punchline_len": 13
+  },
+  {
+    "joke_id": "oogiri_e4cedefe",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 9,
+    "punchline_len": 95
+  },
+  {
+    "joke_id": "oogiri_b0b11865",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 85
+  },
+  {
+    "joke_id": "oogiri_a2419571",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 348
+  },
+  {
+    "joke_id": "oogiri_da662fab",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 7
+  },
+  {
+    "joke_id": "oogiri_04f49e2e",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 12
+  },
+  {
+    "joke_id": "oogiri_94aa99c2",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 21
+  },
+  {
+    "joke_id": "oogiri_b92bc083",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 46
+  },
+  {
+    "joke_id": "oogiri_2e5ab179",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 4
+  },
+  {
+    "joke_id": "oogiri_d5fd0bf7",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 17
+  },
+  {
+    "joke_id": "oogiri_c2c9b920",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 8,
+    "punchline_len": 16
+  },
+  {
+    "joke_id": "oogiri_9e147ed6",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 5
+  },
+  {
+    "joke_id": "oogiri_29cbb9bd",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 21
+  },
+  {
+    "joke_id": "oogiri_ccad56b0",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 28
+  },
+  {
+    "joke_id": "oogiri_90303400",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 34
+  },
+  {
+    "joke_id": "oogiri_e073849d",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 20
+  },
+  {
+    "joke_id": "oogiri_264d2fec",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 17
+  },
+  {
+    "joke_id": "oogiri_16daedc0",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 33
+  },
+  {
+    "joke_id": "oogiri_76f21842",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 20
+  },
+  {
+    "joke_id": "oogiri_e15b1035",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 37,
+    "punchline_len": 21
+  },
+  {
+    "joke_id": "oogiri_85db3956",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 8,
+    "punchline_len": 4
+  },
+  {
+    "joke_id": "oogiri_f52c85ce",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 31
+  },
+  {
+    "joke_id": "oogiri_7dbaa7dc",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 111
+  },
+  {
+    "joke_id": "oogiri_57b8c47a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 5
+  },
+  {
+    "joke_id": "oogiri_2a802a19",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 5
+  },
+  {
+    "joke_id": "oogiri_2e494066",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 9,
+    "punchline_len": 7
+  },
+  {
+    "joke_id": "oogiri_474bb65b",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 40,
+    "punchline_len": 8
+  },
+  {
+    "joke_id": "oogiri_915528a3",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 30
+  },
+  {
+    "joke_id": "oogiri_74d7df86",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 69
+  },
+  {
+    "joke_id": "oogiri_7509b0bd",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 12
+  },
+  {
+    "joke_id": "oogiri_f3efc69c",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 4
+  },
+  {
+    "joke_id": "oogiri_95474145",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 4
+  },
+  {
+    "joke_id": "oogiri_0b3eb202",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 7,
+    "punchline_len": 7
+  },
+  {
+    "joke_id": "oogiri_5ffec941",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 9
+  },
+  {
+    "joke_id": "oogiri_49e01aa2",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 14
+  },
+  {
+    "joke_id": "oogiri_86cf9962",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 93
+  },
+  {
+    "joke_id": "oogiri_93eb881a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 83
+  },
+  {
+    "joke_id": "oogiri_b32c79ae",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 16
+  },
+  {
+    "joke_id": "oogiri_e83e7230",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 35
+  },
+  {
+    "joke_id": "oogiri_00245396",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 23
+  },
+  {
+    "joke_id": "oogiri_16bb4a38",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 27
+  },
+  {
+    "joke_id": "oogiri_988d816f",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 7
+  },
+  {
+    "joke_id": "oogiri_a01a3fa7",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 114
+  },
+  {
+    "joke_id": "oogiri_b490cdaf",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 4
+  },
+  {
+    "joke_id": "oogiri_a0a88619",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 24
+  },
+  {
+    "joke_id": "oogiri_cb4ab332",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 39
+  },
+  {
+    "joke_id": "oogiri_ddb65994",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 19
+  },
+  {
+    "joke_id": "oogiri_ab4d9349",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 5
+  },
+  {
+    "joke_id": "oogiri_f5e7e0db",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 309
+  },
+  {
+    "joke_id": "oogiri_d12d651c",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 11
+  },
+  {
+    "joke_id": "oogiri_3ee49b99",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 17
+  },
+  {
+    "joke_id": "oogiri_fd970866",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 7
+  },
+  {
+    "joke_id": "oogiri_103247a5",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 1
+  },
+  {
+    "joke_id": "oogiri_225f6ca9",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 20
+  },
+  {
+    "joke_id": "oogiri_494caaf2",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 22
+  },
+  {
+    "joke_id": "oogiri_6dd52d30",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 37
+  },
+  {
+    "joke_id": "oogiri_f7bb2327",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 14
+  },
+  {
+    "joke_id": "oogiri_fe31c889",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 39,
+    "punchline_len": 18
+  },
+  {
+    "joke_id": "oogiri_703f7969",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 9,
+    "punchline_len": 6
+  },
+  {
+    "joke_id": "oogiri_0a1be44d",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 197
+  },
+  {
+    "joke_id": "oogiri_a1f98381",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 31,
+    "punchline_len": 52
+  },
+  {
+    "joke_id": "oogiri_70a94072",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 2
+  },
+  {
+    "joke_id": "oogiri_0f38bea5",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 8,
+    "punchline_len": 4
+  },
+  {
+    "joke_id": "oogiri_b1adc5ad",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 8
+  },
+  {
+    "joke_id": "oogiri_a7a53f4d",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 24
+  },
+  {
+    "joke_id": "oogiri_ea5b90eb",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 37
+  },
+  {
+    "joke_id": "oogiri_5bf301bb",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 13
+  },
+  {
+    "joke_id": "oogiri_8ac1246a",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 8,
+    "punchline_len": 6
+  },
+  {
+    "joke_id": "oogiri_99617150",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 20
+  },
+  {
+    "joke_id": "oogiri_a1a64cb4",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 28
+  },
+  {
+    "joke_id": "oogiri_97408a45",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 7,
+    "punchline_len": 9
+  },
+  {
+    "joke_id": "oogiri_18bc1061",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 54
+  },
+  {
+    "joke_id": "oogiri_f3b549e0",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 3
+  },
+  {
+    "joke_id": "oogiri_ed55c843",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 16
+  },
+  {
+    "joke_id": "oogiri_d8769831",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 11
+  },
+  {
+    "joke_id": "oogiri_d2fc97d3",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 120
+  },
+  {
+    "joke_id": "oogiri_768617aa",
+    "source": "oogiri",
+    "language": "zh",
+    "setup_len": 8,
+    "punchline_len": 8
+  },
+  {
+    "joke_id": "ruozhiba_012d102a",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 13
+  },
+  {
+    "joke_id": "ruozhiba_c28d3657",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 45
+  },
+  {
+    "joke_id": "ruozhiba_5d549520",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 62
+  },
+  {
+    "joke_id": "ruozhiba_38026b3d",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 16
+  },
+  {
+    "joke_id": "ruozhiba_a1c6a0a7",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 70
+  },
+  {
+    "joke_id": "ruozhiba_6882dd19",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 73
+  },
+  {
+    "joke_id": "ruozhiba_3f570913",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 36
+  },
+  {
+    "joke_id": "ruozhiba_a9904e4b",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 59
+  },
+  {
+    "joke_id": "ruozhiba_a4397c4e",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 47
+  },
+  {
+    "joke_id": "ruozhiba_27af5894",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 22
+  },
+  {
+    "joke_id": "ruozhiba_a74bb90a",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 68
+  },
+  {
+    "joke_id": "ruozhiba_dab08bd5",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 32,
+    "punchline_len": 86
+  },
+  {
+    "joke_id": "ruozhiba_d0ad8f75",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 65
+  },
+  {
+    "joke_id": "ruozhiba_31b7ed0a",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 44
+  },
+  {
+    "joke_id": "ruozhiba_904ab698",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 95
+  },
+  {
+    "joke_id": "ruozhiba_de6b2905",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 54,
+    "punchline_len": 131
+  },
+  {
+    "joke_id": "ruozhiba_c15d50af",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 97,
+    "punchline_len": 98
+  },
+  {
+    "joke_id": "ruozhiba_132a3fc9",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 129
+  },
+  {
+    "joke_id": "ruozhiba_7dcd7d0a",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 70
+  },
+  {
+    "joke_id": "ruozhiba_ae94f6b2",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 93
+  },
+  {
+    "joke_id": "ruozhiba_b4fd41cb",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 77,
+    "punchline_len": 96
+  },
+  {
+    "joke_id": "ruozhiba_f84f2710",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 106
+  },
+  {
+    "joke_id": "ruozhiba_1316927e",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 57
+  },
+  {
+    "joke_id": "ruozhiba_c35d513b",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 40,
+    "punchline_len": 165
+  },
+  {
+    "joke_id": "ruozhiba_5de85448",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 109
+  },
+  {
+    "joke_id": "ruozhiba_4ba43434",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 36
+  },
+  {
+    "joke_id": "ruozhiba_baadf8d3",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 69
+  },
+  {
+    "joke_id": "ruozhiba_9d7cbc09",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 19
+  },
+  {
+    "joke_id": "ruozhiba_b095d186",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 45
+  },
+  {
+    "joke_id": "ruozhiba_f9e84e0d",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 119
+  },
+  {
+    "joke_id": "ruozhiba_7325e9ee",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 40,
+    "punchline_len": 142
+  },
+  {
+    "joke_id": "ruozhiba_cadb5352",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 42
+  },
+  {
+    "joke_id": "ruozhiba_5f941e41",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 34,
+    "punchline_len": 93
+  },
+  {
+    "joke_id": "ruozhiba_41b2b3d9",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 98
+  },
+  {
+    "joke_id": "ruozhiba_7914b899",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 52,
+    "punchline_len": 80
+  },
+  {
+    "joke_id": "ruozhiba_3f243dcf",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 60,
+    "punchline_len": 154
+  },
+  {
+    "joke_id": "ruozhiba_ae6717cc",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 61,
+    "punchline_len": 118
+  },
+  {
+    "joke_id": "ruozhiba_b727436a",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 114
+  },
+  {
+    "joke_id": "ruozhiba_5b960a13",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 59,
+    "punchline_len": 114
+  },
+  {
+    "joke_id": "ruozhiba_6a5a636b",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 164
+  },
+  {
+    "joke_id": "ruozhiba_5ecddf17",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 93
+  },
+  {
+    "joke_id": "ruozhiba_acc8d2db",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 104
+  },
+  {
+    "joke_id": "ruozhiba_232049f9",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 73
+  },
+  {
+    "joke_id": "ruozhiba_7bb5f2a2",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 57
+  },
+  {
+    "joke_id": "ruozhiba_47fda3b3",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 28,
+    "punchline_len": 134
+  },
+  {
+    "joke_id": "ruozhiba_0ea15eba",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 133
+  },
+  {
+    "joke_id": "ruozhiba_b71f034f",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 44
+  },
+  {
+    "joke_id": "ruozhiba_ef8cf1a0",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 146
+  },
+  {
+    "joke_id": "ruozhiba_ecc86315",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 112
+  },
+  {
+    "joke_id": "ruozhiba_5b068d63",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 28,
+    "punchline_len": 150
+  },
+  {
+    "joke_id": "ruozhiba_26ca6c4f",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 163
+  },
+  {
+    "joke_id": "ruozhiba_9c388551",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 10
+  },
+  {
+    "joke_id": "ruozhiba_bd42f5ef",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 41
+  },
+  {
+    "joke_id": "ruozhiba_0dd9114d",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 32,
+    "punchline_len": 82
+  },
+  {
+    "joke_id": "ruozhiba_43ee7cca",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 64
+  },
+  {
+    "joke_id": "ruozhiba_b3ece557",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 34,
+    "punchline_len": 90
+  },
+  {
+    "joke_id": "ruozhiba_2680215a",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 36,
+    "punchline_len": 114
+  },
+  {
+    "joke_id": "ruozhiba_52c48b10",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 73
+  },
+  {
+    "joke_id": "ruozhiba_be62e3ee",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 91
+  },
+  {
+    "joke_id": "ruozhiba_f9f74d6c",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 18
+  },
+  {
+    "joke_id": "ruozhiba_cb33a081",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 99
+  },
+  {
+    "joke_id": "ruozhiba_044661e0",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 31,
+    "punchline_len": 117
+  },
+  {
+    "joke_id": "ruozhiba_108571cc",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 100
+  },
+  {
+    "joke_id": "ruozhiba_8eb0a056",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 127
+  },
+  {
+    "joke_id": "ruozhiba_f8d7f339",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 51
+  },
+  {
+    "joke_id": "ruozhiba_4744526d",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 44,
+    "punchline_len": 125
+  },
+  {
+    "joke_id": "ruozhiba_c62eeb72",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 136
+  },
+  {
+    "joke_id": "ruozhiba_d0bdee81",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 51
+  },
+  {
+    "joke_id": "ruozhiba_3e437eb2",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 36,
+    "punchline_len": 79
+  },
+  {
+    "joke_id": "ruozhiba_62224540",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 16
+  },
+  {
+    "joke_id": "ruozhiba_b529469e",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 84
+  },
+  {
+    "joke_id": "ruozhiba_c385ec30",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 149
+  },
+  {
+    "joke_id": "ruozhiba_9987f6ed",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 111
+  },
+  {
+    "joke_id": "ruozhiba_ab0637e7",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 34,
+    "punchline_len": 157
+  },
+  {
+    "joke_id": "ruozhiba_2580c559",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 55
+  },
+  {
+    "joke_id": "ruozhiba_46eccbaa",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 29
+  },
+  {
+    "joke_id": "ruozhiba_6b5fbd90",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 103
+  },
+  {
+    "joke_id": "ruozhiba_2f9e8986",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 89
+  },
+  {
+    "joke_id": "ruozhiba_d0a5df85",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 48
+  },
+  {
+    "joke_id": "ruozhiba_dcd5ca1d",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 80
+  },
+  {
+    "joke_id": "ruozhiba_293d8196",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 69
+  },
+  {
+    "joke_id": "ruozhiba_c410e714",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 121
+  },
+  {
+    "joke_id": "ruozhiba_eaba46da",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 71
+  },
+  {
+    "joke_id": "ruozhiba_dd0f1e64",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 111
+  },
+  {
+    "joke_id": "ruozhiba_c57b1037",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 122
+  },
+  {
+    "joke_id": "ruozhiba_45a47bf7",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 86
+  },
+  {
+    "joke_id": "ruozhiba_ca27ebfd",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 139
+  },
+  {
+    "joke_id": "ruozhiba_5cd79cdc",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 31,
+    "punchline_len": 162
+  },
+  {
+    "joke_id": "ruozhiba_e2c60e74",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 28,
+    "punchline_len": 134
+  },
+  {
+    "joke_id": "ruozhiba_8a3b1cff",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 98
+  },
+  {
+    "joke_id": "ruozhiba_8a1da340",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 27
+  },
+  {
+    "joke_id": "ruozhiba_d9a9bed6",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 414
+  },
+  {
+    "joke_id": "ruozhiba_8dae6b6f",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 83
+  },
+  {
+    "joke_id": "ruozhiba_cf201a3e",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 57
+  },
+  {
+    "joke_id": "ruozhiba_a79624d9",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 71
+  },
+  {
+    "joke_id": "ruozhiba_e6502eb4",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 123
+  },
+  {
+    "joke_id": "ruozhiba_19b9c3b9",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 87
+  },
+  {
+    "joke_id": "ruozhiba_d9d2d048",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 38,
+    "punchline_len": 127
+  },
+  {
+    "joke_id": "ruozhiba_6a3e1439",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 153
+  },
+  {
+    "joke_id": "ruozhiba_c7c44a67",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 9,
+    "punchline_len": 34
+  },
+  {
+    "joke_id": "ruozhiba_0d6275ed",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 43
+  },
+  {
+    "joke_id": "ruozhiba_9a8bce58",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 52
+  },
+  {
+    "joke_id": "ruozhiba_3e29f2e3",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 28,
+    "punchline_len": 64
+  },
+  {
+    "joke_id": "ruozhiba_74b5c377",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 73
+  },
+  {
+    "joke_id": "ruozhiba_a3a99d67",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 80
+  },
+  {
+    "joke_id": "ruozhiba_c4f19ebb",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 9
+  },
+  {
+    "joke_id": "ruozhiba_65a974b7",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 66
+  },
+  {
+    "joke_id": "ruozhiba_56c0318a",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 69
+  },
+  {
+    "joke_id": "ruozhiba_66ca2f26",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 76
+  },
+  {
+    "joke_id": "ruozhiba_42ad48b1",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 76
+  },
+  {
+    "joke_id": "ruozhiba_dfb48dd9",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 120
+  },
+  {
+    "joke_id": "ruozhiba_cfc928ad",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 52
+  },
+  {
+    "joke_id": "ruozhiba_e72f87ca",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 66
+  },
+  {
+    "joke_id": "ruozhiba_86024632",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 45,
+    "punchline_len": 115
+  },
+  {
+    "joke_id": "ruozhiba_f37190d2",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 140
+  },
+  {
+    "joke_id": "ruozhiba_6f9b8836",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 159
+  },
+  {
+    "joke_id": "ruozhiba_2254d910",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 31,
+    "punchline_len": 117
+  },
+  {
+    "joke_id": "ruozhiba_9fc3d892",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 37,
+    "punchline_len": 84
+  },
+  {
+    "joke_id": "ruozhiba_1412c76f",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 126
+  },
+  {
+    "joke_id": "ruozhiba_136061df",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 117
+  },
+  {
+    "joke_id": "ruozhiba_ec2a5e9f",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 69
+  },
+  {
+    "joke_id": "ruozhiba_852bc304",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 167
+  },
+  {
+    "joke_id": "ruozhiba_d4e34a62",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 90
+  },
+  {
+    "joke_id": "ruozhiba_69f2576f",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 127
+  },
+  {
+    "joke_id": "ruozhiba_e7be05a1",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 140
+  },
+  {
+    "joke_id": "ruozhiba_2f1e3b81",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 28,
+    "punchline_len": 146
+  },
+  {
+    "joke_id": "ruozhiba_a4f5c8ce",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 59,
+    "punchline_len": 92
+  },
+  {
+    "joke_id": "ruozhiba_c26b81c4",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 62
+  },
+  {
+    "joke_id": "ruozhiba_8a0dc775",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 118
+  },
+  {
+    "joke_id": "ruozhiba_ac987216",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 100
+  },
+  {
+    "joke_id": "ruozhiba_0821f441",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 37,
+    "punchline_len": 145
+  },
+  {
+    "joke_id": "ruozhiba_de359718",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 133
+  },
+  {
+    "joke_id": "ruozhiba_b7df3a2f",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 129
+  },
+  {
+    "joke_id": "ruozhiba_1f6bdb6b",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 52
+  },
+  {
+    "joke_id": "ruozhiba_01f2736d",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 46,
+    "punchline_len": 108
+  },
+  {
+    "joke_id": "ruozhiba_da20a665",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 88
+  },
+  {
+    "joke_id": "ruozhiba_3ca50cf4",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 106
+  },
+  {
+    "joke_id": "ruozhiba_528aeeda",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 153
+  },
+  {
+    "joke_id": "ruozhiba_6c294f0e",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 113
+  },
+  {
+    "joke_id": "ruozhiba_186e89fe",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 43
+  },
+  {
+    "joke_id": "ruozhiba_8e8bf0dc",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 28,
+    "punchline_len": 100
+  },
+  {
+    "joke_id": "ruozhiba_088c2dfd",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 12
+  },
+  {
+    "joke_id": "ruozhiba_f2371667",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 296
+  },
+  {
+    "joke_id": "ruozhiba_b9d0a36d",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 74
+  },
+  {
+    "joke_id": "ruozhiba_0fb67c9a",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 107
+  },
+  {
+    "joke_id": "ruozhiba_0e2e975c",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 157
+  },
+  {
+    "joke_id": "ruozhiba_9b6eb711",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 172
+  },
+  {
+    "joke_id": "ruozhiba_eeac2514",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 43,
+    "punchline_len": 169
+  },
+  {
+    "joke_id": "ruozhiba_5fea0fb0",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 6
+  },
+  {
+    "joke_id": "ruozhiba_41fb5da8",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 31
+  },
+  {
+    "joke_id": "ruozhiba_d58ee21e",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 39
+  },
+  {
+    "joke_id": "ruozhiba_9d97f299",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 43
+  },
+  {
+    "joke_id": "ruozhiba_75eb948a",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 105
+  },
+  {
+    "joke_id": "ruozhiba_1df89d5e",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 67
+  },
+  {
+    "joke_id": "ruozhiba_ece0686c",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 44
+  },
+  {
+    "joke_id": "ruozhiba_6d1b2a62",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 75
+  },
+  {
+    "joke_id": "ruozhiba_921535c1",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 67
+  },
+  {
+    "joke_id": "ruozhiba_22ff12c0",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 91
+  },
+  {
+    "joke_id": "ruozhiba_eaa78d14",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 12
+  },
+  {
+    "joke_id": "ruozhiba_97b6fb8e",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 29
+  },
+  {
+    "joke_id": "ruozhiba_eb07d8d0",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 108
+  },
+  {
+    "joke_id": "ruozhiba_23ff72ba",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 100
+  },
+  {
+    "joke_id": "ruozhiba_b19ac38f",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 106
+  },
+  {
+    "joke_id": "ruozhiba_9338d3e3",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 96
+  },
+  {
+    "joke_id": "ruozhiba_1d0b9d57",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 133
+  },
+  {
+    "joke_id": "ruozhiba_075c7fb3",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 123
+  },
+  {
+    "joke_id": "ruozhiba_880cc3cf",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 117
+  },
+  {
+    "joke_id": "ruozhiba_0849611b",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 174
+  },
+  {
+    "joke_id": "ruozhiba_960b5f29",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 79
+  },
+  {
+    "joke_id": "ruozhiba_9bc53480",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 27
+  },
+  {
+    "joke_id": "ruozhiba_a055e1a5",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 73
+  },
+  {
+    "joke_id": "ruozhiba_9c513feb",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 31,
+    "punchline_len": 43
+  },
+  {
+    "joke_id": "ruozhiba_23070cda",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 65
+  },
+  {
+    "joke_id": "ruozhiba_310cf218",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 88
+  },
+  {
+    "joke_id": "ruozhiba_e43da992",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 35,
+    "punchline_len": 139
+  },
+  {
+    "joke_id": "ruozhiba_1b5d1d25",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 140
+  },
+  {
+    "joke_id": "ruozhiba_90684fbf",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 61
+  },
+  {
+    "joke_id": "ruozhiba_3b7b9f6b",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 109
+  },
+  {
+    "joke_id": "ruozhiba_790641df",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 98
+  },
+  {
+    "joke_id": "ruozhiba_b69c1779",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 43,
+    "punchline_len": 76
+  },
+  {
+    "joke_id": "ruozhiba_d592879a",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 96
+  },
+  {
+    "joke_id": "ruozhiba_d3193855",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 36,
+    "punchline_len": 164
+  },
+  {
+    "joke_id": "ruozhiba_0ab0815a",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 173
+  },
+  {
+    "joke_id": "ruozhiba_c1f3da8f",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 89
+  },
+  {
+    "joke_id": "ruozhiba_210420a6",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 63
+  },
+  {
+    "joke_id": "ruozhiba_f4272bd1",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 88
+  },
+  {
+    "joke_id": "ruozhiba_b67df1f8",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 98
+  },
+  {
+    "joke_id": "ruozhiba_bdec8973",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 91
+  },
+  {
+    "joke_id": "ruozhiba_93560dfb",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 66
+  },
+  {
+    "joke_id": "ruozhiba_c4a9583b",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 258
+  },
+  {
+    "joke_id": "ruozhiba_f1603f0d",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 95
+  },
+  {
+    "joke_id": "ruozhiba_2744b2d2",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 61,
+    "punchline_len": 131
+  },
+  {
+    "joke_id": "ruozhiba_62b18ce8",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 46
+  },
+  {
+    "joke_id": "ruozhiba_215f2a5d",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 33,
+    "punchline_len": 149
+  },
+  {
+    "joke_id": "ruozhiba_70d80e78",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 105
+  },
+  {
+    "joke_id": "ruozhiba_158ca583",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 37
+  },
+  {
+    "joke_id": "ruozhiba_db1743c7",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 133
+  },
+  {
+    "joke_id": "ruozhiba_8a674f3e",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 133
+  },
+  {
+    "joke_id": "ruozhiba_8a6ce5c1",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 189
+  },
+  {
+    "joke_id": "ruozhiba_bbf3cbe6",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 28
+  },
+  {
+    "joke_id": "ruozhiba_84269f72",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 56,
+    "punchline_len": 149
+  },
+  {
+    "joke_id": "ruozhiba_edae941b",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 11
+  },
+  {
+    "joke_id": "ruozhiba_26a30255",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 35,
+    "punchline_len": 7
+  },
+  {
+    "joke_id": "ruozhiba_dc6e9e3b",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 17
+  },
+  {
+    "joke_id": "ruozhiba_9df2868b",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 32,
+    "punchline_len": 26
+  },
+  {
+    "joke_id": "ruozhiba_c57f1f91",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 39,
+    "punchline_len": 38
+  },
+  {
+    "joke_id": "ruozhiba_88fe3418",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 8
+  },
+  {
+    "joke_id": "ruozhiba_3d3ff36e",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 40
+  },
+  {
+    "joke_id": "ruozhiba_5a8a3184",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 9,
+    "punchline_len": 43
+  },
+  {
+    "joke_id": "ruozhiba_3e0314e7",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 74
+  },
+  {
+    "joke_id": "ruozhiba_6a0fc265",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 34,
+    "punchline_len": 14
+  },
+  {
+    "joke_id": "ruozhiba_ff591575",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 67
+  },
+  {
+    "joke_id": "ruozhiba_90ef908c",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 88
+  },
+  {
+    "joke_id": "ruozhiba_7cc20eda",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 39,
+    "punchline_len": 38
+  },
+  {
+    "joke_id": "ruozhiba_81439893",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 58
+  },
+  {
+    "joke_id": "ruozhiba_585b99c2",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 70
+  },
+  {
+    "joke_id": "ruozhiba_9425ce2e",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 47,
+    "punchline_len": 94
+  },
+  {
+    "joke_id": "ruozhiba_d9323e15",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 31,
+    "punchline_len": 30
+  },
+  {
+    "joke_id": "ruozhiba_8f7e1e6d",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 9,
+    "punchline_len": 77
+  },
+  {
+    "joke_id": "ruozhiba_7e746a8a",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 11,
+    "punchline_len": 96
+  },
+  {
+    "joke_id": "ruozhiba_572b5529",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 169
+  },
+  {
+    "joke_id": "ruozhiba_7de20e11",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 32
+  },
+  {
+    "joke_id": "ruozhiba_100b3580",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 50,
+    "punchline_len": 134
+  },
+  {
+    "joke_id": "ruozhiba_94ba54de",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 69
+  },
+  {
+    "joke_id": "ruozhiba_59543588",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 69
+  },
+  {
+    "joke_id": "ruozhiba_28aa8c80",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 74
+  },
+  {
+    "joke_id": "ruozhiba_36be0298",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 167
+  },
+  {
+    "joke_id": "ruozhiba_0c736d97",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 89
+  },
+  {
+    "joke_id": "ruozhiba_4c189e09",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 49
+  },
+  {
+    "joke_id": "ruozhiba_65db3ffb",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 136
+  },
+  {
+    "joke_id": "ruozhiba_7f267b48",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 26
+  },
+  {
+    "joke_id": "ruozhiba_b40fc274",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 59
+  },
+  {
+    "joke_id": "ruozhiba_f7ca9673",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 116
+  },
+  {
+    "joke_id": "ruozhiba_63564241",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 37,
+    "punchline_len": 176
+  },
+  {
+    "joke_id": "ruozhiba_14704d9b",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 40,
+    "punchline_len": 101
+  },
+  {
+    "joke_id": "ruozhiba_d3b2e0ad",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 80
+  },
+  {
+    "joke_id": "ruozhiba_d781c3b3",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 142
+  },
+  {
+    "joke_id": "ruozhiba_0e049e8c",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 76
+  },
+  {
+    "joke_id": "ruozhiba_55c33e3e",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 67
+  },
+  {
+    "joke_id": "ruozhiba_0a03868d",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 58
+  },
+  {
+    "joke_id": "ruozhiba_c67a6712",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 82
+  },
+  {
+    "joke_id": "ruozhiba_1852b28e",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 103
+  },
+  {
+    "joke_id": "ruozhiba_c25fdf2f",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 90,
+    "punchline_len": 135
+  },
+  {
+    "joke_id": "ruozhiba_bced952b",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 28,
+    "punchline_len": 155
+  },
+  {
+    "joke_id": "ruozhiba_7c1cb0f3",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 51,
+    "punchline_len": 254
+  },
+  {
+    "joke_id": "ruozhiba_aa025607",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 118
+  },
+  {
+    "joke_id": "ruozhiba_142987bf",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 67
+  },
+  {
+    "joke_id": "ruozhiba_9406d434",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 41
+  },
+  {
+    "joke_id": "ruozhiba_e09bbe7f",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 67
+  },
+  {
+    "joke_id": "ruozhiba_a680d566",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 84
+  },
+  {
+    "joke_id": "ruozhiba_66e87aae",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 148
+  },
+  {
+    "joke_id": "ruozhiba_a31a70a1",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 60,
+    "punchline_len": 145
+  },
+  {
+    "joke_id": "ruozhiba_e6faf582",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 12
+  },
+  {
+    "joke_id": "ruozhiba_dacfd36d",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 50
+  },
+  {
+    "joke_id": "ruozhiba_2f991188",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 72
+  },
+  {
+    "joke_id": "ruozhiba_1da4d348",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 95
+  },
+  {
+    "joke_id": "ruozhiba_0e6e0b30",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 90
+  },
+  {
+    "joke_id": "ruozhiba_0420f02b",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 125
+  },
+  {
+    "joke_id": "ruozhiba_29039657",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 73
+  },
+  {
+    "joke_id": "ruozhiba_07cacce2",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 113
+  },
+  {
+    "joke_id": "ruozhiba_520a97fa",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 121
+  },
+  {
+    "joke_id": "ruozhiba_0c32e1d6",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 42,
+    "punchline_len": 116
+  },
+  {
+    "joke_id": "ruozhiba_73686074",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 24
+  },
+  {
+    "joke_id": "ruozhiba_4774a123",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 130
+  },
+  {
+    "joke_id": "ruozhiba_49655e8f",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 32,
+    "punchline_len": 80
+  },
+  {
+    "joke_id": "ruozhiba_f4acd6f8",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 106
+  },
+  {
+    "joke_id": "ruozhiba_90ac384e",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 133
+  },
+  {
+    "joke_id": "ruozhiba_0b0fbe86",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 28,
+    "punchline_len": 131
+  },
+  {
+    "joke_id": "ruozhiba_3033b554",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 39,
+    "punchline_len": 175
+  },
+  {
+    "joke_id": "ruozhiba_6839fd9e",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 109
+  },
+  {
+    "joke_id": "ruozhiba_c9932105",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 140
+  },
+  {
+    "joke_id": "ruozhiba_b9e2e3bb",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 33,
+    "punchline_len": 48
+  },
+  {
+    "joke_id": "ruozhiba_793f4d15",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 46
+  },
+  {
+    "joke_id": "ruozhiba_e5b89e34",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 107
+  },
+  {
+    "joke_id": "ruozhiba_67e75184",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 28,
+    "punchline_len": 8
+  },
+  {
+    "joke_id": "ruozhiba_c92ec4c6",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 32,
+    "punchline_len": 56
+  },
+  {
+    "joke_id": "ruozhiba_542a7912",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 116
+  },
+  {
+    "joke_id": "ruozhiba_08cb14fc",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 40,
+    "punchline_len": 204
+  },
+  {
+    "joke_id": "ruozhiba_98a5d728",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 33,
+    "punchline_len": 42
+  },
+  {
+    "joke_id": "ruozhiba_a8428526",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 54
+  },
+  {
+    "joke_id": "ruozhiba_7bbf2c7e",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 68
+  },
+  {
+    "joke_id": "ruozhiba_dd8bdf17",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 101
+  },
+  {
+    "joke_id": "ruozhiba_19248ad6",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 153
+  },
+  {
+    "joke_id": "ruozhiba_52d1446b",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 138
+  },
+  {
+    "joke_id": "ruozhiba_f5a1a3fc",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 37,
+    "punchline_len": 89
+  },
+  {
+    "joke_id": "ruozhiba_3c9a89bb",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 121
+  },
+  {
+    "joke_id": "ruozhiba_89b49702",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 90
+  },
+  {
+    "joke_id": "ruozhiba_c7858135",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 125
+  },
+  {
+    "joke_id": "ruozhiba_b7a226d1",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 56
+  },
+  {
+    "joke_id": "ruozhiba_1fbbae16",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 147
+  },
+  {
+    "joke_id": "ruozhiba_f3b3608c",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 87
+  },
+  {
+    "joke_id": "ruozhiba_b5cf1966",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 108
+  },
+  {
+    "joke_id": "ruozhiba_1123aa4f",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 89
+  },
+  {
+    "joke_id": "ruozhiba_34476d0d",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 101
+  },
+  {
+    "joke_id": "ruozhiba_384aa753",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 35,
+    "punchline_len": 119
+  },
+  {
+    "joke_id": "ruozhiba_34121402",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 35,
+    "punchline_len": 141
+  },
+  {
+    "joke_id": "ruozhiba_c435936c",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 93
+  },
+  {
+    "joke_id": "ruozhiba_e33ee98f",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 107
+  },
+  {
+    "joke_id": "ruozhiba_23ab2085",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 57,
+    "punchline_len": 129
+  },
+  {
+    "joke_id": "ruozhiba_1709b433",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 33
+  },
+  {
+    "joke_id": "ruozhiba_91cdd12f",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 59
+  },
+  {
+    "joke_id": "ruozhiba_8c93b6fc",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 28,
+    "punchline_len": 204
+  },
+  {
+    "joke_id": "ruozhiba_6c05e3fc",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 63,
+    "punchline_len": 128
+  },
+  {
+    "joke_id": "ruozhiba_66ffa3ea",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 54
+  },
+  {
+    "joke_id": "ruozhiba_3ff15e5c",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 32,
+    "punchline_len": 108
+  },
+  {
+    "joke_id": "ruozhiba_9df5ac32",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 39,
+    "punchline_len": 298
+  },
+  {
+    "joke_id": "ruozhiba_d7681255",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 28,
+    "punchline_len": 8
+  },
+  {
+    "joke_id": "ruozhiba_5deeb6f2",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 12
+  },
+  {
+    "joke_id": "ruozhiba_ed9faf94",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 56
+  },
+  {
+    "joke_id": "ruozhiba_9607d20d",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 50
+  },
+  {
+    "joke_id": "ruozhiba_06968b7d",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 28
+  },
+  {
+    "joke_id": "ruozhiba_62a2283c",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 85
+  },
+  {
+    "joke_id": "ruozhiba_eb8d7c46",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 86
+  },
+  {
+    "joke_id": "ruozhiba_a81dc027",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 90
+  },
+  {
+    "joke_id": "ruozhiba_4620efe9",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 123
+  },
+  {
+    "joke_id": "ruozhiba_cf1d5398",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 127
+  },
+  {
+    "joke_id": "ruozhiba_e82bf6b5",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 95
+  },
+  {
+    "joke_id": "ruozhiba_e459f380",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 65
+  },
+  {
+    "joke_id": "ruozhiba_b3048e14",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 84
+  },
+  {
+    "joke_id": "ruozhiba_37448dee",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 104
+  },
+  {
+    "joke_id": "ruozhiba_a49a87e1",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 171
+  },
+  {
+    "joke_id": "ruozhiba_db7791d2",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 97
+  },
+  {
+    "joke_id": "ruozhiba_f9145282",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 32,
+    "punchline_len": 100
+  },
+  {
+    "joke_id": "ruozhiba_9f511e16",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 32,
+    "punchline_len": 93
+  },
+  {
+    "joke_id": "ruozhiba_a67c9ab6",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 32,
+    "punchline_len": 147
+  },
+  {
+    "joke_id": "ruozhiba_949aacc9",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 35,
+    "punchline_len": 130
+  },
+  {
+    "joke_id": "ruozhiba_87d1d493",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 57
+  },
+  {
+    "joke_id": "ruozhiba_d1c8b9d7",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 35,
+    "punchline_len": 125
+  },
+  {
+    "joke_id": "ruozhiba_491666eb",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 41
+  },
+  {
+    "joke_id": "ruozhiba_5fb8d9fb",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 72
+  },
+  {
+    "joke_id": "ruozhiba_3f622a6f",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 31,
+    "punchline_len": 75
+  },
+  {
+    "joke_id": "ruozhiba_e7bbf944",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 75
+  },
+  {
+    "joke_id": "ruozhiba_cf8004e5",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 85
+  },
+  {
+    "joke_id": "ruozhiba_e9a3939e",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 86
+  },
+  {
+    "joke_id": "ruozhiba_19d33455",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 161
+  },
+  {
+    "joke_id": "ruozhiba_f1573222",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 111
+  },
+  {
+    "joke_id": "ruozhiba_67d45336",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 88
+  },
+  {
+    "joke_id": "ruozhiba_ddbbad66",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 88
+  },
+  {
+    "joke_id": "ruozhiba_075e8822",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 28,
+    "punchline_len": 91
+  },
+  {
+    "joke_id": "ruozhiba_f0153af6",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 99
+  },
+  {
+    "joke_id": "ruozhiba_4a7eb207",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 109
+  },
+  {
+    "joke_id": "ruozhiba_bacce787",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 104
+  },
+  {
+    "joke_id": "ruozhiba_edc766fd",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 9,
+    "punchline_len": 122
+  },
+  {
+    "joke_id": "ruozhiba_ea0ba1b4",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 81
+  },
+  {
+    "joke_id": "ruozhiba_dfac9a34",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 101
+  },
+  {
+    "joke_id": "ruozhiba_c7c168d1",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 93
+  },
+  {
+    "joke_id": "ruozhiba_62d194c8",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 58,
+    "punchline_len": 155
+  },
+  {
+    "joke_id": "ruozhiba_4ede4337",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 31,
+    "punchline_len": 124
+  },
+  {
+    "joke_id": "ruozhiba_2edf20a6",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 142
+  },
+  {
+    "joke_id": "ruozhiba_6d8b40f4",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 103
+  },
+  {
+    "joke_id": "ruozhiba_9c47a23d",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 32,
+    "punchline_len": 109
+  },
+  {
+    "joke_id": "ruozhiba_9119c0b6",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 42,
+    "punchline_len": 129
+  },
+  {
+    "joke_id": "ruozhiba_2c278081",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 88
+  },
+  {
+    "joke_id": "ruozhiba_91b1922a",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 131
+  },
+  {
+    "joke_id": "ruozhiba_1a02806b",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 8
+  },
+  {
+    "joke_id": "ruozhiba_4b860423",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 16
+  },
+  {
+    "joke_id": "ruozhiba_21db5e48",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 27
+  },
+  {
+    "joke_id": "ruozhiba_e102db9e",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 53
+  },
+  {
+    "joke_id": "ruozhiba_bb397cc9",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 28,
+    "punchline_len": 46
+  },
+  {
+    "joke_id": "ruozhiba_b99be074",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 43
+  },
+  {
+    "joke_id": "ruozhiba_3437a906",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 99
+  },
+  {
+    "joke_id": "ruozhiba_6d782a7a",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 99
+  },
+  {
+    "joke_id": "ruozhiba_38b25f33",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 46,
+    "punchline_len": 76
+  },
+  {
+    "joke_id": "ruozhiba_fb829fd9",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 112
+  },
+  {
+    "joke_id": "ruozhiba_158f2923",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 118
+  },
+  {
+    "joke_id": "ruozhiba_f5f59283",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 129
+  },
+  {
+    "joke_id": "ruozhiba_b5b66fcc",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 50
+  },
+  {
+    "joke_id": "ruozhiba_40f14578",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 110
+  },
+  {
+    "joke_id": "ruozhiba_dadf5fea",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 7
+  },
+  {
+    "joke_id": "ruozhiba_8f5e08f4",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 9
+  },
+  {
+    "joke_id": "ruozhiba_3e20f8c1",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 24
+  },
+  {
+    "joke_id": "ruozhiba_90f84351",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 39,
+    "punchline_len": 144
+  },
+  {
+    "joke_id": "ruozhiba_a02176a3",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 40
+  },
+  {
+    "joke_id": "ruozhiba_5430e62f",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 34,
+    "punchline_len": 87
+  },
+  {
+    "joke_id": "ruozhiba_a4608353",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 49,
+    "punchline_len": 120
+  },
+  {
+    "joke_id": "ruozhiba_fa901046",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 98
+  },
+  {
+    "joke_id": "ruozhiba_5e9f1d3e",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 95
+  },
+  {
+    "joke_id": "ruozhiba_4e0b8e8c",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 119
+  },
+  {
+    "joke_id": "ruozhiba_26652533",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 27
+  },
+  {
+    "joke_id": "ruozhiba_573aec6b",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 17
+  },
+  {
+    "joke_id": "ruozhiba_8705ffbe",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 122
+  },
+  {
+    "joke_id": "ruozhiba_0a4baa11",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 45,
+    "punchline_len": 72
+  },
+  {
+    "joke_id": "ruozhiba_0b21f5e0",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 63
+  },
+  {
+    "joke_id": "ruozhiba_425a9994",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 34,
+    "punchline_len": 129
+  },
+  {
+    "joke_id": "ruozhiba_1f881f9f",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 61,
+    "punchline_len": 93
+  },
+  {
+    "joke_id": "ruozhiba_13ae4428",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 150
+  },
+  {
+    "joke_id": "ruozhiba_d6ae1ae5",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 112
+  },
+  {
+    "joke_id": "ruozhiba_9ce3e1c0",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 89
+  },
+  {
+    "joke_id": "ruozhiba_c19e6322",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 95
+  },
+  {
+    "joke_id": "ruozhiba_d92f4a08",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 42,
+    "punchline_len": 130
+  },
+  {
+    "joke_id": "ruozhiba_54dd7772",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 31,
+    "punchline_len": 102
+  },
+  {
+    "joke_id": "ruozhiba_143b8192",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 111
+  },
+  {
+    "joke_id": "ruozhiba_e049f7be",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 31,
+    "punchline_len": 152
+  },
+  {
+    "joke_id": "ruozhiba_3d56d83b",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 84
+  },
+  {
+    "joke_id": "ruozhiba_00bf87e5",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 96
+  },
+  {
+    "joke_id": "ruozhiba_62890a4c",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 43,
+    "punchline_len": 63
+  },
+  {
+    "joke_id": "ruozhiba_25d3a38f",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 31,
+    "punchline_len": 93
+  },
+  {
+    "joke_id": "ruozhiba_491a3247",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 185
+  },
+  {
+    "joke_id": "ruozhiba_534aa325",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 110
+  },
+  {
+    "joke_id": "ruozhiba_3f069962",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 31,
+    "punchline_len": 79
+  },
+  {
+    "joke_id": "ruozhiba_e2839404",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 28,
+    "punchline_len": 352
+  },
+  {
+    "joke_id": "ruozhiba_71f361d2",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 41,
+    "punchline_len": 127
+  },
+  {
+    "joke_id": "ruozhiba_6d90026e",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 32,
+    "punchline_len": 117
+  },
+  {
+    "joke_id": "ruozhiba_76d1a3e0",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 94
+  },
+  {
+    "joke_id": "ruozhiba_1af59525",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 164
+  },
+  {
+    "joke_id": "ruozhiba_e6054a47",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 41,
+    "punchline_len": 106
+  },
+  {
+    "joke_id": "ruozhiba_b2eea695",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 11
+  },
+  {
+    "joke_id": "ruozhiba_57e4a9b1",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 50,
+    "punchline_len": 76
+  },
+  {
+    "joke_id": "ruozhiba_6cc088d4",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 45
+  },
+  {
+    "joke_id": "ruozhiba_fb82c3bf",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 29
+  },
+  {
+    "joke_id": "ruozhiba_3da3e6ae",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 92
+  },
+  {
+    "joke_id": "ruozhiba_a3af3d5e",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 23
+  },
+  {
+    "joke_id": "ruozhiba_607f2a24",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 57
+  },
+  {
+    "joke_id": "ruozhiba_21ae58df",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 36,
+    "punchline_len": 109
+  },
+  {
+    "joke_id": "ruozhiba_21fd8e74",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 78
+  },
+  {
+    "joke_id": "ruozhiba_af7fb095",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 35,
+    "punchline_len": 103
+  },
+  {
+    "joke_id": "ruozhiba_05f6c0cb",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 120
+  },
+  {
+    "joke_id": "ruozhiba_5a98774b",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 28,
+    "punchline_len": 104
+  },
+  {
+    "joke_id": "ruozhiba_578e33dd",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 89
+  },
+  {
+    "joke_id": "ruozhiba_07ba5e67",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 58
+  },
+  {
+    "joke_id": "ruozhiba_bb0b11d2",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 7,
+    "punchline_len": 76
+  },
+  {
+    "joke_id": "ruozhiba_e39df8fd",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 34,
+    "punchline_len": 107
+  },
+  {
+    "joke_id": "ruozhiba_0ef8358d",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 59
+  },
+  {
+    "joke_id": "ruozhiba_4102a196",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 51
+  },
+  {
+    "joke_id": "ruozhiba_dcbd6b18",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 13
+  },
+  {
+    "joke_id": "ruozhiba_b91c8181",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 6,
+    "punchline_len": 17
+  },
+  {
+    "joke_id": "ruozhiba_d5ffb94b",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 48
+  },
+  {
+    "joke_id": "ruozhiba_3e13d86c",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 100
+  },
+  {
+    "joke_id": "ruozhiba_87d04138",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 115
+  },
+  {
+    "joke_id": "ruozhiba_4cc4b3ad",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 109
+  },
+  {
+    "joke_id": "ruozhiba_d4734d4e",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 37,
+    "punchline_len": 56
+  },
+  {
+    "joke_id": "ruozhiba_ecd76d5f",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 79
+  },
+  {
+    "joke_id": "ruozhiba_f4b14674",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 71
+  },
+  {
+    "joke_id": "ruozhiba_f797eee2",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 15,
+    "punchline_len": 118
+  },
+  {
+    "joke_id": "ruozhiba_50b886a7",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 107
+  },
+  {
+    "joke_id": "ruozhiba_5dba4c5a",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 80
+  },
+  {
+    "joke_id": "ruozhiba_0beeda3a",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 46,
+    "punchline_len": 143
+  },
+  {
+    "joke_id": "ruozhiba_d3041c48",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 140
+  },
+  {
+    "joke_id": "ruozhiba_f6e16c23",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 72
+  },
+  {
+    "joke_id": "ruozhiba_4b455d42",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 52
+  },
+  {
+    "joke_id": "ruozhiba_d413dcfe",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 131
+  },
+  {
+    "joke_id": "ruozhiba_925d618e",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 41,
+    "punchline_len": 167
+  },
+  {
+    "joke_id": "ruozhiba_17b8983c",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 37
+  },
+  {
+    "joke_id": "ruozhiba_667a7f8b",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 57
+  },
+  {
+    "joke_id": "ruozhiba_9f97773f",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 33,
+    "punchline_len": 218
+  },
+  {
+    "joke_id": "ruozhiba_d159065d",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 36,
+    "punchline_len": 135
+  },
+  {
+    "joke_id": "ruozhiba_17fe9b1f",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 54
+  },
+  {
+    "joke_id": "ruozhiba_d0762f20",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 39
+  },
+  {
+    "joke_id": "ruozhiba_75daf47e",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 157
+  },
+  {
+    "joke_id": "ruozhiba_8cac1903",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 31,
+    "punchline_len": 66
+  },
+  {
+    "joke_id": "ruozhiba_ad86d679",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 73
+  },
+  {
+    "joke_id": "ruozhiba_dfff723c",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 88
+  },
+  {
+    "joke_id": "ruozhiba_ca3fd2fb",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 9,
+    "punchline_len": 109
+  },
+  {
+    "joke_id": "ruozhiba_d8865742",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 32
+  },
+  {
+    "joke_id": "ruozhiba_ea72866a",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 84
+  },
+  {
+    "joke_id": "ruozhiba_8064815a",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 23
+  },
+  {
+    "joke_id": "ruozhiba_9adf262d",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 13,
+    "punchline_len": 46
+  },
+  {
+    "joke_id": "ruozhiba_9e839252",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 22,
+    "punchline_len": 29
+  },
+  {
+    "joke_id": "ruozhiba_5c40819c",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 19,
+    "punchline_len": 61
+  },
+  {
+    "joke_id": "ruozhiba_80f73b85",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 43,
+    "punchline_len": 58
+  },
+  {
+    "joke_id": "ruozhiba_4f977c9e",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 30,
+    "punchline_len": 81
+  },
+  {
+    "joke_id": "ruozhiba_d34e4ea4",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 41,
+    "punchline_len": 65
+  },
+  {
+    "joke_id": "ruozhiba_2c6c8d72",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 76
+  },
+  {
+    "joke_id": "ruozhiba_5c260e7a",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 23,
+    "punchline_len": 87
+  },
+  {
+    "joke_id": "ruozhiba_8d4b6114",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 59
+  },
+  {
+    "joke_id": "ruozhiba_02219fba",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 128
+  },
+  {
+    "joke_id": "ruozhiba_6031c989",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 77
+  },
+  {
+    "joke_id": "ruozhiba_e9b77d3c",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 53,
+    "punchline_len": 75
+  },
+  {
+    "joke_id": "ruozhiba_d238b562",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 49,
+    "punchline_len": 133
+  },
+  {
+    "joke_id": "ruozhiba_6a94af8b",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 20,
+    "punchline_len": 78
+  },
+  {
+    "joke_id": "ruozhiba_c488ea28",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 33,
+    "punchline_len": 106
+  },
+  {
+    "joke_id": "ruozhiba_284cf5a3",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 81
+  },
+  {
+    "joke_id": "ruozhiba_54454e1c",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 53,
+    "punchline_len": 88
+  },
+  {
+    "joke_id": "ruozhiba_9071f8e7",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 45
+  },
+  {
+    "joke_id": "ruozhiba_e6b2cfbf",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 10,
+    "punchline_len": 34
+  },
+  {
+    "joke_id": "ruozhiba_94fc769d",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 81
+  },
+  {
+    "joke_id": "ruozhiba_1cc4c9d2",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 46,
+    "punchline_len": 87
+  },
+  {
+    "joke_id": "ruozhiba_763addaf",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 139
+  },
+  {
+    "joke_id": "ruozhiba_677c9ce4",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 91
+  },
+  {
+    "joke_id": "ruozhiba_b14714aa",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 105
+  },
+  {
+    "joke_id": "ruozhiba_b877dff2",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 34,
+    "punchline_len": 34
+  },
+  {
+    "joke_id": "ruozhiba_0d3b425c",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 49,
+    "punchline_len": 121
+  },
+  {
+    "joke_id": "ruozhiba_4df833dc",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 59
+  },
+  {
+    "joke_id": "ruozhiba_6b435b54",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 95
+  },
+  {
+    "joke_id": "ruozhiba_2729c7b4",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 21,
+    "punchline_len": 106
+  },
+  {
+    "joke_id": "ruozhiba_1ac31250",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 36,
+    "punchline_len": 96
+  },
+  {
+    "joke_id": "ruozhiba_22fc31e6",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 16,
+    "punchline_len": 59
+  },
+  {
+    "joke_id": "ruozhiba_eab6a870",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 25,
+    "punchline_len": 89
+  },
+  {
+    "joke_id": "ruozhiba_da8cb40e",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 18,
+    "punchline_len": 56
+  },
+  {
+    "joke_id": "ruozhiba_ad0bcae7",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 12,
+    "punchline_len": 91
+  },
+  {
+    "joke_id": "ruozhiba_93b05136",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 14,
+    "punchline_len": 61
+  },
+  {
+    "joke_id": "ruozhiba_1740c246",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 17,
+    "punchline_len": 77
+  },
+  {
+    "joke_id": "ruozhiba_fa3de75c",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 34,
+    "punchline_len": 184
+  },
+  {
+    "joke_id": "ruozhiba_ccbd7833",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 24,
+    "punchline_len": 97
+  },
+  {
+    "joke_id": "ruozhiba_43d4bf6b",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 118
+  },
+  {
+    "joke_id": "ruozhiba_8fba57cf",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 46,
+    "punchline_len": 92
+  },
+  {
+    "joke_id": "ruozhiba_0e50b1fe",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 39,
+    "punchline_len": 106
+  },
+  {
+    "joke_id": "ruozhiba_c9044584",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 26,
+    "punchline_len": 79
+  },
+  {
+    "joke_id": "ruozhiba_10ddda06",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 29,
+    "punchline_len": 25
+  },
+  {
+    "joke_id": "ruozhiba_4cac07ef",
+    "source": "ruozhiba",
+    "language": "zh",
+    "setup_len": 27,
+    "punchline_len": 35
+  }
+]

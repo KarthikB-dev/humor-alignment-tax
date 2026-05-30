@@ -215,10 +215,136 @@ def plot_training_loss():
     print("Saved training_loss")
 
 
+# ── Humor-score figures (Gemini judge over corpus + generated) ──────────────
+JDIR = Path("data/judgments/gemini_bulk")
+GEN_TIERS = [
+    ("Llama-3.2-1B", "Base", COLORS[0]),
+    ("Llama-3.2-1B-Instruct", "Instruct", COLORS[1]),
+    ("Llama-3.2-1B-Instruct-safety", "Safety-finetuned", COLORS[2]),
+]
+TEMP_ORDER = ["low_temp", "mid_temp", "default", "high_temp", "very_high_temp"]
+TEMP_VALS = [0.3, 0.7, 1.0, 1.3, 1.6]
+
+
+def _load_judgments(path):
+    with open(path) as f:
+        return json.load(f)
+
+
+def _overall(entries):
+    return np.array(
+        [e["judge_scores"]["overall"] for e in entries if "overall" in e.get("judge_scores", {})],
+        dtype=float,
+    )
+
+
+# ── Plot 6: humor scores by alignment tier (the headline) ──────────────────
+def plot_humor_by_tier():
+    corpus = _overall(_load_judgments(JDIR / "judgments_corpus.json"))
+    tiers = [("Corpus\n(human)", corpus, "#9C27B0")]
+    for fname, lbl, color in GEN_TIERS:
+        tiers.append((lbl, _overall(_load_judgments(JDIR / f"judgments_generated_{fname}.json")), color))
+
+    fig, ax = plt.subplots(figsize=(8, 5))
+    xs = np.arange(len(tiers))
+    means = [t[1].mean() for t in tiers]
+    sems = [stats.sem(t[1]) for t in tiers]
+    bars = ax.bar(xs, means, yerr=sems, color=[t[2] for t in tiers], width=0.62,
+                  capsize=4, edgecolor="white", linewidth=0.5)
+    ax.set_xticks(xs)
+    ax.set_xticklabels([t[0] for t in tiers], fontsize=10)
+    ax.set_ylabel("Mean overall humor (LLM-judge, 1–10)")
+    ax.set_title("Humor Quality by Alignment Tier (Gemini judge)", fontsize=12, fontweight="bold")
+    ax.set_ylim(0, 10)
+    ax.spines[["top", "right"]].set_visible(False)
+    ax.yaxis.grid(True, alpha=0.3)
+    ax.set_axisbelow(True)
+    for bar, m, n in zip(bars, means, [len(t[1]) for t in tiers]):
+        ax.text(bar.get_x() + bar.get_width() / 2, bar.get_height() + 0.15,
+                f"{m:.2f}\n(n={n})", ha="center", va="bottom", fontsize=8)
+    # flag the safety refusal effect
+    ax.text(3, 1.0, "≈74% refusals", ha="center", fontsize=8, style="italic", color="white")
+
+    plt.tight_layout()
+    plt.savefig(OUT / "humor_by_tier.pdf", bbox_inches="tight", dpi=150)
+    plt.savefig(OUT / "humor_by_tier.png", bbox_inches="tight", dpi=150)
+    plt.close()
+    print("Saved humor_by_tier")
+
+
+# ── Plot 7: humor vs decoding temperature (Hypothesis 4) ───────────────────
+def plot_humor_temperature():
+    fig, ax = plt.subplots(figsize=(8, 5))
+    for fname, lbl, color in GEN_TIERS:
+        entries = _load_judgments(JDIR / f"judgments_generated_{fname}.json")
+        by_cfg = {}
+        for e in entries:
+            if "overall" in e.get("judge_scores", {}):
+                by_cfg.setdefault(e["config"], []).append(e["judge_scores"]["overall"])
+        means = [np.mean(by_cfg[c]) if by_cfg.get(c) else np.nan for c in TEMP_ORDER]
+        sems = [stats.sem(by_cfg[c]) if by_cfg.get(c) else 0 for c in TEMP_ORDER]
+        ax.errorbar(TEMP_VALS, means, yerr=sems, label=lbl, color=color,
+                    marker="o", linewidth=2, capsize=4, markersize=7)
+
+    ax.set_xlabel("Decoding temperature")
+    ax.set_ylabel("Mean overall humor (LLM-judge, 1–10)")
+    ax.set_title("Humor vs. Temperature — no moderate-temp peak (Hypothesis 4)",
+                 fontsize=12, fontweight="bold")
+    ax.set_ylim(0, 10)
+    ax.legend(fontsize=9)
+    ax.spines[["top", "right"]].set_visible(False)
+    ax.yaxis.grid(True, alpha=0.3)
+    ax.set_axisbelow(True)
+
+    plt.tight_layout()
+    plt.savefig(OUT / "humor_temperature.pdf", bbox_inches="tight", dpi=150)
+    plt.savefig(OUT / "humor_temperature.png", bbox_inches="tight", dpi=150)
+    plt.close()
+    print("Saved humor_temperature")
+
+
+# ── Plot 8: generated-joke inverted-U fits (instruct tier) ─────────────────
+def plot_generated_inverted_u():
+    entries = _load_judgments(JDIR / "judgments_generated_Llama-3.2-1B-Instruct.json")
+    rows = [(e.get("surprisal"), e.get("entropy"), e["judge_scores"]["overall"])
+            for e in entries if "overall" in e.get("judge_scores", {})
+            and isinstance(e.get("surprisal"), (int, float))
+            and isinstance(e.get("entropy"), (int, float))]
+    surp = np.array([r[0] for r in rows]); ent = np.array([r[1] for r in rows])
+    hum = np.array([r[2] for r in rows])
+
+    fig, axes = plt.subplots(1, 2, figsize=(12, 5))
+    fig.suptitle("Generated-joke humor vs. distributional metrics — Instruct "
+                 "(no inverted-U)", fontsize=12, fontweight="bold", y=1.01)
+    for ax, x, xlabel in zip(axes, [surp, ent], ["Punchline surprisal", "Pre-punchline entropy"]):
+        ax.scatter(x, hum, s=14, alpha=0.35, color=COLORS[1], edgecolors="none")
+        # quadratic fit line
+        a, b, c = np.polyfit(x, hum, 2)
+        xx = np.linspace(x.min(), x.max(), 100)
+        ax.plot(xx, a * xx**2 + b * xx + c, color="#222", linewidth=2,
+                label=f"quad fit (a={a:+.3f})")
+        ax.set_xlabel(xlabel)
+        ax.set_ylabel("Overall humor (1–10)")
+        ax.set_ylim(0, 10)
+        ax.legend(fontsize=9)
+        ax.spines[["top", "right"]].set_visible(False)
+        ax.yaxis.grid(True, alpha=0.3)
+        ax.set_axisbelow(True)
+
+    plt.tight_layout()
+    plt.savefig(OUT / "generated_inverted_u.pdf", bbox_inches="tight", dpi=150)
+    plt.savefig(OUT / "generated_inverted_u.png", bbox_inches="tight", dpi=150)
+    plt.close()
+    print("Saved generated_inverted_u")
+
+
 if __name__ == "__main__":
     plot_means()
     plot_distributions()
     plot_shifts()
     plot_temperature()
     plot_training_loss()
+    plot_humor_by_tier()
+    plot_humor_temperature()
+    plot_generated_inverted_u()
     print(f"\nAll figures saved to {OUT}/")

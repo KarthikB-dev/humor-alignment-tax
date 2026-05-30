@@ -1,0 +1,8 @@
+\beamer@sectionintoc {1}{Motivation}{3}{0}{1}
+\beamer@sectionintoc {2}{Data \& Models}{4}{0}{2}
+\beamer@sectionintoc {3}{Methodology}{6}{0}{3}
+\beamer@sectionintoc {4}{Safety Fine-tuning}{7}{0}{4}
+\beamer@sectionintoc {5}{Results}{8}{0}{5}
+\beamer@sectionintoc {6}{Humor Quality (LLM Judge)}{13}{0}{6}
+\beamer@sectionintoc {7}{Interpretation}{16}{0}{7}
+\beamer@sectionintoc {8}{Conclusion}{18}{0}{8}

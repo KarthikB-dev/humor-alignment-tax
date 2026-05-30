@@ -195,6 +195,42 @@
 \end{frame}
 
 % ─────────────────────────────────────────────────────────────
+\section{Humor Quality (LLM Judge)}
+% ─────────────────────────────────────────────────────────────
+
+\begin{frame}{Humor Quality by Alignment Tier}
+  \begin{center}
+    \includegraphics[width=0.8\textwidth]{figures/humor_by_tier.pdf}
+  \end{center}
+  \vspace{-0.4em}
+  \footnotesize Gemini judge over 2{,}851 jokes (the local 1B judge produced valid
+  scores for only ${\sim}18\%$ of generated jokes; Gemini, $99.7\%$). The pattern is
+  \textbf{non-monotonic}: RLHF (\textcolor{instructorange}{Instruct}) matches the human
+  corpus, while safety fine-tuning collapses humor --- \textbf{${\approx}74\%$ of its
+  outputs are refusals} to benign joke prompts.
+\end{frame}
+
+\begin{frame}{Humor vs.\ Temperature: No Moderate-Temp Peak}
+  \begin{center}
+    \includegraphics[width=0.78\textwidth]{figures/humor_temperature.pdf}
+  \end{center}
+  \vspace{-0.4em}
+  \footnotesize \textbf{Hypothesis~4 not supported.} As temperature rises, surprisal and
+  entropy climb but instruct-model humor \emph{declines monotonically} ($7.2\to5.8$) ---
+  funniest at low temperature / narrow nucleus, with no inverted-U over temperature.
+\end{frame}
+
+\begin{frame}{Inverted-U on Generated Jokes? No.}
+  \begin{center}
+    \includegraphics[width=0.95\textwidth]{figures/generated_inverted_u.pdf}
+  \end{center}
+  \vspace{-0.4em}
+  \footnotesize Humor vs.\ distributional metrics for the instruct tier, with quadratic
+  fits. No significant negative quadratic (no peak); metrics relate to humor more strongly
+  than in the corpus ($R^2$ up to $0.32$) but monotonically, not as a sweet spot.
+\end{frame}
+
+% ─────────────────────────────────────────────────────────────
 \section{Interpretation}
 % ─────────────────────────────────────────────────────────────
 

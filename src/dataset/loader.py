@@ -4,7 +4,7 @@ import re
 import uuid
 from pathlib import Path
 
-from src.dataset.joke import DatasetSource, JokeEntry, JokeLanguage
+from src.dataset.joke import ChumorEntry, DatasetSource, JokeEntry, JokeLanguage
 
 DATA_DIR = "data/raw"
 PROCESSED_DIR = "data/processed"
@@ -151,6 +151,99 @@ def load_ruozhiba(
 
 
 # ------------------------------------------------------------------ #
+#  Ruozhiba-raw  (kirp/ruozhiba-raw, 92k raw forum posts, HuggingFace)
+# ------------------------------------------------------------------ #
+def load_ruozhiba_raw(limit: int | None = None) -> list[JokeEntry]:
+    from datasets import load_dataset  # lazy import — only needed for HF sources
+
+    ds = load_dataset("kirp/ruozhiba-raw", split="train")
+    entries: list[JokeEntry] = []
+
+    for row in ds:
+        # Schema: title (question/setup), detail (body, often None for short posts)
+        setup = (row.get("title") or "").strip()
+        punchline = (row.get("detail") or "").strip()
+
+        if not setup:
+            continue
+        # Some posts have no separate body — treat full title as a one-liner
+        if not punchline:
+            setup, punchline = _split_one_liner(setup)
+
+        entries.append(
+            JokeEntry(
+                text=f"{setup}\n{punchline}",
+                setup=setup,
+                punchline=punchline,
+                source=DatasetSource.RUOZHIBA_RAW,
+                language=JokeLanguage.CHINESE,
+                joke_id=_make_id(DatasetSource.RUOZHIBA_RAW),
+            )
+        )
+        if limit and len(entries) >= limit:
+            break
+
+    return entries
+
+
+# ------------------------------------------------------------------ #
+#  Chumor  (MichiganNLP/Chumor — joke + explanation + correctness label)
+# ------------------------------------------------------------------ #
+def load_chumor(
+    split: str = "test", limit: int | None = None
+) -> list[ChumorEntry]:
+    """Load the Chumor humor-explanation dataset.
+
+    Each entry is a (joke, explanation, label) triple where label indicates
+    whether the explanation correctly accounts for why the joke is funny.
+    Useful as probe labels: train a linear classifier on hidden states to
+    predict explanation_correct.
+
+    Args:
+        split: HuggingFace dataset split — "test" by default (the labeled split).
+        limit: cap the number of entries returned.
+    """
+    from datasets import load_dataset
+    from datasets.exceptions import DatasetNotFoundError
+
+    try:
+        ds = load_dataset("MichiganNLP/Chumor", split=split)
+    except DatasetNotFoundError:
+        raise RuntimeError(
+            "Chumor is a gated dataset. Request access at "
+            "https://huggingface.co/datasets/MichiganNLP/Chumor, "
+            "then run: huggingface-cli login"
+        ) from None
+    entries: list[ChumorEntry] = []
+
+    for i, row in enumerate(ds):
+        joke = (row.get("Joke") or "").strip()
+        explanation = (row.get("Explanation") or "").strip()
+        raw_label = row.get("Label", "")
+
+        if not joke or not explanation:
+            continue
+
+        correct = str(raw_label).lower() in {"good", "correct", "1", "true"}
+        source = str(row.get("Source", "")).strip()
+
+        entries.append(
+            ChumorEntry(
+                joke_id=f"chumor_{i:06d}",
+                joke=joke,
+                explanation=explanation,
+                explanation_correct=correct,
+                explanation_source=source,
+                language=JokeLanguage.CHINESE,
+            )
+        )
+        if limit and len(entries) >= limit:
+            break
+
+    return entries
+
+
+# ------------------------------------------------------------------ #
 #  Unified loader
 # ------------------------------------------------------------------ #
 LOADERS = {
@@ -158,6 +251,8 @@ LOADERS = {
     DatasetSource.ONE_LINER: load_one_liners,
     DatasetSource.OOGIRI: load_oogiri,
     DatasetSource.RUOZHIBA: load_ruozhiba,
+    DatasetSource.RUOZHIBA_RAW: load_ruozhiba_raw,
+    # CHUMOR omitted: returns ChumorEntry, not JokeEntry — use load_chumor() directly
 }
 
 

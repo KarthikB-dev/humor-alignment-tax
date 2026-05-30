@@ -25,6 +25,8 @@ dependencies = [
     "trl>=0.8.0",
     "transformers>=4.45.0",
     "wandb>=0.24.1",
+    "anthropic>=0.105.2",
+    "google-genai>=2.7.0",
 ]
 
 [tool.black]
