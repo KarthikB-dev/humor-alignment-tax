@@ -7,9 +7,11 @@ from numpy.typing import NDArray
 
 class DatasetSource(Enum):
     RUOZHIBA = "ruozhiba"
+    RUOZHIBA_RAW = "ruozhiba_raw"
     OOGIRI = "oogiri"
     ONE_LINER = "one_liner"
     R_JOKES = "r_jokes"
+    CHUMOR = "chumor"
 
 
 class JokeLanguage(Enum):
@@ -80,6 +82,22 @@ class DecodingConfig:
             if self.top_k > 0:
                 parts.append(f"k{self.top_k}")
             self.label = "_".join(parts) if parts else "greedy"
+
+
+@dataclass(slots=True)
+class ChumorEntry:
+    """A Chumor joke paired with an explanation and its correctness label.
+
+    Used for linear probing: does the model's internal representation
+    distinguish correct from incorrect humor explanations?
+    """
+
+    joke_id: str
+    joke: str
+    explanation: str
+    explanation_correct: bool  # True = explanation correctly accounts for the joke
+    explanation_source: str    # "G" (GPT-4o) or "E" (ERNIE-4-turbo)
+    language: JokeLanguage = JokeLanguage.CHINESE
 
 
 # Standard decoding configs for the temperature sweep experiment

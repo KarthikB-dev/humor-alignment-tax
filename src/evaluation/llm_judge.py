@@ -37,6 +37,8 @@ def _parse_judgment(text: str) -> HumorJudgment | None:
 
     try:
         obj = json.loads(text)
+        if not isinstance(obj, dict):
+            return None
         return HumorJudgment(
             unexpectedness=np.float32(obj["unexpectedness"]),
             cleverness=np.float32(obj["cleverness"]),
@@ -44,7 +46,7 @@ def _parse_judgment(text: str) -> HumorJudgment | None:
             overall=np.float32(obj["overall"]),
             rationale=obj.get("rationale", ""),
         )
-    except (json.JSONDecodeError, KeyError):
+    except (json.JSONDecodeError, KeyError, TypeError, ValueError):
         return None
 
 

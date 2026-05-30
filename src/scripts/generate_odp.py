@@ -224,6 +224,32 @@ def build(odp: ODP):
     odp.image_slide("Temperature Sweep", FIG / "temperature_sweep.png",
                     "Higher temperature raises both metrics. Instruct stays above Base at all temps.")
 
+    # ── LLM-as-judge humor findings ───────────────────────────────
+    odp.text_slide("Humor Quality: LLM-as-Judge", [
+        "Distributional metrics measure form — but do the jokes actually land?",
+        "Scored every joke (corpus + generated) with a single consistent judge",
+        "(Gemini), 1-10 on unexpectedness, cleverness, amusement, overall.",
+        "",
+        "Why not the local 1B judge?",
+        "  It returned valid scores for only ~18% of generated jokes",
+        "  (parse failures concentrate on the noisiest outputs).",
+        "  Gemini judge: 2,851 / 2,859 = 99.7% valid.",
+        "",
+        "One judge over corpus AND generated removes the two-judge confound.",
+    ])
+
+    odp.image_slide("Humor by Alignment Tier", FIG / "humor_by_tier.png",
+                    "Non-monotonic: RLHF (Instruct) matches the human corpus; safety fine-tuning "
+                    "collapses humor — ~74% of its outputs are refusals to benign joke prompts.")
+
+    odp.image_slide("Humor vs. Temperature (Hypothesis 4)", FIG / "humor_temperature.png",
+                    "No moderate-temperature peak: instruct humor declines monotonically (7.2 -> 5.8) "
+                    "as surprisal/entropy rise. Funniest at low temperature / narrow nucleus.")
+
+    odp.image_slide("Inverted-U on Generated Jokes? No.", FIG / "generated_inverted_u.png",
+                    "Humor vs. metrics (instruct), with quadratic fits. No significant peak; metrics "
+                    "relate to humor (R^2 up to 0.32) but monotonically, not as a sweet spot.")
+
     odp.text_slide("Key Finding: Disruption, Not Compression", [
         "All three metrics INCREASE at every alignment step.",
         "Safety training does NOT compress outputs toward predictable text.",
@@ -276,6 +302,8 @@ def build(odp: ODP):
         "  Two distinct mechanisms:",
         "    RLHF content-sensitisation",
         "    Safety entropy disruption",
+        "  Humor (LLM-judge): RLHF keeps",
+        "    humor; safety FT -> 74% refusals",
         "",
         "Limitations:",
         "  1B model is weak",
@@ -288,8 +316,8 @@ def build(odp: ODP):
         "",
         "  Scale to Llama 3.1-8B",
         "",
-        "  Full LLM-as-judge humor",
-        "  scoring at scale",
+        "  Probe the safety model's",
+        "  humor representations (Chumor)",
         "",
         "  Probe whether elevated entropy",
         "  improves joke generation quality",

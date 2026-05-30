@@ -1,0 +1,1618 @@
+{
+  "summary": {
+    "subset_model": "gemini-2.5-pro",
+    "bulk_model": "gemini-2.5-flash",
+    "n_subset": 80,
+    "n_compared": 65,
+    "mean_abs_overall_delta": 1.323076923076923,
+    "exact_overall_agreement": 0.2923076923076923,
+    "within_1_agreement": 0.7076923076923077
+  },
+  "rows": [
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "哪一个瞬间你觉得自己应该离职了？",
+      "punchline": "当然是身体原因了：胃不好，饼太大，吃不下。腰不好，锅太沉，背不动。",
+      "bulk": {
+        "unexpectedness": 8.0,
+        "cleverness": 9.0,
+        "amusement": 8.0,
+        "overall": 8.0,
+        "rationale": "The joke uses common Chinese workplace metaphors (big pie for opportunities, heavy pot for responsibilities) and turns them into literal physical ailments. The wordplay is clever and the punchline is surprisingly literal given the setup, making it quite amusing."
+      },
+      "strong": {
+        "unexpectedness": 8.0,
+        "cleverness": 9.0,
+        "amusement": 8.0,
+        "overall": 8.0,
+        "rationale": "The joke sets up a common scenario and begins with a common excuse ('health reasons'), but the punchline cleverly reinterprets these reasons using popular Chinese workplace slang. The wordplay connecting a bad stomach to a boss's empty promises ('饼太大' - the pie is too big) and a bad back to being a scapegoat ('锅太沉' - the pot is too heavy) is highly creative and relatable, making for a very satisfying and witty punchline."
+      },
+      "overall_abs_delta": 0.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "在谚语或名言后面加上“但是”来破坏它。",
+      "punchline": "我是一只猫，名字叫但丁。",
+      "bulk": {
+        "unexpectedness": 7.0,
+        "cleverness": 5.0,
+        "amusement": 6.0,
+        "overall": 6.0,
+        "rationale": "The punchline is a play on words, using '但是' (but) as part of a name. It's moderately unexpected and a bit clever, leading to some amusement, but it doesn't quite 'destroy' the proverb as intended by the setup."
+      },
+      "strong": {
+        "unexpectedness": 8.0,
+        "cleverness": 5.0,
+        "amusement": 4.0,
+        "overall": 5.0,
+        "rationale": "这个笑话完全颠覆了设定的前提，没有按要求在谚语后加“但是”（dàn shì），而是给出了一个包含发音相似的词“但丁”（dàn dīng）的无关句子。这种对规则的打破带来了很高的意外性，但双关语本身有点牵强，所以巧妙性和趣味性一般。"
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "如何看待QQ音乐在歌曲之间自动播放广告?",
+      "punchline": "再过两年，就成了在广告之间插播音乐的良心企业了！",
+      "bulk": {
+        "unexpectedness": 6.0,
+        "cleverness": 7.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The joke is a well-worn observation about increasing ad load on platforms, but the specific wording about becoming a 'conscientious enterprise' by inserting music between ads is a clever twist and quite amusing."
+      },
+      "strong": {
+        "unexpectedness": 7.0,
+        "cleverness": 8.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The joke cleverly uses exaggeration and irony to comment on the increasing frequency of ads in streaming services. The punchline, which reframes the company as a 'conscientious enterprise' for inserting music between ads, is a cynical but amusing twist on a relatable frustration."
+      },
+      "overall_abs_delta": 0.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "虽然想忘记，但是却留在耳朵里的广告。",
+      "punchline": "最最喜欢塔科特了。",
+      "bulk": {
+        "unexpectedness": 7.0,
+        "cleverness": 6.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The joke effectively sets up a relatable scenario of an earworm advertisement that one wishes to forget, and the punchline delivers a specific, catchy jingle that perfectly embodies that frustrating persistence. The unexpectedness comes from the specific ad chosen, which likely resonates with a particular audience, and the cleverness is in the direct, simple recall. It's amusing because of the shared experience it evokes."
+      },
+      "strong": {
+        "unexpectedness": 7.0,
+        "cleverness": 8.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The joke's humor relies entirely on a shared cultural reference to a famously persistent and annoying TV commercial jingle. For those who get the reference, the punchline is a perfect and clever fit for the setup, evoking a humorous groan of recognition. It's not universally funny, but it's very effective for its target audience."
+      },
+      "overall_abs_delta": 0.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "请问在东京旅游时需要注意些什么？",
+      "punchline": "新宿不是港口城市哦。",
+      "bulk": {
+        "unexpectedness": 7.0,
+        "cleverness": 6.0,
+        "amusement": 5.0,
+        "overall": 6.0,
+        "rationale": "The joke is unexpected because it assumes a misunderstanding of新宿 (Shinjuku) as a port city due to the character '港' (port) in '香港' (Hong Kong), which sounds similar to '新宿' (Xīnxiǔ - the old pronunciation of Shinjuku). It's clever in its wordplay and cultural reference, but the amusement depends on the audience's familiarity with Chinese characters and place names."
+      },
+      "strong": {
+        "unexpectedness": 8.0,
+        "cleverness": 2.0,
+        "amusement": 2.0,
+        "overall": 3.0,
+        "rationale": "This is an anti-joke. The punchline is highly unexpected because it's a piece of advice that is both true and completely useless, subverting the expectation for a practical travel tip. However, it lacks cleverness, as there is no wordplay or logical twist connecting the setup to the punchline. Its humor relies solely on absurdity, which makes it more likely to be confusing than amusing for most people."
+      },
+      "overall_abs_delta": 3.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "在海里遇到超大鲨鱼时，有些事情知道会很方便。",
+      "punchline": "像小巴狗一样献媚。",
+      "bulk": {
+        "unexpectedness": 6.0,
+        "cleverness": 7.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The joke creates a humorous image of trying to placate a huge shark like a small dog, which is unexpected and a bit silly. The juxtaposition is clever."
+      },
+      "strong": {
+        "error": "judge_failed"
+      }
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "北上广三个城市，为什么大家普遍觉得上海排外，而不是广州呢？",
+      "punchline": "自从离开家乡，发现全国哪个地方都排外，只不过排的方式不同。回家乡到不排外了，但我排家乡了。",
+      "bulk": {
+        "unexpectedness": 7.0,
+        "cleverness": 6.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The joke starts with a common perception about Shanghai's exclusivity and then broadens the idea to a universal human experience of feeling like an outsider everywhere, even in one's own hometown. The unexpectedness comes from shifting the focus from specific cities to a more philosophical observation about belonging. The punchline '但我排家乡了' (but I exclude my hometown) is a clever reversal. It's amusing because it's relatable to anyone who has felt alienated or grown apart from their roots."
+      },
+      "strong": {
+        "unexpectedness": 8.0,
+        "cleverness": 8.0,
+        "amusement": 6.0,
+        "overall": 8.0,
+        "rationale": "The joke cleverly subverts the initial premise, shifting from a specific city comparison to a universal and personal reflection on belonging. The punchline is unexpected and poignant, revealing a deeper truth about how leaving home changes one's perspective. Its strength lies in its wry observation and clever twist rather than pure comedic effect, making it more thought-provoking than hilarious."
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "什么样的男生/女生让你瞬间有种好感，或者无比喜欢？",
+      "punchline": "比我聪明但是装作没我聪明却又被我发现比我聪明的。",
+      "bulk": {
+        "unexpectedness": 7.0,
+        "cleverness": 8.0,
+        "amusement": 7.0,
+        "overall": 8.0,
+        "rationale": "The joke creates a humorous and relatable scenario of a complex attraction to someone who is genuinely intelligent but also humble and discreet about it, which is then 'discovered' by the speaker. The repetition and slight convolution of '比我聪明但是装作没我聪明却又被我发现比我聪明的' ('smarter than me but pretends not to be as smart as me, only for me to discover they are smarter than me') adds to the cleverness and playful nature, making it unexpectedly specific and amusing. It’s a self-aware and charmingly convoluted preference."
+      },
+      "strong": {
+        "unexpectedness": 8.0,
+        "cleverness": 8.0,
+        "amusement": 6.0,
+        "overall": 7.0,
+        "rationale": "This joke's strength lies in its unexpected and clever construction. Instead of a simple trait, the punchline offers a complex, nested scenario about perceived intelligence and humility. The wordplay is intricate and describes a very specific, relatable dynamic, making it more witty and thought-provoking than laugh-out-loud funny. The amusement comes from recognizing the truth in the convoluted description."
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "你曾经在不经意间闯入到什么有趣镜头里面？",
+      "punchline": "某辩论赛事观众一枚，所有场次都看了，坐在前几排，喜欢认真记笔记，所以很受摄像师喜欢。比赛的观众鼓掌镜头是从素材库是插入进去的，所以有高中同学在同一场比赛的录播里面看见我穿着三件不同的衣服在认真记笔记。",
+      "bulk": {
+        "unexpectedness": 7.0,
+        "cleverness": 7.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The punchline reveals a clever and humorous observation about how event footage is often edited, creating a surprisingly funny image of someone appearing in multiple outfits in the same recorded event. The unexpectedness comes from the behind-the-scenes look at media production, and the amusement stems from the relatable absurdity."
+      },
+      "strong": {
+        "unexpectedness": 8.0,
+        "cleverness": 8.0,
+        "amusement": 7.0,
+        "overall": 8.0,
+        "rationale": "The joke effectively subverts expectations. Instead of a simple story of being in the background, it presents a humorous temporal anomaly caused by video editing. The punchline, revealing the narrator in three different outfits at the same event due to the use of stock footage, is a clever and unexpected observation that creates a very funny mental image."
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "卢布汇率暴跌会有什么生意产生？或者能以优惠的价格买到什么东西？",
+      "punchline": "还手机？跌了这么多你就花三千？拜托有点魄力好不好，现在难道不是采购坦克的大好时机吗！",
+      "bulk": {
+        "unexpectedness": 8.0,
+        "cleverness": 7.0,
+        "amusement": 8.0,
+        "overall": 8.0,
+        "rationale": "The joke effectively builds up an expectation of typical consumer goods before subverting it with the hyperbole of buying a tank, which is both unexpected and amusing given the context of a currency crash."
+      },
+      "strong": {
+        "unexpectedness": 9.0,
+        "cleverness": 7.0,
+        "amusement": 8.0,
+        "overall": 8.0,
+        "rationale": "The joke's humor stems from its extreme and unexpected escalation. It takes a common economic question about buying discounted goods and absurdly suggests purchasing a tank, a clever and surprising pivot that plays on the geopolitical context. The punchline's audacity creates a strong comedic effect."
+      },
+      "overall_abs_delta": 0.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "吃一小勺被sql注入的用户名会怎么样？",
+      "punchline": "会发出一种绿色的叫声，吃起来就像是接口测试的味道。",
+      "bulk": {
+        "unexpectedness": 8.0,
+        "cleverness": 7.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The joke is a surreal and unexpected blend of technical concepts (SQL injection, interface testing) with sensory experiences (green scream, taste). The unexpectedness of describing a SQL-injected username as something edible with a specific color, sound, and taste is high. The cleverness lies in personifying abstract tech terms into concrete, bizarre sensations, creating a humorous absurdity. Amusement comes from the sheer silliness and the unique imagery it conjures, especially for someone familiar with the tech terms."
+      },
+      "strong": {
+        "unexpectedness": 9.0,
+        "cleverness": 7.0,
+        "amusement": 8.0,
+        "overall": 8.0,
+        "rationale": "The joke's strength is its extreme absurdity, applying surreal sensory qualities (a green scream, the taste of API testing) to abstract technical concepts. This creates a highly unexpected punchline that is very amusing for a tech-savvy audience. Its cleverness lies in the creative, bizarre imagery it constructs rather than in traditional wordplay."
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "问大家一个问题，电鳗电电鳗会不会把电鳗电死，还是电电鳗的电鳗会被挨电的电鳗的电把电电鳗的电鳗电死呢？",
+      "punchline": "电电鳗的电鳗身上有一层保护层，被电鳗电的电鳗身上也有这样一层保护层。所以就算电电鳗的电鳗使劲电被电鳗电的电鳗被电鳗电的电鳗也不会被电电鳗的电鳗电死。",
+      "bulk": {
+        "unexpectedness": 7.0,
+        "cleverness": 6.0,
+        "amusement": 5.0,
+        "overall": 6.0,
+        "rationale": "The joke plays on the repetitive nature of Chinese characters to create a tongue-twister that is more about the wordplay than the actual biological answer. The punchline provides a factual, albeit somewhat expected, resolution to the setup. The humor comes from the linguistic challenge rather than a surprising twist."
+      },
+      "strong": {
+        "unexpectedness": 3.0,
+        "cleverness": 8.0,
+        "amusement": 6.0,
+        "overall": 6.0,
+        "rationale": "This joke is a classic Chinese tongue twister. Its humor derives entirely from the linguistic cleverness of repeating and rearranging the characters for 'electric' and 'eel' to create a confusing but grammatically sound sentence. The punchline isn't unexpected, as it continues the tongue-twister format rather than offering a twist. The amusement comes from the absurdity of the phrasing and the mental effort required to parse it, making it more clever than laugh-out-loud funny."
+      },
+      "overall_abs_delta": 0.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "你会怎么写三行情书？",
+      "punchline": "我们化学了我们物理了我们生物了",
+      "bulk": {
+        "unexpectedness": 7.0,
+        "cleverness": 8.0,
+        "amusement": 6.0,
+        "overall": 7.0,
+        "rationale": "The joke uses scientific subjects to humorously imply a relationship's progression, which is a clever and somewhat unexpected twist on the typical romantic 'three-line poem' format. It relies on a cultural understanding of these subjects often being paired in school, and then applies them metaphorically to a relationship."
+      },
+      "strong": {
+        "unexpectedness": 9.0,
+        "cleverness": 9.0,
+        "amusement": 7.0,
+        "overall": 8.0,
+        "rationale": "The joke brilliantly subverts the expectation of a romantic 'three-line love letter' with a blunt, scientific progression. The cleverness lies in using 'chemistry,' 'physics,' and 'biology' as verbs to narrate the stages of a relationship, from initial attraction to its biological conclusion. It's highly unexpected and witty, though more clever than laugh-out-loud funny."
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "女人的必杀技是「你敢吼我」，男人的必杀技是什么？",
+      "punchline": "你要是这么想我也没办法。",
+      "bulk": {
+        "unexpectedness": 7.0,
+        "cleverness": 8.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The joke plays on common relationship dynamics. The 'you dare yell at me' from women is a recognizable, often conversation-ending phrase. The male 'if you think that, I can't help it' is a cleverly passive-aggressive, often equally conversation-ending, way to deflect and disengage, which is quite unexpected as a 'killer move' but accurate in its subtext of frustration and helplessness. It's a relatable observation for many. "
+      },
+      "strong": {
+        "unexpectedness": 6.0,
+        "cleverness": 8.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "This is a strong piece of observational humor based on relationship dynamics. The cleverness lies in framing a common, passive-aggressive phrase as a male's 'ultimate move,' creating a perfect and frustratingly accurate parallel to the female equivalent in the setup. The amusement comes from the shock of recognition."
+      },
+      "overall_abs_delta": 0.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "流浪汉的圣诞老人这次又搞什么鬼了？中尾也吓了一跳。",
+      "punchline": "放养驯鹿",
+      "bulk": {
+        "unexpectedness": 7.0,
+        "cleverness": 6.0,
+        "amusement": 6.0,
+        "overall": 6.0,
+        "rationale": "The punchline '放养驯鹿' (free-range reindeer) is somewhat unexpected because it plays on the common image of Santa's reindeer being working animals, implying a more relaxed, perhaps even absurd, approach for a homeless Santa. The cleverness comes from this subversion of expectations and the slight wordplay. It's amusing for its slightly absurd image, though not laugh-out-loud funny. Overall, it's a decent, mildly clever joke."
+      },
+      "strong": {
+        "unexpectedness": 8.0,
+        "cleverness": 7.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The punchline is a surprisingly fitting and absurd action for the 'tramp Santa' character established in the setup. The humor comes from applying a 'free-range' concept to Santa's reindeer, creating a bizarre and amusing mental image."
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "美国人有哪些反智现象？",
+      "punchline": "歪个楼吧。我遇到过那种跟我说地球历史只有五千年的美国人。他很跟我高谈阔论一阵之后神秘的问我：“你常说中国的历史很悠久，有五千多年，那你们的祖先见过恐龙吗？”我认真的想了一下，回答他说：“我不认为人类曾于恐龙共处一世，如果有，那么我们的食谱上会记载恐龙的口味和做法。”",
+      "bulk": {
+        "unexpectedness": 7.0,
+        "cleverness": 8.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The joke is funny because it uses a logical, albeit humorous, deduction to counter a creationist's flawed understanding of history. The idea of humans having recipes for dinosaurs is an unexpected and amusing twist."
+      },
+      "strong": {
+        "unexpectedness": 9.0,
+        "cleverness": 9.0,
+        "amusement": 8.0,
+        "overall": 9.0,
+        "rationale": "The setup leads one to expect a direct refutation of the anti-intellectual question. The punchline, however, pivots brilliantly to a culinary and cultural perspective, which is both highly unexpected and clever. The humor lies in the absurd yet logical application of the stereotype that Chinese cuisine is all-encompassing, creating a hilarious mental image of recipes for dinosaurs."
+      },
+      "overall_abs_delta": 2.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "拥有稀有姓氏是一种什么样的体验？",
+      "punchline": "我的律师姓“库”。我爸妈刚认识他的时候总是记不清楚。后来就发生了如下对话。我妈：“你最近联系车律师了吗？有没有什么消息？”我：“车律师？谁是车律师？”我妈：“不对。他好像不姓‘车’。姓什么来着？”我爸：“人家姓仓。仓律师。”我：“仓律师？仓律师又是谁？…”我爸：“就是咱们上个月见过的那个。”我：“你说的是库律师吗？……”我爸我妈：“啊哈哈哈哈哈……”",
+      "bulk": {
+        "unexpectedness": 6.0,
+        "cleverness": 7.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The humor comes from the common confusion of rare surnames, especially those that sound similar to more common ones or are easily misremembered. The setup is good, and the punchline is a relatable scenario of a family struggling with a less common name, with the '库' vs '车' vs '仓' confusion being the core of the joke. It's a gentle, observational humor that's likely to resonate with many, especially those with unusual names or who interact with people who do."
+      },
+      "strong": {
+        "unexpectedness": 4.0,
+        "cleverness": 6.0,
+        "amusement": 5.0,
+        "overall": 5.0,
+        "rationale": "The joke humorously illustrates the confusion caused by a rare surname through a relatable family conversation. The cleverness lies in the parents' mistakes, which are based on both the visual similarity (库 vs. 车) and semantic similarity (库 vs. 仓) of the Chinese characters. While not hilariously funny or wildly unexpected, it's a well-crafted and amusing anecdote."
+      },
+      "overall_abs_delta": 2.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "您能试着在所有标题和台词中加上“剩余三个月的生命”，让自己感到悲伤吗？",
+      "punchline": "我还有三个月，一百天后会死的鳄鱼。",
+      "bulk": {
+        "unexpectedness": 6.0,
+        "cleverness": 7.0,
+        "amusement": 5.0,
+        "overall": 6.0,
+        "rationale": "The joke is mildly unexpected as it's an unusual request, and the punchline, while simple, plays on the setup effectively. It's not laugh-out-loud funny but elicits a wry smile."
+      },
+      "strong": {
+        "unexpectedness": 3.0,
+        "cleverness": 6.0,
+        "amusement": 4.0,
+        "overall": 4.0,
+        "rationale": "The joke cleverly references the well-known manga 'A Crocodile Who Will Die in 100 Days,' as three months is roughly 100 days. The humor relies entirely on recognizing this specific cultural reference, making it clever but not particularly surprising or broadly amusing."
+      },
+      "overall_abs_delta": 2.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "请问去茨城县旅游时需要注意些什么？",
+      "punchline": "在电车上搅拌纳豆也是茨城县的常识，所以要忍耐。",
+      "bulk": {
+        "unexpectedness": 7.0,
+        "cleverness": 6.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The joke creates an unexpected image of people stirring natto on a train, playing on cultural differences and making a humorous claim about local customs. It's a bit silly and absurd, which contributes to its amusement."
+      },
+      "strong": {
+        "unexpectedness": 8.0,
+        "cleverness": 7.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The joke skillfully subverts the expectation of genuine travel advice by presenting an absurd and socially unacceptable act as a local custom. The choice of stirring natto on a train is a clever play on Ibaraki's reputation as a major natto producer, creating a vivid and comical image that is highly unexpected."
+      },
+      "overall_abs_delta": 0.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "25 岁男生为了打游戏提前一个小时起床，玩到迟到才去公司，这种人有出息吗？",
+      "punchline": "从他能找到女朋友这点看来，他至少比我有出息。",
+      "bulk": {
+        "unexpectedness": 7.0,
+        "cleverness": 6.0,
+        "amusement": 8.0,
+        "overall": 7.0,
+        "rationale": "The joke effectively uses self-deprecation as the punchline, shifting focus from the initial question to the speaker's own situation. The unexpected twist of comparing oneself to the 'loser' described creates a relatable and humorous moment. While not groundbreaking, the cleverness lies in the misdirection and the common trope of finding someone with a girlfriend to be 'successful'."
+      },
+      "strong": {
+        "unexpectedness": 8.0,
+        "cleverness": 7.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The joke effectively misdirects the audience. The setup poses a serious question about career prospects, but the punchline unexpectedly pivots to a self-deprecating comparison about romantic success. This redefinition of 'having a future' is clever and highly relatable, making the twist quite amusing."
+      },
+      "overall_abs_delta": 0.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "女儿差一分免学费，我该批评她吗?",
+      "punchline": "为了六万块钱唠叨半天，想必您的资产并没有排到省内前三百。作为学习成绩排名省内三百多的优秀学生，您的女儿应该批评您。",
+      "bulk": {
+        "unexpectedness": 7.0,
+        "cleverness": 8.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The joke cleverly flips the perspective, turning the parent into the one who should be criticized based on their perceived financial status relative to the 'value' of the scholarship. The unexpected shift in who is 'ranked' adds to the humor."
+      },
+      "strong": {
+        "unexpectedness": 9.0,
+        "cleverness": 9.0,
+        "amusement": 8.0,
+        "overall": 9.0,
+        "rationale": "The joke masterfully subverts expectations. Instead of parenting advice, it delivers a sharp role-reversal where the high-achieving daughter gets to criticize the parent's financial status. The parallel logic comparing academic ranking to wealth ranking is extremely clever and creates a biting, satirical punchline that is both surprising and amusing."
+      },
+      "overall_abs_delta": 2.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "学霸可以有多霸?",
+      "punchline": "- 你知道这里错了，为什么不改过来啊？- 要到第二遍检查时才发现的错误，有什么被改正的资格？",
+      "bulk": {
+        "unexpectedness": 7.0,
+        "cleverness": 8.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The joke effectively portrays an 'overachiever' mindset through the unexpected logic of not correcting a mistake found too early, implying it's not 'worthy' of being a mistake if easily found. The setup is a common phrase, but the punchline's explanation for not correcting a mistake is clever."
+      },
+      "strong": {
+        "unexpectedness": 8.0,
+        "cleverness": 8.0,
+        "amusement": 7.0,
+        "overall": 8.0,
+        "rationale": "The joke cleverly personifies academic arrogance. The punchline is unexpected because the reason for not correcting an error isn't oversight, but a god-like judgment on the error's 'quality'. This absurdly domineering logic perfectly answers the setup and is highly amusing for those familiar with the 'top student' stereotype."
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "把土事处理完。",
+      "punchline": "应对投诉",
+      "bulk": {
+        "unexpectedness": 6.0,
+        "cleverness": 8.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The joke relies on a homophone/pun in Chinese, where \"处理完土事\" (chǔlǐ wán tǔshì - finish dealing with dirt/earth matters) sounds similar to \"处理完投诉\" (chǔlǐ wán tóusù - finish dealing with complaints). The unexpectedness comes from the shift in meaning due to the homophone. It's clever in its linguistic play. While not a laugh-out-loud joke for everyone, it's a solid, well-crafted pun."
+      },
+      "strong": {
+        "unexpectedness": 6.0,
+        "cleverness": 6.0,
+        "amusement": 4.0,
+        "overall": 5.0,
+        "rationale": "The joke relies on a simple pun between '土事' (tǔ shì - earth matters) and '投诉' (tóusù - complaint). The setup creates a misleading context that is amusingly resolved by the mundane punchline. It's a classic 'cold joke' structure—clever in its wordplay but only mildly amusing."
+      },
+      "overall_abs_delta": 2.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "你为什么从国企离职？",
+      "punchline": "8 个月前从国企离职，原因很简单：一年的时间，国企教我怎么做人，可是，其实我想做点事......",
+      "bulk": {
+        "unexpectedness": 6.0,
+        "cleverness": 7.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The joke pokes fun at the bureaucracy and lack of agency often found in state-owned enterprises, which is relatable for many. The punchline is a clever twist on the expectation of career development, highlighting a desire for impactful work over just 'learning how to be a person'. It's amusing due to its understated critique."
+      },
+      "strong": {
+        "unexpectedness": 6.0,
+        "cleverness": 8.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "This joke's humor comes from a clever and cynical play on words that critiques Chinese state-owned enterprise (SOE) culture. The punchline contrasts '做人' (learning how to behave/navigate social politics) with '做事' (actually doing work), a relatable frustration for many. The unexpectedness is moderate as it's a common stereotype, but the sharp, concise phrasing makes it highly clever and amusing, especially for those familiar with the cultural context."
+      },
+      "overall_abs_delta": 0.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "金融领域有哪些经典的笑话？",
+      "punchline": "阿基米德：给我一个杠杆我能撬动地球。金融人：喏，这个三倍杠杆借给你。第二天开盘，阿基米德净亏两个地球。",
+      "bulk": {
+        "unexpectedness": 7.0,
+        "cleverness": 8.0,
+        "amusement": 8.0,
+        "overall": 8.0,
+        "rationale": "This joke cleverly twists the classic Archimedes quote into a modern financial context, highlighting the risks of leverage in an amusing and relatable way. The punchline is a good exaggeration, creating a humorous image of extreme loss."
+      },
+      "strong": {
+        "unexpectedness": 9.0,
+        "cleverness": 10.0,
+        "amusement": 8.0,
+        "overall": 9.0,
+        "rationale": "这个笑话的巧妙之处在于“杠杆”一词的双关语，它既指阿基米德物理学中的撬棍，也指金融领域的金融杠杆。将古典物理学的豪言壮语与现代金融市场的残酷现实出人意料地结合在一起，产生了强烈的喜剧效果。结尾阿基米德净亏两个地球，是对杠杆风险精准而又夸张的讽刺，非常诙谐，堪称金融圈的经典笑话。"
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "男生如何变得成熟？",
+      "punchline": "买衣服开始买合身的，而不是大一号开始。",
+      "bulk": {
+        "unexpectedness": 6.0,
+        "cleverness": 7.0,
+        "amusement": 6.0,
+        "overall": 7.0,
+        "rationale": "This joke plays on a common observation about young men's clothing choices and links it to a subtle form of maturity. The unexpectedness comes from the mundane yet relatable solution to 'how to become mature.' It's clever in its simplicity and the relatable truth it points out. While not laugh-out-loud funny, it elicits a knowing chuckle."
+      },
+      "strong": {
+        "unexpectedness": 8.0,
+        "cleverness": 7.0,
+        "amusement": 6.0,
+        "overall": 7.0,
+        "rationale": "The humor stems from the unexpected pivot from a broad, philosophical question about maturity to a very specific, mundane shopping habit. It's a clever and highly relatable observation that reframes a simple clothing choice as a milestone of adulthood, leading to a chuckle of recognition."
+      },
+      "overall_abs_delta": 0.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "有哪些让你毁三观的事情?",
+      "punchline": "和朋友去重庆住酒店，出去吃个饭的功夫，就有人塞了很多小卡片进来，还不是一伙人好家伙，拿在手里都能凑齐一副牌，朋友挨个联系了一遍，然后一一添加微信。最后把它们拉了一个群，让他们拼多多帮忙砍一刀。",
+      "bulk": {
+        "unexpectedness": 8.0,
+        "cleverness": 7.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The setup leads you to expect a story about illicit services, but the punchline takes a surprising turn by having the friend use them for Pinduoduo bargaining, which is quite clever and amusing."
+      },
+      "strong": {
+        "unexpectedness": 9.0,
+        "cleverness": 8.0,
+        "amusement": 8.0,
+        "overall": 8.0,
+        "rationale": "The joke masterfully subverts expectations. It starts with a common, slightly seedy scenario (prostitution cards at a hotel) and pivots to a hilariously mundane and modern punchline: using the contacts to get a discount on the e-commerce app Pinduoduo. This clever juxtaposition of the illicit with the absurdly practical is both highly unexpected and very amusing."
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "如果地球体积有木星、土星那样大，世界格局会有什么改变？",
+      "punchline": "可能 2017 年还在航海大发现？",
+      "bulk": {
+        "unexpectedness": 7.0,
+        "cleverness": 8.0,
+        "amusement": 6.0,
+        "overall": 7.0,
+        "rationale": "The joke creates a funny image of a vastly larger Earth, implying that exploration would take centuries longer, putting a fresh spin on the concept of discovery."
+      },
+      "strong": {
+        "unexpectedness": 8.0,
+        "cleverness": 9.0,
+        "amusement": 7.0,
+        "overall": 8.0,
+        "rationale": "The joke cleverly subverts the geopolitical premise by focusing on the overwhelming physical scale. The punchline, suggesting we'd still be in the Age of Discovery, is an unexpected and witty re-framing of the problem, highlighting the vastness of such a world in a humorous and insightful way."
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "这部电影的名字是《142号室》和《1年B组的回忆》。",
+      "punchline": "隔壁的天空之城",
+      "bulk": {
+        "unexpectedness": 7.0,
+        "cleverness": 6.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The joke plays on the idea of movie titles and then twists it with a well-known Ghibli film, creating a surreal and amusing image. The unexpected shift to \"Castle in the Sky\" after seemingly normal-ish movie titles is a nice touch. It's a bit absurd, which adds to the humor."
+      },
+      "strong": {
+        "unexpectedness": 9.0,
+        "cleverness": 8.0,
+        "amusement": 7.0,
+        "overall": 8.0,
+        "rationale": "The joke sets up an expectation of two related, niche films through clever phonetic puns understandable to a specific audience (those familiar with Japanese readings and anime/manga culture). The punchline abruptly shifts to a famous, unrelated Ghibli movie, creating a highly unexpected and absurd contrast that is amusing for those who get the references."
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "有哪些超短却能让人笑抽的笑话？",
+      "punchline": "室友突然拿起桌上的水猛地往自己脸上倒，然后愣了几秒钟，说了句，我刚是不是没张嘴？！",
+      "bulk": {
+        "unexpectedness": 8.0,
+        "cleverness": 7.0,
+        "amusement": 9.0,
+        "overall": 8.0,
+        "rationale": "The joke starts with a common setup of someone pouring water on their face, which usually implies a dramatic or frustrated moment. The twist comes from the person's confused realization that they didn't open their mouth, which is a very unexpected and silly reason for pouring water on oneself. This creates a strong image of unexpected clumsiness and a moment of genuine, albeit self-inflicted, absurdity. The image of the friend pouring water on their face and the subsequent realization is both unexpected and funny. It's a silly, relatable moment of human error that many can picture happening, making it highly amusing."
+      },
+      "strong": {
+        "unexpectedness": 8.0,
+        "cleverness": 5.0,
+        "amusement": 8.0,
+        "overall": 8.0,
+        "rationale": "The humor stems from the vivid and absurd mental image it creates. The action is unexpected, and the punchline reveals a level of absent-mindedness that is both relatable and hilarious. It's a great example of physical comedy described in text, relying on sheer silliness rather than clever wordplay."
+      },
+      "overall_abs_delta": 0.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "我喊过一次。",
+      "punchline": "这句日语话的中文意思是：“对穿著的人来说，制服其实也很性感呢！”",
+      "bulk": {
+        "unexpectedness": 9.0,
+        "cleverness": 7.0,
+        "amusement": 8.0,
+        "overall": 8.0,
+        "rationale": "The joke sets up an expectation of a simple statement but delivers a complex, unexpected, and somewhat suggestive Japanese phrase and its translation. The humor comes from the complete non-sequitur and the specific content of the 'shout'."
+      },
+      "strong": {
+        "unexpectedness": 8.0,
+        "cleverness": 7.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The joke excels in its unexpectedness, transforming a mundane Chinese sentence into a Japanese pun with a completely unrelated and amusing meaning. The cleverness of this cross-lingual wordplay creates a surprising and humorous twist."
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "男人能轻易看穿女人的哪些谎言和行为？",
+      "punchline": "你（N）忙（M）吧（B）。",
+      "bulk": {
+        "unexpectedness": 6.0,
+        "cleverness": 7.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The joke plays on a common social trope and uses an acronym, which is clever. The humor comes from the relatable observation that \"你忙吧\" (You're busy) often means the exact opposite, a passive-aggressive dismissal or testing of commitment, which men often see through."
+      },
+      "strong": {
+        "unexpectedness": 8.0,
+        "cleverness": 9.0,
+        "amusement": 7.0,
+        "overall": 8.0,
+        "rationale": "The joke's cleverness lies in its use of pinyin initials (N, M, B) to reveal a vulgar internet slang acronym (NMB) hidden within an otherwise innocuous phrase, '你忙吧' (Go be busy). This creates a highly unexpected and cynical punchline that directly answers the setup, suggesting men can see through the polite facade to the frustration underneath."
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "为还什么有那么多的人反对相对论？",
+      "punchline": "一般是这样的：我们都知道，瓷器活是不可能完成的。但是怎么证明它就是一个问题了，今天我想到了一个绝妙的证明方法。首先，根据瓷器制作理论，没有金刚钻，不揽瓷器活。可知，瓷器活是使用金刚钻完成的。而金刚钻顾名思义就一定用到了金刚。金刚是什么？就是电影里那只巨大的猩猩。而从生物学上我们早就论证了不可能有那么大的猩猩。所以金刚钻也是不存在的，更不要提什么瓷器活了。",
+      "bulk": {
+        "unexpectedness": 7.0,
+        "cleverness": 8.0,
+        "amusement": 6.0,
+        "overall": 7.0,
+        "rationale": "The joke takes a surprising, illogical turn from relativity to a convoluted argument about 'porcelain work' and 'King Kong drill' (金刚钻 - jīngāng zuàn - literally 'diamond drill' but 'King Kong' as in the ape). The wordplay on 'King Kong' being a giant ape is clever, leading to a humorous, albeit absurd, 'proof' that porcelain work is impossible. It's amusing because of its escalating silliness, twisting a common idiom into a ridiculous philosophical debate."
+      },
+      "strong": {
+        "error": "judge_failed"
+      }
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "把曲名用字母表中的七个字母拼出来，会很有趣，试试看吧。",
+      "punchline": "烟花（Mr.Children）",
+      "bulk": {
+        "unexpectedness": 6.0,
+        "cleverness": 7.0,
+        "amusement": 5.0,
+        "overall": 6.0,
+        "rationale": "The joke relies on the visual similarity of 'Mr.Children' when typed as 'Mr.Children' and then stating 'yan hua' which sounds like 'Mr.Children' in Chinese. The unexpectedness comes from the sudden shift to Chinese and the phonetic play. It's clever in its cross-language wordplay but might not land for everyone without the context of the band name and its Chinese pronunciation."
+      },
+      "strong": {
+        "unexpectedness": 8.0,
+        "cleverness": 4.0,
+        "amusement": 5.0,
+        "overall": 5.0,
+        "rationale": "The joke sets up a very specific rule (spell a song title using only the letters A through G) and then immediately and blatantly breaks it with the punchline 'HANABI'. This complete disregard for the premise is highly unexpected. However, its cleverness is low because the humor comes from simple subversion rather than witty wordplay or a clever logical twist. It's a classic anti-joke structure, which can be mildly amusing for its absurdity, but isn't broadly hilarious."
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "有哪些令你拍案叫绝的音译？",
+      "punchline": "蛇果……英文命 : Red delicious apple香港人音译：红地厘蛇果水果摊 : 蛇果哈哈哈哈哈",
+      "bulk": {
+        "unexpectedness": 6.0,
+        "cleverness": 7.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The joke is clever in illustrating how the translation evolved into something much shorter and funnier. The \"snake fruit\" name is indeed quite unexpected for an apple, making it amusing."
+      },
+      "strong": {
+        "unexpectedness": 7.0,
+        "cleverness": 8.0,
+        "amusement": 6.0,
+        "overall": 7.0,
+        "rationale": "The joke cleverly reveals the absurd linguistic journey of 'Red Delicious Apple' to its common Chinese name, 'Snake Fruit' (蛇果). The humor stems from the unexpected and illogical final name, which is a real-world result of phonetic translation and abbreviation. It's more of a clever observation than a structured gag, leading to more appreciation than outright laughter."
+      },
+      "overall_abs_delta": 0.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "如果家里有一个糖果店，你会想要什么？",
+      "punchline": "胰岛素注射器",
+      "bulk": {
+        "unexpectedness": 9.0,
+        "cleverness": 7.0,
+        "amusement": 8.0,
+        "overall": 8.0,
+        "rationale": "The joke is unexpected because it subverts the typical child-like answer of wanting unlimited candy with a dark, health-related punchline. The cleverness lies in the immediate implication of the consequence of having a candy store, and the amusement comes from the dark humor."
+      },
+      "strong": {
+        "unexpectedness": 9.0,
+        "cleverness": 8.0,
+        "amusement": 7.0,
+        "overall": 8.0,
+        "rationale": "The punchline is highly unexpected, subverting the childish fantasy of the setup with the grim medical reality of overindulgence. This clever and dark logical leap makes for a very effective, albeit cynical, joke."
+      },
+      "overall_abs_delta": 0.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "请问如何测量一米？",
+      "punchline": "一千只大蜈蚣。",
+      "bulk": {
+        "unexpectedness": 9.0,
+        "cleverness": 7.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The joke plays on the similar pronunciation of \"mille\" (French for thousand) and \"mi\" (meter) in Chinese, creating a silly and unexpected answer to a straightforward question. It's a pun that relies on cross-linguistic sound association."
+      },
+      "strong": {
+        "error": "judge_failed"
+      }
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "请给我找一个借口，说得像名言一样。",
+      "punchline": "我并没有迟到，只是时间等不及我了。",
+      "bulk": {
+        "unexpectedness": 7.0,
+        "cleverness": 8.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The joke rephrases a common excuse into a witty, almost philosophical statement. The unexpected shift in perspective from the person being late to time being 'impatient' is clever and amusing."
+      },
+      "strong": {
+        "unexpectedness": 7.0,
+        "cleverness": 9.0,
+        "amusement": 7.0,
+        "overall": 8.0,
+        "rationale": "The punchline is a brilliant piece of linguistic jujitsu. It takes a common failing—being late—and reframes it with a grandiose, philosophical twist, making the speaker sound important rather than irresponsible. The cleverness lies in this inversion of agency, where time itself is the one that's impatient. It's highly amusing and perfectly fulfills the setup's request for a quote-like excuse."
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "会医学是一种怎样的体验？",
+      "punchline": "「嗯，因人而异。」「额，可能是吧。」「噢，我也不懂。」「啧，别信那些。」「唉，那你去吧。」",
+      "bulk": {
+        "unexpectedness": 6.0,
+        "cleverness": 7.0,
+        "amusement": 6.0,
+        "overall": 6.0,
+        "rationale": "The joke cleverly mimics the vague and often unhelpful responses one might get when asking about traditional Chinese medicine, playing on the common perception of its subjectivity and lack of concrete explanations. The unexpectedness comes from the punchline being a series of dismissive and non-committal answers rather than a direct description. It's amusing in its relatability for anyone who has encountered such responses."
+      },
+      "strong": {
+        "error": "judge_failed"
+      }
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/oogiri",
+      "setup": "把汽车的名字稍微改一下，让它显得有点土气。",
+      "punchline": "死期将近",
+      "bulk": {
+        "unexpectedness": 7.0,
+        "cleverness": 8.0,
+        "amusement": 6.0,
+        "overall": 7.0,
+        "rationale": "The joke plays on homophones and the unexpected shift from a 'tacky' car name to a grim punchline. The humor comes from the sudden, dark twist. The cleverness lies in the wordplay of '死期将近' (sǐqījīngjìn) sounding like a car name."
+      },
+      "strong": {
+        "unexpectedness": 8.0,
+        "cleverness": 8.0,
+        "amusement": 6.0,
+        "overall": 7.0,
+        "rationale": "这个笑话的巧妙之处在于它利用了谐音梗。它将汽车品牌“斯柯达”的读音扭曲成了不祥的“死期将近”。铺垫要求一个“土气”的名字，但笑点却转向了黑色幽默，这种出乎意料的转折既聪明又好笑。"
+      },
+      "overall_abs_delta": 0.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "我把我车钥匙落在车里，现在锁不了车门了。 有人能告诉我怎么办吗？",
+      "punchline": "如果你的车钥匙已经锁在车里，那么你实际上已经无法再从外部打开车门了，所以你的车已经被锁住了。你需要做的是找专业的开锁服务或者联系汽车救援服务来帮你打开车门，取回你的车钥匙。",
+      "bulk": {
+        "unexpectedness": 2.0,
+        "cleverness": 4.0,
+        "amusement": 3.0,
+        "overall": 3.0,
+        "rationale": "The punchline is less of a joke and more of a literal, unhelpful answer. It assumes the car is already locked, which isn't the problem presented in the setup. The 'cleverness' is in the slight misdirection of assuming the car is locked, but it doesn't land as funny."
+      },
+      "strong": {
+        "unexpectedness": 2.0,
+        "cleverness": 1.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "This is not a joke. The 'punchline' is a literal, helpful answer to a common problem. It lacks any element of humor, wordplay, or clever misdirection. It's an explanation, not a punchline."
+      },
+      "overall_abs_delta": 2.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "出生证丢了怎么证明自己出生了",
+      "punchline": "可以通过其他官方文件来证明，例如护照、身份证、驾驶证等。这些文件都需要出生证明来申请，因此它们也可以作为你出生的证明。此外，医院的出生记录、学校的入学记录、家庭照片等也可以作为间接证据。如果所有这些都没有，可以向出生地的公共卫生部门或者医院申请复制出生证明。",
+      "bulk": {
+        "unexpectedness": 2.0,
+        "cleverness": 4.0,
+        "amusement": 2.0,
+        "overall": 3.0,
+        "rationale": "This isn't really a joke, but rather a straightforward, helpful answer to a practical question. There's no unexpected punchline or clever wordplay designed for humor."
+      },
+      "strong": {
+        "unexpectedness": 1.0,
+        "cleverness": 1.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "This is not a joke. It is a serious and factual answer to a practical question. There is no punchline, wordplay, or attempt at humor."
+      },
+      "overall_abs_delta": 2.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "问一道数学问题 关羽一小时能斩20个颜良 华佗一小时能救17个颜良 假设一共有233.3个颜良 关羽斩颜良的同时华佗救颜良 求关羽多长时间能把颜良给杀完？",
+      "punchline": "关羽一小时能斩20个颜良，华佗一小时能救17个颜良，所以关羽和华佗一小时实际上只能减少3个颜良（20-17=3）。所以，要消灭233.3个颜良，关羽需要的时间是233.3/3=77.77小时。",
+      "bulk": {
+        "unexpectedness": 6.0,
+        "cleverness": 7.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The joke is a simple math problem with a twist, combining a historical figure's exaggerated killing ability with a physician's healing, and then applying basic arithmetic. The unexpectedness comes from the unusual premise, and the cleverness is in the straightforward yet absurd setup. It's amusing because of the ridiculous context."
+      },
+      "strong": {
+        "error": "judge_failed"
+      }
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "怎么区分00后 1900出生的是00后，2000出生的也是00后，我该怎么区分？",
+      "punchline": "你可以通过询问他们的具体出生年份来区分。\"00后\"通常指的是2000年至2009年间出生的人。而1900年出生的人，虽然他们的出生年份也以\"00\"结尾，但他们属于20世纪初的一代，与\"00后\"有很大的年龄差距。所以，你可以通过询问他们的具体出生年份，或者他们的年龄，来区分他们是1900年出生的人，还是2000年出生的\"00后\"。",
+      "bulk": {
+        "unexpectedness": 1.0,
+        "cleverness": 1.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "This isn't a joke; it's a straightforward explanation of how to differentiate between two groups based on birth year. It offers no humor, unexpectedness, or cleverness."
+      },
+      "strong": {
+        "unexpectedness": 1.0,
+        "cleverness": 1.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "This is not a joke. The setup poses a question based on a potential ambiguity, but the 'punchline' is a completely literal, straightforward, and humorless explanation. It fails to be funny because it answers the question seriously instead of providing a witty or surprising twist."
+      },
+      "overall_abs_delta": 0.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "一些高中想提高升学率，为什么不直接招大学生？",
+      "punchline": "因为高中的目标是培养学生进入大学，而不是招收已经是大学生的人。招收大学生并不能提高高中的升学率，因为这些大学生已经完成了高中阶段的学习并成功升入大学。高中应该通过提高教学质量，增强学生的学习能力和兴趣，以提高其升学率。",
+      "bulk": {
+        "unexpectedness": 3.0,
+        "cleverness": 2.0,
+        "amusement": 2.0,
+        "overall": 2.0,
+        "rationale": "The 'joke' is more of a logical explanation than a humorous one. It doesn't subvert expectations or use wordplay; it simply states the obvious reason why high schools don't recruit university students to improve enrollment rates."
+      },
+      "strong": {
+        "unexpectedness": 2.0,
+        "cleverness": 1.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "This is not a joke. The 'punchline' is a completely literal, straightforward, and humorless explanation of why the absurd premise in the setup is illogical. It lacks any wit, surprise, or comedic structure."
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "为啥长寿的碰巧都是老年人？",
+      "punchline": "这是因为\"长寿\"本身就是指的人的年龄大，生活的时间长，所以长寿的人自然就是老年人。这并不是碰巧，而是\"长寿\"这个词语的定义就决定了这一点。",
+      "bulk": {
+        "unexpectedness": 2.0,
+        "cleverness": 5.0,
+        "amusement": 4.0,
+        "overall": 4.0,
+        "rationale": "The joke is a bit of a trick, playing on the definition of 'longevity.' It's not particularly surprising, as the answer is a logical tautology. The cleverness comes from the play on words and definitions, but it doesn't quite land as very amusing."
+      },
+      "strong": {
+        "error": "judge_failed"
+      }
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "蓝牙耳机坏了，去医院挂牙科还是耳科？",
+      "punchline": "蓝牙耳机坏了应该去维修店或者找专业的电子产品维修人员修理，而不是去医院的牙科或耳科。",
+      "bulk": {
+        "unexpectedness": 2.0,
+        "cleverness": 1.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "The joke is a non-joke; it provides a literal, unhumorous answer to a humorous setup. There is no punchline, wit, or cleverness."
+      },
+      "strong": {
+        "unexpectedness": 3.0,
+        "cleverness": 2.0,
+        "amusement": 2.0,
+        "overall": 2.0,
+        "rationale": "The setup is based on a decent pun in Chinese (蓝牙 sounds like 'blue tooth'). However, the punchline is an anti-joke that simply gives a literal, serious answer. This completely deflates the comedic tension rather than resolving it in a funny way, making the joke fall flat."
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "为什么不把房子盖成实心的，这样不是更牢固，更安全吗",
+      "punchline": "虽然实心的房子看起来可能更牢固，但这并不实用。首先，实心的房子没有空间供人居住。其次，它没有窗户和门，无法通风和进出。再者，实心的房子在建造成本上也会大大增加，因为需要更多的材料。此外，如果房子是实心的，那么在遇到地震等自然灾害时，可能会因为过于坚硬而无法有效地分散震动，反而可能导致更大的危害。所以，我们不会把房子盖成实心的。",
+      "bulk": {
+        "unexpectedness": 1.0,
+        "cleverness": 3.0,
+        "amusement": 2.0,
+        "overall": 2.0,
+        "rationale": "The joke is not really a joke but a logical explanation for why houses are not solid. There is no punchline, wit, or humor in the response."
+      },
+      "strong": {
+        "unexpectedness": 1.0,
+        "cleverness": 1.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "This is not a joke. The 'punchline' is a completely literal and serious explanation to the setup question. It lacks any form of humor, wordplay, or an unexpected twist, making it entirely unfunny."
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "怎么会有风油精这样的滴眼液 擦，眼睛要飘出来了",
+      "punchline": "这是一个幽默的表达，实际上风油精并不是滴眼液，不能用于眼睛。这句话的意思是，风油精的清凉感很强烈，仿佛眼睛都要被“飘”出来了。所以请不要将风油精用于眼睛，否则可能会引起不适甚至损伤眼睛。",
+      "bulk": {
+        "unexpectedness": 1.0,
+        "cleverness": 2.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "The 'punchline' is not a punchline but an explanation, rendering the 'joke' completely unfunny and devoid of cleverness or unexpectedness. It's more of a public service announcement than a joke."
+      },
+      "strong": {
+        "error": "judge_failed"
+      }
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "一个工人只上了14个小时的班，为什么我要给他发一天的工资",
+      "punchline": "可能是因为这个工人是在做那种按照完成任务来计算工资的工作，而不是按照工作的时间长短来计算。只要他在规定的时间内完成了应该完成的任务，就应该给他发一天的工资。或者，这个工人可能是在做那种需要连续工作14个小时的工作，这种工作的强度和压力很大，所以即使工作的时间没有达到24小时，也应该给他发一天的工资。",
+      "bulk": {
+        "unexpectedness": 3.0,
+        "cleverness": 2.0,
+        "amusement": 2.0,
+        "overall": 2.0,
+        "rationale": "The joke attempts to be a riddle but the punchline provides logical explanations rather than a humorous twist, making it less of a 'joke' and more of a 'problem with solutions.' It's not particularly surprising or clever because the answers are quite common reasons for such payment structures."
+      },
+      "strong": {
+        "unexpectedness": 1.0,
+        "cleverness": 1.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "这根本不是一个笑话。所谓的“笑点”只是对问题提出的几种严肃且合乎逻辑的可能性解释，完全没有幽默感、双关语或意外的转折。它更像是一个人力资源问题的答案，而不是一个笑话。"
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "烟盒上写着\"吸烟有害健康\" 和小视频网站上写着\"缓冲\"是不是一个性质",
+      "punchline": "不是一个性质。烟盒上写着\"吸烟有害健康\"是为了警告人们吸烟的危害，是一种健康警示。而小视频网站上写着\"缓冲\"则是指视频正在加载中，是一种技术状态的提示。两者在目的和性质上都不相同。",
+      "bulk": {
+        "unexpectedness": 2.0,
+        "cleverness": 3.0,
+        "amusement": 2.0,
+        "overall": 2.0,
+        "rationale": "This joke provides a literal, unhumorous explanation rather than a comedic punchline, making it less unexpected and amusing."
+      },
+      "strong": {
+        "unexpectedness": 8.0,
+        "cleverness": 6.0,
+        "amusement": 5.0,
+        "overall": 6.0,
+        "rationale": "This is a classic anti-joke. The setup poses a humorous comparison, creating an expectation for a clever punchline. The punchline completely subverts this by providing a literal, deadpan explanation, which is where the unexpected humor lies. Its cleverness is in its structure rather than wordplay, and its amusement depends on the audience's appreciation for anti-humor."
+      },
+      "overall_abs_delta": 4.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "古代的皇帝想永生，为什么不给自己颁个免死金牌？",
+      "punchline": "因为免死金牌只是一个象征性的物品，它不能真正阻止生命的消逝。古代的皇帝虽然拥有至高无上的权力，但他们不能改变生命的自然规律。所以，即使皇帝给自己颁发了免死金牌，也无法实现真正的永生。",
+      "bulk": {
+        "unexpectedness": 2.0,
+        "cleverness": 4.0,
+        "amusement": 3.0,
+        "overall": 3.0,
+        "rationale": "The joke sets up a common trope about emperors and immortality, but the punchline is a straightforward, literal explanation of why a 'death-exempt golden tablet' wouldn't grant immortality. It lacks a twist or a humorous misdirection, making it more of a factual correction than a joke. The cleverness is in the initial premise, but the execution falls flat for humor."
+      },
+      "strong": {
+        "error": "judge_failed"
+      }
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "我都把电脑砸烂了，为什么还是没见脑浆！！",
+      "punchline": "因为电脑并不是生物，没有脑浆。\"脑浆\"是指脑部的物质，只有生物才有。电脑是由各种硬件和软件组成的机器。",
+      "bulk": {
+        "unexpectedness": 2.0,
+        "cleverness": 4.0,
+        "amusement": 3.0,
+        "overall": 3.0,
+        "rationale": "This joke relies on a misunderstanding of the word '脑浆' (brain matter/brains). The setup plays on the literal interpretation, while the punchline clarifies the biological definition. It's a bit too straightforward and doesn't offer a surprising twist or particularly clever wordplay beyond the initial misunderstanding."
+      },
+      "strong": {
+        "error": "judge_failed"
+      }
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "一直不明白， 在电梯里都是站着的为什么要说“坐电梯”",
+      "punchline": "\"坐电梯\"这个说法并不是指在电梯里面真的坐下来，而是借用了我们日常生活中乘坐交通工具的说法。就像我们说\"坐飞机\"、\"坐火车\"一样，虽然在飞机和火车上我们也可能是站着的，但我们还是习惯说\"坐飞机\"、\"坐火车\"。这是一种惯用语，用来表示乘坐某种交通工具。所以，\"坐电梯\"实际上是\"乘坐电梯\"的简化说法。",
+      "bulk": {
+        "unexpectedness": 2.0,
+        "cleverness": 3.0,
+        "amusement": 1.0,
+        "overall": 2.0,
+        "rationale": "This is more of an explanation than a joke. It offers a logical reason for the phrasing, but there's no humorous twist or punchline to elicit laughter. The 'punchline' simply clarifies the linguistic usage, which is not unexpected or particularly clever in a comedic sense."
+      },
+      "strong": {
+        "unexpectedness": 1.0,
+        "cleverness": 1.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "This is not a joke; it's a linguistic explanation. The 'punchline' is a direct and serious answer to the question posed in the setup. There is no humor, surprise, or cleverness involved."
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "既然监狱里全是罪犯，👮♀️为什么不去监狱里抓人",
+      "punchline": "因为那些人已经被抓起来了，已经在监狱里，没有必要再抓一次。",
+      "bulk": {
+        "unexpectedness": 2.0,
+        "cleverness": 4.0,
+        "amusement": 3.0,
+        "overall": 3.0,
+        "rationale": "The joke is a bit of a tautology. While it has a simple logic, it lacks a true punchline or unexpected twist, making it less humorous."
+      },
+      "strong": {
+        "error": "judge_failed"
+      }
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "植物人为啥要呆病房里，放在公园不是更好吗",
+      "punchline": "\"植物人\"是对处于持续植物状态的病人的一种描述，这些病人由于大脑损伤而无法进行意识活动，但他们的生命体征仍然存在。他们需要在医院的病房里，因为他们需要专业的医疗护理和设备来维持生命。虽然公园的环境可能更加舒适和自然，但是没有专业的医疗设备和护理人员，无法满足他们的生命维持需求。",
+      "bulk": {
+        "unexpectedness": 1.0,
+        "cleverness": 1.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "This is not a joke, but a factual explanation. It lacks any unexpectedness, cleverness, or amusement as it simply defines 'vegetative state' and explains why such patients are in a hospital."
+      },
+      "strong": {
+        "unexpectedness": 8.0,
+        "cleverness": 1.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "This is an anti-joke. The setup leads the audience to expect a pun or wordplay based on the literal meaning of 'plant person.' Instead, the punchline is a completely serious, literal, and clinical explanation. While this subversion is highly unexpected, it contains no cleverness or humor, making it entirely unamusing."
+      },
+      "overall_abs_delta": 0.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "导演你什么意思，为什么心动女生不能选孟非？这烂节目老子我不录了",
+      "punchline": "在这个情境中，\"导演你什么意思，为什么心动女生不能选孟非？这烂节目老子我不录了\"这句话可能是一个参与者对节目规则的不满和抱怨。孟非是中国的一位著名主持人，他主持的节目《非诚勿扰》非常受欢迎。在这个节目中，男女嘉宾通过相互了解选择自己心动的人。这句话可能是在模仿这个节目中的一种情况，但是具体的含义需要根据具体的上下文来理解。",
+      "bulk": {
+        "unexpectedness": 3.0,
+        "cleverness": 2.0,
+        "amusement": 2.0,
+        "overall": 2.0,
+        "rationale": "The punchline is not a punchline but rather an explanation of the setup. It lacks any humor itself and merely describes the potential context of the initial statement."
+      },
+      "strong": {
+        "unexpectedness": 8.0,
+        "cleverness": 1.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "The 'punchline' is not a punchline but a literal, dry explanation of the setup. This complete subversion of expectation makes it highly unexpected, but it lacks any cleverness, comedic craft, or amusement, ultimately failing entirely as a joke."
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "既然夸父追日追不上，那为什么不等到第2天等太阳迎面而来呢",
+      "punchline": "这是一个寓言故事，其目的是通过夸父的形象来告诫人们不要盲目自大和贪婪。故事中的夸父并不是一个真实的人，他的行为也不应该用常识来理解。他追逐太阳的行为是象征性的，代表了他的野心和决心，而他追不上太阳则象征了他的失败。如果他等到第二天太阳迎面而来，那就失去了这个象征意义。",
+      "bulk": {
+        "unexpectedness": 1.0,
+        "cleverness": 2.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "The 'punchline' isn't a joke at all, but rather a literal and academic explanation of the fable. It completely misses the humorous intent of the setup question."
+      },
+      "strong": {
+        "error": "judge_failed"
+      }
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "排队的时候发现自己被陌生人尾随了该怎么报警",
+      "punchline": "在排队的时候，如果发现自己被陌生人尾随，可以尝试以下几种方式报警：\n\n1. 如果你有手机，可以尝试拨打当地的紧急电话，如在美国可以拨打911，在中国可以拨打110。在电话中，尽量保持冷静，详细地描述你的位置和情况。\n\n2. 如果你在商场、电影院等公共场所，可以找到工作人员或者保安，告诉他们你的情况，他们会帮你联系警察。\n\n3. 如果你在街上，可以尝试找到附近的警察局或者警察，告诉他们你的情况。\n\n4. 如果你无法直接报警，可以尝试给你的朋友或家人发信息，告诉他们你的情况和位置，让他们帮你报警。\n\n5. 如果你在中国，可以尝试使用手机上的“一键报警”功能，这是一种在紧急情况下快速报警的方式。\n\n6. 如果你在美国，可以尝试使用“Silent 911”功能，这是一种在无法说话的情况下报警的方式。\n\n请注意，以上所有的建议都需要你在安全的情况下进行。如果你觉得自己的生命安全受到威胁，你应该尽可能地逃离现场，寻找安全的地方。",
+      "bulk": {
+        "unexpectedness": 1.0,
+        "cleverness": 2.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "This is not a joke. It is a serious and helpful guide on how to report being followed. As a result, it scores low on all humor-related metrics."
+      },
+      "strong": {
+        "unexpectedness": 8.0,
+        "cleverness": 6.0,
+        "amusement": 4.0,
+        "overall": 5.0,
+        "rationale": "This is a classic anti-joke. The setup creates the expectation of a witty punchline, but the response is a completely serious, literal, and practical guide. The humor derives entirely from this subversion of expectations. While highly unexpected and clever in its structure, its actual amusement factor is limited to the dry, meta-humor of the format itself."
+      },
+      "overall_abs_delta": 4.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "被门夹过的核桃还能补脑吗？",
+      "punchline": "能。\"被门夹过的核桃\"这里的\"门夹\"是指用工具破开核桃壳的过程，而不是真的被门夹过。核桃的营养成分并不会因为破壳的方式不同而改变，所以被\"门夹\"过的核桃仍然可以补脑。",
+      "bulk": {
+        "unexpectedness": 6.0,
+        "cleverness": 7.0,
+        "amusement": 5.0,
+        "overall": 6.0,
+        "rationale": "The joke plays on a double meaning of \"门夹\" (men jia), which can mean literally pinched by a door or, in the context of walnuts, cracked open with a tool. The unexpectedness comes from the setup leading you to think of a damaged walnut, then revealing the common, practical meaning. It's a clever play on words that might elicit a chuckle for those familiar with the nuance."
+      },
+      "strong": {
+        "unexpectedness": 9.0,
+        "cleverness": 2.0,
+        "amusement": 1.0,
+        "overall": 2.0,
+        "rationale": "This is an anti-joke. The punchline subverts expectations by providing a long, literal, and scientific explanation instead of a witty remark. The unexpectedness is very high, but it lacks any clever wordplay or humorous insight, resulting in very low amusement. It deconstructs the premise rather than delivering a joke."
+      },
+      "overall_abs_delta": 4.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "经常听说死人会脸色发白，那黑人是不是就不会死了。 (º﹃º)",
+      "punchline": "无论肤色如何，所有人都会面临生老病死的自然规律。\"死人脸色发白\"这个说法是因为死亡后，人体的血液循环停止，皮肤失去血液供应而变得苍白。这个过程与人的肤色无关，所以黑人也会死。",
+      "bulk": {
+        "unexpectedness": 1.0,
+        "cleverness": 1.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "This is not a joke; it's a question followed by a factual, serious explanation. There is no punchline, humor, or unexpected twist to rate."
+      },
+      "strong": {
+        "unexpectedness": 3.0,
+        "cleverness": 1.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "The setup poses a silly question, but the 'punchline' is a dry, literal, and scientific explanation. It's not a joke at all, but an anti-joke. It fails to be clever or amusing because it abandons the premise of humor entirely in favor of a factual correction."
+      },
+      "overall_abs_delta": 0.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "博士毕业的人都很聪明，为什么国家不给每个人都授予博士学位，让每个人都变聪明？",
+      "punchline": "实际上，博士学位是对个人在某一领域深入研究和学术成果的认可，它的获得需要经过严格的学术训练和科研实践，而不是简单的授予就能达到的。因此，国家不能也不应该随意给每个人授予博士学位。另外，聪明并不仅仅取决于学历，还有很多其他因素，如个人的努力、经验、天赋等。",
+      "bulk": {
+        "unexpectedness": 2.0,
+        "cleverness": 3.0,
+        "amusement": 1.0,
+        "overall": 2.0,
+        "rationale": "This isn't really a joke, but rather a straightforward explanation that debunks the premise. There's no unexpected twist or clever wordplay, and thus, no amusement."
+      },
+      "strong": {
+        "unexpectedness": 2.0,
+        "cleverness": 1.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "This is not a joke, but a literal and serious explanation of the flawed premise in the setup. It lacks any wordplay, misdirection, or comedic structure, making it entirely devoid of humor. The 'punchline' is completely predictable as a factual answer, though unexpected in a comedic context."
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "半身裙是穿在左半边还是右半边好呢？",
+      "punchline": "半身裙并不是指只穿在身体的左半边或右半边，而是一种裙子的类型，也叫做半裙，通常指的是从腰部开始到膝盖的长度的裙子。所以，半身裙是穿在腰部，覆盖下半身的。",
+      "bulk": {
+        "unexpectedness": 1.0,
+        "cleverness": 1.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "This isn't a joke; it's a literal explanation of what a 'half-skirt' is. There's no unexpectedness, cleverness, or amusement as it provides factual information rather than a humorous twist."
+      },
+      "strong": {
+        "unexpectedness": 1.0,
+        "cleverness": 1.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "This is not a joke, but a factual explanation. The setup poses a question based on a misunderstanding of the term 'half-body skirt', and the 'punchline' is simply the correct definition. It lacks any element of humor, surprise, or cleverness."
+      },
+      "overall_abs_delta": 0.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "我戴了防毒面具再吃毒药为什么会死啊 防毒面具不是能防毒吗？是买到假的了吗？",
+      "punchline": "防毒面具主要是防止吸入有毒气体，对于口服的毒药并无防护作用。所以即使戴着防毒面具，吃下毒药也会中毒。这并不是因为防毒面具是假的，而是因为它的防护范围并不包括口服的毒药。",
+      "bulk": {
+        "unexpectedness": 2.0,
+        "cleverness": 5.0,
+        "amusement": 4.0,
+        "overall": 4.0,
+        "rationale": "The joke is more of a factual explanation than a punchline with humor. The unexpectedness is low because the answer is quite logical. The cleverness comes from highlighting a common misunderstanding in a straightforward way, but it doesn't really have a 'joke' structure. Amusement is low as it's not designed to be funny, but rather informative."
+      },
+      "strong": {
+        "unexpectedness": 1.0,
+        "cleverness": 1.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "This is not a joke. It's a serious question followed by a literal, factual explanation. There is no punchline, wordplay, or unexpected twist, making it completely devoid of humor."
+      },
+      "overall_abs_delta": 3.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "为什么我跳起来，地球会向下降。",
+      "punchline": "根据牛顿第三定律，每一个作用力都有一个相等的反作用力。当你跳起来的时候，你对地球施加了一个向上的力，地球也对你施加了一个向下的力，这就是你能跳起来的原因。同时，地球也因为你的力而向下移动一点点，但是因为地球的质量远大于你，所以这个移动是非常非常小的，几乎可以忽略不计。所以，你跳起来，地球并不会明显向下降。",
+      "bulk": {
+        "unexpectedness": 2.0,
+        "cleverness": 5.0,
+        "amusement": 3.0,
+        "overall": 4.0,
+        "rationale": "The joke is more of a scientific explanation than a punchline. It directly answers the setup question with a factual statement, which lacks the surprise or wordplay typically found in humor. It's clever in its scientific accuracy but not in a comedic sense."
+      },
+      "strong": {
+        "unexpectedness": 2.0,
+        "cleverness": 1.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "This is not a joke; it is a literal and scientifically accurate explanation of a physics principle. The 'punchline' is simply the conclusion of a science lesson, completely devoid of humor, wordplay, or misdirection."
+      },
+      "overall_abs_delta": 3.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "野猪被驯服后变成家猪，那野人被驯服后变什么哩？",
+      "punchline": "野人被驯服后变成文明人。",
+      "bulk": {
+        "unexpectedness": 5.0,
+        "cleverness": 6.0,
+        "amusement": 5.0,
+        "overall": 6.0,
+        "rationale": "The joke is a play on words, contrasting 'wild pig' becoming 'domestic pig' with 'wild man' becoming 'civilized man.' It's somewhat predictable but has a simple, logical humor."
+      },
+      "strong": {
+        "error": "judge_failed"
+      }
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "每次等电梯都好麻烦啊 为什么不设两个电梯 一个只上 一个只下 这样不就不用来回再等了嘛",
+      "punchline": "如果有两个电梯，一个只上，一个只下，那么当你乘坐上行电梯到达你的楼层后，下行电梯就会在你的楼层空无一人，因为所有的人都是通过上行电梯上来的。同样，当你乘坐下行电梯到达底层后，上行电梯就会在底层空无一人，因为所有的人都是通过下行电梯下去的。这样的设计不仅没有提高效率，反而会造成资源的浪费。所以，电梯需要来回运行，才能满足人们上下楼的需求。",
+      "bulk": {
+        "unexpectedness": 6.0,
+        "cleverness": 7.0,
+        "amusement": 5.0,
+        "overall": 6.0,
+        "rationale": "The joke starts with a common frustration and then offers a seemingly logical, yet flawed, solution. The punchline effectively debunks the proposed solution with a clear explanation of why it wouldn't work, highlighting the inefficiency it would create. While not laugh-out-loud funny, the cleverness lies in illustrating a common misconception with practical reasoning."
+      },
+      "strong": {
+        "unexpectedness": 1.0,
+        "cleverness": 2.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "This is not a joke. The setup poses a naive question, and the 'punchline' provides a serious, logical, and detailed explanation. It completely lacks any element of humor, surprise, or wit, functioning more as a factual answer than a comedic punchline."
+      },
+      "overall_abs_delta": 5.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "9mm手枪怎么可能打死人，整个枪还没我拇指大",
+      "punchline": "这里的9mm并不是指整个手枪的大小，而是指子弹的口径。所以，9mm手枪完全有可能打死人。",
+      "bulk": {
+        "unexpectedness": 7.0,
+        "cleverness": 6.0,
+        "amusement": 5.0,
+        "overall": 6.0,
+        "rationale": "The humor comes from a misunderstanding of a common term, which is a classic setup. The punchline corrects the misconception, leading to a mild chuckle of 'oh, of course.' It's not laugh-out-loud funny but clever in its simplicity and the relatable nature of misinterpreting jargon."
+      },
+      "strong": {
+        "unexpectedness": 1.0,
+        "cleverness": 1.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "This is not a joke, but a factual correction to a misunderstanding. The 'punchline' is a straightforward explanation with no comedic twist, wordplay, or cleverness, resulting in zero amusement."
+      },
+      "overall_abs_delta": 5.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "为什么古人不玩电脑？",
+      "punchline": "因为古人的时代没有电脑。",
+      "bulk": {
+        "unexpectedness": 1.0,
+        "cleverness": 2.0,
+        "amusement": 2.0,
+        "overall": 2.0,
+        "rationale": "This joke is a classic anti-joke. The humor comes from the obviousness of the punchline, which subverts the expectation of a clever or wordplay-based answer. While not highly unexpected or clever in a traditional sense, its amusement comes from the dry, matter-of-fact reveal. It's a very simple joke, effective for those who appreciate anti-humor."
+      },
+      "strong": {
+        "unexpectedness": 7.0,
+        "cleverness": 3.0,
+        "amusement": 2.0,
+        "overall": 3.0,
+        "rationale": "This is a classic anti-joke or 'cold joke' (冷笑话). The setup creates an expectation for a clever or punny reason, but the punchline is the most literal, obvious truth. The humor relies entirely on subverting the joke format, which is mildly unexpected but not particularly clever or amusing."
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "我老板要我发送原图，我发了可莉的图给他，为什么会被骂",
+      "punchline": "这可能是因为你误解了老板的意思。老板要你发送的“原图”可能是指某个工作相关的图片或文件的原始版本，而不是原神游戏中的角色“可莉”的图片。所以，你发送了不相关的图片，这可能会让你的老板觉得你没有认真对待工作，因此被骂。",
+      "bulk": {
+        "unexpectedness": 2.0,
+        "cleverness": 3.0,
+        "amusement": 2.0,
+        "overall": 2.0,
+        "rationale": "This isn't really a joke, but rather a straightforward explanation of a misunderstanding. There's no punchline, wordplay, or clever twist. It simply clarifies the likely reason for the boss's reaction, which makes it low on all humor dimensions."
+      },
+      "strong": {
+        "unexpectedness": 8.0,
+        "cleverness": 5.0,
+        "amusement": 3.0,
+        "overall": 4.0,
+        "rationale": "This is an anti-joke. The setup creates a clever pun between '原图' (original picture) and '原神' (Genshin Impact). However, the 'punchline' is a completely literal, humorless explanation. The unexpectedness is high because it subverts the expectation of a joke, but the amusement is low as it's more of an explanation than a punchline."
+      },
+      "overall_abs_delta": 2.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "在5楼把东西丢到6楼算高空抛物吗？",
+      "punchline": "不算，因为6楼在5楼之上，你不能从下面把东西丢到上面。",
+      "bulk": {
+        "unexpectedness": 6.0,
+        "cleverness": 7.0,
+        "amusement": 6.0,
+        "overall": 7.0,
+        "rationale": "The joke plays on the literal interpretation of \"抛物\" (to throw an object in an arc, implying downwards), creating a clever twist. It's moderately unexpected and amusing for its wordplay."
+      },
+      "strong": {
+        "unexpectedness": 7.0,
+        "cleverness": 6.0,
+        "amusement": 5.0,
+        "overall": 6.0,
+        "rationale": "这个笑话的幽默感来自于其荒谬的逻辑，它通过否认行为本身在物理上的可能性来回避最初的问题。这是一种经典的误导手法，有点小聪明和出其不意，但不会让人捧腹大笑。"
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "人只有左耳和右耳，那为什么会得中耳炎呢",
+      "punchline": "中耳炎并不是指发生在人的\"中间耳朵\"，而是指发生在人耳朵结构中的中耳区域的炎症。人耳朵的结构大致可以分为外耳、中耳和内耳三部分，中耳炎就是中耳部分发炎。所以，即使人只有左耳和右耳，也可以得中耳炎。",
+      "bulk": {
+        "unexpectedness": 2.0,
+        "cleverness": 3.0,
+        "amusement": 2.0,
+        "overall": 2.0,
+        "rationale": "This isn't really a joke, but rather a factual explanation of a common misconception. There's no punchline, wordplay, or clever twist, just an informative answer."
+      },
+      "strong": {
+        "error": "judge_failed"
+      }
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "偷钱犯法，偷-情却不犯法，是不是代表感情一文不值？",
+      "punchline": "不是的，这并不代表感情一文不值。\"偷情\"在这里是指暗中发生恋情，而不是像偷窃财物那样的行为。感情的价值无法用金钱来衡量，它的价值在于人与人之间的情感交流和理解。所以，这并不意味着感情一文不值。",
+      "bulk": {
+        "unexpectedness": 3.0,
+        "cleverness": 2.0,
+        "amusement": 2.0,
+        "overall": 2.0,
+        "rationale": "The punchline explains the literal difference between 'stealing money' and 'stealing affection,' which is already implied by the word choice. It's more of a clarification than a humorous twist. There is no element of cleverness or amusement. "
+      },
+      "strong": {
+        "unexpectedness": 7.0,
+        "cleverness": 1.0,
+        "amusement": 1.0,
+        "overall": 2.0,
+        "rationale": "The setup presents a clever piece of wordplay with potential for a witty punchline. The response, however, is a completely literal, humorless, and philosophical explanation. This subversion of expectation makes it an anti-joke. While it is unexpected, it completely lacks cleverness and amusement, feeling more like a dictionary definition than a punchline."
+      },
+      "overall_abs_delta": 0.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "大小姐的反义词是不是小老妹呀",
+      "punchline": "不是，大小姐的反义词应该是“小姐”。这里的“大小姐”通常用来指富家千金或者家中的长女，而“小姐”则通常用来指年轻未婚的女性，或者家中的次女、幼女等。\"小老妹\"并不是一个标准的词汇，没有明确的含义。",
+      "bulk": {
+        "unexpectedness": 5.0,
+        "cleverness": 6.0,
+        "amusement": 4.0,
+        "overall": 5.0,
+        "rationale": "The joke plays on the common misunderstanding of \"大小姐\" and \"小姐\" in Chinese culture. While the initial setup suggests a simple antonym, the punchline clarifies the nuanced meaning of \"大小姐\" and \"小姐\", which is somewhat unexpected and clever. However, the humor is more in the linguistic clarification than in a traditional punchline, so the amusement score is moderate."
+      },
+      "strong": {
+        "unexpectedness": 7.0,
+        "cleverness": 1.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "This is not a joke. The punchline is a dry, literal, and lexicographical explanation that completely deflates the playful premise of the setup. It's unexpected in the way a dictionary definition is unexpected in a comedy club—it's simply out of place and devoid of humor."
+      },
+      "overall_abs_delta": 4.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "为什么我一只手都能够得到的东西别人两只手都够不到啊",
+      "punchline": "因为那个东西可能是你的鼻子，别人无论用一只手还是两只手都无法够到你的鼻子。",
+      "bulk": {
+        "unexpectedness": 7.0,
+        "cleverness": 8.0,
+        "amusement": 7.0,
+        "overall": 7.0,
+        "rationale": "The joke uses a common riddle format and the punchline, while simple, is clever in its misdirection. The unexpected shift from a general object to a personal body part is well-executed, leading to a satisfying 'aha!' moment."
+      },
+      "strong": {
+        "unexpectedness": 7.0,
+        "cleverness": 7.0,
+        "amusement": 5.0,
+        "overall": 6.0,
+        "rationale": "The joke employs a classic riddle structure, redirecting the listener's assumption from an external object to a part of their own body. The punchline is a clever and logical twist, though it's more likely to elicit a smile of appreciation for the wordplay than a genuine laugh."
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "为什么古代尚方宝剑可以先斩后揍？人都斩了，再揍又有什么意义呢",
+      "punchline": "这里的\"先斩后揍\"并非字面意思的\"先杀死后打击\"，而是古代的一种司法制度。\"斩\"指的是处决，\"揍\"指的是上报，\"先斩后揍\"是指地方官员在处理紧急重大案件时，可以先处决犯人，然后再上报朝廷审查的制度。所以，\"先斩后揍\"并不是说人都斩了再揍，而是指的这种特殊的司法程序。",
+      "bulk": {
+        "unexpectedness": 6.0,
+        "cleverness": 7.0,
+        "amusement": 5.0,
+        "overall": 6.0,
+        "rationale": "The joke plays on a common misunderstanding of a Chinese idiom, providing a historical and linguistic explanation that resolves the humorous absurdity of the literal interpretation."
+      },
+      "strong": {
+        "unexpectedness": 2.0,
+        "cleverness": 1.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "This is not a joke, but a factual explanation of a common pun. The 'punchline' is a dry, educational correction that completely deflates any humorous potential from the setup. It's unexpected in its seriousness, but lacks any cleverness or amusement as a piece of humor."
+      },
+      "overall_abs_delta": 5.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "在鞋子里面喷酒精，是给鞋子除细菌，还是在酿酒？",
+      "punchline": "是给鞋子除细菌。",
+      "bulk": {
+        "unexpectedness": 3.0,
+        "cleverness": 5.0,
+        "amusement": 4.0,
+        "overall": 4.0,
+        "rationale": "The joke pokes fun at a common misconception about alcohol's uses, but the punchline is too straightforward and expected."
+      },
+      "strong": {
+        "unexpectedness": 2.0,
+        "cleverness": 1.0,
+        "amusement": 1.0,
+        "overall": 1.0,
+        "rationale": "This is an anti-joke where the punchline is the most logical and expected answer to the absurd question in the setup. It completely subverts the expectation of a funny twist, but does so in such a straightforward way that it lacks any cleverness or genuine amusement."
+      },
+      "overall_abs_delta": 3.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "买了一只小狗，不知道养多久才能进化？",
+      "punchline": "小狗是不能进化的，\"进化\"这个词通常用于描述物种在长时间内发生的逐渐改变。在宠物或者个体生物的生命周期中，它们会成长和老化，但不会进化。所以你的小狗无论养多久，都不会\"进化\"。",
+      "bulk": {
+        "unexpectedness": 2.0,
+        "cleverness": 3.0,
+        "amusement": 1.0,
+        "overall": 2.0,
+        "rationale": "The joke relies on a misunderstanding of the word 'evolve'. While it attempts to be a play on words, the punchline is more of a factual correction than a comedic twist. It's not particularly surprising or clever, and therefore not very amusing."
+      },
+      "strong": {
+        "unexpectedness": 8.0,
+        "cleverness": 2.0,
+        "amusement": 2.0,
+        "overall": 3.0,
+        "rationale": "This is a classic anti-joke. The setup creates a whimsical expectation (likely referencing video games like Pokémon), but the punchline delivers a dry, literal, scientific fact. The humor, such as it is, comes entirely from the subversion of expectations. It's highly unexpected but lacks any clever wordplay or wit, resulting in very low amusement."
+      },
+      "overall_abs_delta": 1.0
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "气死我了 坐飞机过安检可以带Mp3可以带Mp4,为什么不能带Mp5?不能带就算了，还要拘留我！",
+      "punchline": "这是因为MP5在这里不是指的是一种多媒体播放器，而是指的是一种冲锋枪——“海克勒-科赫MP5”（Heckler & Koch MP5）。因此，你不能带枪上飞机，这是违法的，所以你会被拘留。",
+      "bulk": {
+        "unexpectedness": 8.0,
+        "cleverness": 7.0,
+        "amusement": 6.0,
+        "overall": 7.0,
+        "rationale": "The joke plays on the double meaning of MP5, which is clever and provides an unexpected twist. The build-up is relatable to airport security frustrations, making the punchline's reveal of a firearm quite surprising. While amusing, the humor is more in the 'aha!' moment than a laugh-out-loud moment."
+      },
+      "strong": {
+        "error": "judge_failed"
+      }
+    },
+    {
+      "kind": "corpus",
+      "stratum": "corpus/ruozhiba",
+      "setup": "我向植物请教了这么多次，他们还是不肯教怎么我光合作用",
+      "punchline": "因为你不是植物，你没有叶绿体，所以无法进行光合作用。",
+      "bulk": {
+        "unexpectedness": 3.0,
+        "cleverness": 5.0,
+        "amusement": 4.0,
+        "overall": 4.0,
+        "rationale": "The punchline is a straightforward, logical explanation rather than a humorous twist, making it less unexpected. The cleverness lies in the setup implying a misunderstanding, but the resolution is very direct. It's mildly amusing due to the absurdity of the setup."
+      },
+      "strong": {
+        "error": "judge_failed"
+      }
+    }
+  ]
+}
