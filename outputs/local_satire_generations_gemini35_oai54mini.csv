@@ -1,0 +1,724 @@
+id,source_id,model,prompt_condition,prompt,output_headline,raw_output,timestamp
+local_satire_741e912618,deltopia_alternative_001,gemini-3.5-flash,generic_issue,"Write one Onion-style local satire headline about this issue:
+Issue: Isla Vista officials planning a managed alternative to Deltopia
+The headline should be funny, locally specific, and have a clear satirical target.
+Output only one headline.","Isla Vista Officials Hope To Recreate Magic Of Deltopia With Fenced-In Parking Lot, Two Food Trucks, And 9:00 PM Curfew","Isla Vista Officials Hope To Recreate Magic Of Deltopia With Fenced-In Parking Lot, Two Food Trucks, And 9:00 PM Curfew",2026-06-08T03:11:59.626965+00:00
+local_satire_52753cc1ac,deltopia_alternative_001,gemini-3.5-flash,source_grounded,"Write one Onion-style local satire headline based on the source below.
+
+Source title:
+IVCSD elects new leadership, discusses plans for Deltopia alternative
+
+Facts:
+* The Isla Vista Community Services District discussed plans for an alternative event to Deltopia after Santa Barbara County adopted a noise ordinance that effectively canceled the unsanctioned street festival.
+* The proposed alternative event, working-named Novatopia, would include live music, art, markets, beer gardens, bathrooms, safety resources and multiple entertainment zones across downtown Isla Vista.
+* IVCSD staff discussed wristbands for Isla Vista residents, event-lead applications, permits, safety planning, sponsorships and a budget above $250,000.
+* One community member argued that if IVCSD hosts a festival on Deltopia weekend, it would effectively become Deltopia itself.
+* The board also addressed parking compliance software and broader community governance issues at the same meeting.
+
+Local tension:
+Officials are trying to replace an unofficial student party tradition with a planned, permitted, safety-oriented event, while some community members worry the alternative may reproduce similar crowd and party dynamics.
+
+Requirements:
+* clearly grounded in the source issue
+* specific to UCSB, Isla Vista, or Santa Barbara when appropriate
+* clear satirical target
+* avoid random absurdity
+* avoid inventing facts not implied by the source
+* output only one headline.","Isla Vista Officials Confident $250,000 Government-Sanctioned ‘Novatopia’ Will Successfully Capture Carefree Spirit of Unregulated Street Party","Isla Vista Officials Confident $250,000 Government-Sanctioned ‘Novatopia’ Will Successfully Capture Carefree Spirit of Unregulated Street Party",2026-06-08T03:12:00.852590+00:00
+local_satire_cf4b8f09a1,deltopia_alternative_001,gemini-3.5-flash,target_first_rank,"Write source-grounded Onion-style local satire from this campus/local source capsule.
+
+Source title:
+IVCSD elects new leadership, discusses plans for Deltopia alternative
+
+Source date:
+2026-01-22
+
+Issue phrase:
+Isla Vista officials planning a managed alternative to Deltopia
+
+Facts:
+* The Isla Vista Community Services District discussed plans for an alternative event to Deltopia after Santa Barbara County adopted a noise ordinance that effectively canceled the unsanctioned street festival.
+* The proposed alternative event, working-named Novatopia, would include live music, art, markets, beer gardens, bathrooms, safety resources and multiple entertainment zones across downtown Isla Vista.
+* IVCSD staff discussed wristbands for Isla Vista residents, event-lead applications, permits, safety planning, sponsorships and a budget above $250,000.
+* One community member argued that if IVCSD hosts a festival on Deltopia weekend, it would effectively become Deltopia itself.
+* The board also addressed parking compliance software and broader community governance issues at the same meeting.
+
+Local tension:
+Officials are trying to replace an unofficial student party tradition with a planned, permitted, safety-oriented event, while some community members worry the alternative may reproduce similar crowd and party dynamics.
+
+Step 1: identify the satirical target in one short phrase.
+Step 2: generate 5 candidate Onion-style local satire headlines.
+Step 3: select the best using source relevance, local specificity, topic nuance/target, satirical bite, and coherence/non-randomness.
+
+Output only:
+Target: ...
+Best headline: ...
+Brief reason: ...","IVCSD Promises Proposed 'Novatopia' Festival Will Have All the Thrills of Deltopia Plus a $250,000 Wristband-Verification Queue","Target: The municipal attempt to sanitize and over-regulate a chaotic, unsanctioned student party tradition.
+
+Best headline: IVCSD Promises Proposed 'Novatopia' Festival Will Have All the Thrills of Deltopia Plus a $250,000 Wristband-Verification Queue
+
+Brief reason: This headline perfectly captures the satirical target by contrasting the organic, lawless appeal of the original Deltopia street party with the bureaucratized, budget-heavy reality of a government-managed alternative. It highlights the local tension of officials spending over a quarter-million dollars to replace a free student tradition with security checkpoints, wristbands, and municipal oversight.",2026-06-08T03:12:02.714185+00:00
+local_satire_cbb8a9277c,deltopia_alternative_001,gpt-5.4-mini,generic_issue,"Write one Onion-style local satire headline about this issue:
+Issue: Isla Vista officials planning a managed alternative to Deltopia
+The headline should be funny, locally specific, and have a clear satirical target.
+Output only one headline.","Isla Vista Officials Announce Safer, More Controlled Deltopia Where Students Can Still Make Terrible Decisions in Designated Areas","Isla Vista Officials Announce Safer, More Controlled Deltopia Where Students Can Still Make Terrible Decisions in Designated Areas",2026-06-08T03:12:04.389831+00:00
+local_satire_6f68b8073b,deltopia_alternative_001,gpt-5.4-mini,source_grounded,"Write one Onion-style local satire headline based on the source below.
+
+Source title:
+IVCSD elects new leadership, discusses plans for Deltopia alternative
+
+Facts:
+* The Isla Vista Community Services District discussed plans for an alternative event to Deltopia after Santa Barbara County adopted a noise ordinance that effectively canceled the unsanctioned street festival.
+* The proposed alternative event, working-named Novatopia, would include live music, art, markets, beer gardens, bathrooms, safety resources and multiple entertainment zones across downtown Isla Vista.
+* IVCSD staff discussed wristbands for Isla Vista residents, event-lead applications, permits, safety planning, sponsorships and a budget above $250,000.
+* One community member argued that if IVCSD hosts a festival on Deltopia weekend, it would effectively become Deltopia itself.
+* The board also addressed parking compliance software and broader community governance issues at the same meeting.
+
+Local tension:
+Officials are trying to replace an unofficial student party tradition with a planned, permitted, safety-oriented event, while some community members worry the alternative may reproduce similar crowd and party dynamics.
+
+Requirements:
+* clearly grounded in the source issue
+* specific to UCSB, Isla Vista, or Santa Barbara when appropriate
+* clear satirical target
+* avoid random absurdity
+* avoid inventing facts not implied by the source
+* output only one headline.","Isla Vista Officials Unveil $250,000 Plan to Replace Deltopia With More Permitted Deltopia","Isla Vista Officials Unveil $250,000 Plan to Replace Deltopia With More Permitted Deltopia",2026-06-08T03:12:05.236684+00:00
+local_satire_5ddb8d52ff,deltopia_alternative_001,gpt-5.4-mini,target_first_rank,"Write source-grounded Onion-style local satire from this campus/local source capsule.
+
+Source title:
+IVCSD elects new leadership, discusses plans for Deltopia alternative
+
+Source date:
+2026-01-22
+
+Issue phrase:
+Isla Vista officials planning a managed alternative to Deltopia
+
+Facts:
+* The Isla Vista Community Services District discussed plans for an alternative event to Deltopia after Santa Barbara County adopted a noise ordinance that effectively canceled the unsanctioned street festival.
+* The proposed alternative event, working-named Novatopia, would include live music, art, markets, beer gardens, bathrooms, safety resources and multiple entertainment zones across downtown Isla Vista.
+* IVCSD staff discussed wristbands for Isla Vista residents, event-lead applications, permits, safety planning, sponsorships and a budget above $250,000.
+* One community member argued that if IVCSD hosts a festival on Deltopia weekend, it would effectively become Deltopia itself.
+* The board also addressed parking compliance software and broader community governance issues at the same meeting.
+
+Local tension:
+Officials are trying to replace an unofficial student party tradition with a planned, permitted, safety-oriented event, while some community members worry the alternative may reproduce similar crowd and party dynamics.
+
+Step 1: identify the satirical target in one short phrase.
+Step 2: generate 5 candidate Onion-style local satire headlines.
+Step 3: select the best using source relevance, local specificity, topic nuance/target, satirical bite, and coherence/non-randomness.
+
+Output only:
+Target: ...
+Best headline: ...
+Brief reason: ...","Isla Vista Officials Announce Deltopia Replacement That Is Somehow Even More Organized, Expensive, and Deltopia-Like","Target: Officials trying to bureaucratize a chaotic student party tradition into a permitted substitute
+
+Best headline: Isla Vista Officials Announce Deltopia Replacement That Is Somehow Even More Organized, Expensive, and Deltopia-Like
+
+Brief reason: It directly captures the local irony: a spontaneous, unofficial festival being replaced by a managed, permit-heavy version that still risks becoming the same event. It’s specific to Isla Vista, nods to the planned features and budget, and lands the satirical tension without feeling random.",2026-06-08T03:12:07.101839+00:00
+local_satire_62380deb8a,ucsb_bear_sighting_001,gemini-3.5-flash,generic_issue,"Write one Onion-style local satire headline about this issue:
+Issue: bear sightings near UCSB and Goleta prompting campus safety alerts
+The headline should be funny, locally specific, and have a clear satirical target.
+Output only one headline.",UCSB Administrators Assure Students That Bear Sighted Near Campus Lacks the GPA Required to Enter Davidson Library,UCSB Administrators Assure Students That Bear Sighted Near Campus Lacks the GPA Required to Enter Davidson Library,2026-06-08T03:12:08.199188+00:00
+local_satire_f55ff3cd95,ucsb_bear_sighting_001,gemini-3.5-flash,source_grounded,"Write one Onion-style local satire headline based on the source below.
+
+Source title:
+Bear sightings reported at UCSB, Goleta
+
+Facts:
+* UCPD reported a black bear sighting near Pollock Theater and the Intercollegiate Athletics building early in the morning.
+* UCPD sent an emergency alert asking students to avoid the area, then later lifted the request after an extensive search did not locate the bear.
+* Other bear sightings were reported around Goleta and near Santa Ynez Apartments during the same week.
+* UCPD said the California Department of Fish and Wildlife was notified and urged students and community members to be aware of their surroundings and report sightings.
+* Campus safety guidance told people to make themselves appear large, make loud noises, avoid attracting smells and not feed the bear.
+
+Local tension:
+A campus usually organized around classes, alerts and student routines briefly had to treat wildlife behavior as a public-safety issue, creating a mismatch between bureaucratic emergency messaging and the absurd image of a bear wandering through familiar UCSB spaces.
+
+Requirements:
+* clearly grounded in the source issue
+* specific to UCSB, Isla Vista, or Santa Barbara when appropriate
+* clear satirical target
+* avoid random absurdity
+* avoid inventing facts not implied by the source
+* output only one headline.",UCSB Emergency Alert Warns Students To Treat Bear With Same Avoidance Tactics Used For Campus Recruiters,UCSB Emergency Alert Warns Students To Treat Bear With Same Avoidance Tactics Used For Campus Recruiters,2026-06-08T03:12:09.553938+00:00
+local_satire_a5d4395858,ucsb_bear_sighting_001,gemini-3.5-flash,target_first_rank,"Write source-grounded Onion-style local satire from this campus/local source capsule.
+
+Source title:
+Bear sightings reported at UCSB, Goleta
+
+Source date:
+2025-04-17
+
+Issue phrase:
+bear sightings near UCSB and Goleta prompting campus safety alerts
+
+Facts:
+* UCPD reported a black bear sighting near Pollock Theater and the Intercollegiate Athletics building early in the morning.
+* UCPD sent an emergency alert asking students to avoid the area, then later lifted the request after an extensive search did not locate the bear.
+* Other bear sightings were reported around Goleta and near Santa Ynez Apartments during the same week.
+* UCPD said the California Department of Fish and Wildlife was notified and urged students and community members to be aware of their surroundings and report sightings.
+* Campus safety guidance told people to make themselves appear large, make loud noises, avoid attracting smells and not feed the bear.
+
+Local tension:
+A campus usually organized around classes, alerts and student routines briefly had to treat wildlife behavior as a public-safety issue, creating a mismatch between bureaucratic emergency messaging and the absurd image of a bear wandering through familiar UCSB spaces.
+
+Step 1: identify the satirical target in one short phrase.
+Step 2: generate 5 candidate Onion-style local satire headlines.
+Step 3: select the best using source relevance, local specificity, topic nuance/target, satirical bite, and coherence/non-randomness.
+
+Output only:
+Target: ...
+Best headline: ...
+Brief reason: ...","UCPD Warns Students Facing Black Bear Near Pollock Theater To Make Themselves Look Like A Large, Threatening Midterm Curve**","Target: The hyper-bureaucratic campus safety apparatus treating a standard woodland animal like an active, hostile threat to student productivity.
+
+Best headline: **UCPD Warns Students Facing Black Bear Near Pollock Theater To Make Themselves Look Like A Large, Threatening Midterm Curve**
+
+Brief reason: This headline perfectly captures the local tension by blending the absurdly generic ""make yourself look big"" wildlife safety advice with the actual, high-stress academic reality of UCSB students, highlighting the funny disconnect between official university panic and the student experience.",2026-06-08T03:12:11.195043+00:00
+local_satire_cc047b1f97,ucsb_bear_sighting_001,gpt-5.4-mini,generic_issue,"Write one Onion-style local satire headline about this issue:
+Issue: bear sightings near UCSB and Goleta prompting campus safety alerts
+The headline should be funny, locally specific, and have a clear satirical target.
+Output only one headline.","UCSB Issues Bear Alert, Reassures Students the Real Danger Is Still Finding Parking in Goleta","UCSB Issues Bear Alert, Reassures Students the Real Danger Is Still Finding Parking in Goleta",2026-06-08T03:12:12.375518+00:00
+local_satire_833c2ed954,ucsb_bear_sighting_001,gpt-5.4-mini,source_grounded,"Write one Onion-style local satire headline based on the source below.
+
+Source title:
+Bear sightings reported at UCSB, Goleta
+
+Facts:
+* UCPD reported a black bear sighting near Pollock Theater and the Intercollegiate Athletics building early in the morning.
+* UCPD sent an emergency alert asking students to avoid the area, then later lifted the request after an extensive search did not locate the bear.
+* Other bear sightings were reported around Goleta and near Santa Ynez Apartments during the same week.
+* UCPD said the California Department of Fish and Wildlife was notified and urged students and community members to be aware of their surroundings and report sightings.
+* Campus safety guidance told people to make themselves appear large, make loud noises, avoid attracting smells and not feed the bear.
+
+Local tension:
+A campus usually organized around classes, alerts and student routines briefly had to treat wildlife behavior as a public-safety issue, creating a mismatch between bureaucratic emergency messaging and the absurd image of a bear wandering through familiar UCSB spaces.
+
+Requirements:
+* clearly grounded in the source issue
+* specific to UCSB, Isla Vista, or Santa Barbara when appropriate
+* clear satirical target
+* avoid random absurdity
+* avoid inventing facts not implied by the source
+* output only one headline.","UCSB Sends Bear Emergency Alert, Urges Students to Stand Tall and Act Like They’ve Seen a Syllabus","UCSB Sends Bear Emergency Alert, Urges Students to Stand Tall and Act Like They’ve Seen a Syllabus",2026-06-08T03:12:13.396046+00:00
+local_satire_d96fe5a912,ucsb_bear_sighting_001,gpt-5.4-mini,target_first_rank,"Write source-grounded Onion-style local satire from this campus/local source capsule.
+
+Source title:
+Bear sightings reported at UCSB, Goleta
+
+Source date:
+2025-04-17
+
+Issue phrase:
+bear sightings near UCSB and Goleta prompting campus safety alerts
+
+Facts:
+* UCPD reported a black bear sighting near Pollock Theater and the Intercollegiate Athletics building early in the morning.
+* UCPD sent an emergency alert asking students to avoid the area, then later lifted the request after an extensive search did not locate the bear.
+* Other bear sightings were reported around Goleta and near Santa Ynez Apartments during the same week.
+* UCPD said the California Department of Fish and Wildlife was notified and urged students and community members to be aware of their surroundings and report sightings.
+* Campus safety guidance told people to make themselves appear large, make loud noises, avoid attracting smells and not feed the bear.
+
+Local tension:
+A campus usually organized around classes, alerts and student routines briefly had to treat wildlife behavior as a public-safety issue, creating a mismatch between bureaucratic emergency messaging and the absurd image of a bear wandering through familiar UCSB spaces.
+
+Step 1: identify the satirical target in one short phrase.
+Step 2: generate 5 candidate Onion-style local satire headlines.
+Step 3: select the best using source relevance, local specificity, topic nuance/target, satirical bite, and coherence/non-randomness.
+
+Output only:
+Target: ...
+Best headline: ...
+Brief reason: ...","UCSB Issues Emergency Alert, Then Realizes It’s Just a Bear Trying to Find Pollock Theater","Target: UCSB’s overlaid emergency-alert bureaucracy colliding with the absurdity of a bear in campus space
+
+Best headline: UCSB Issues Emergency Alert, Then Realizes It’s Just a Bear Trying to Find Pollock Theater
+
+Brief reason: This best captures the local specificity, the official-alert tone, and the central joke: a highly structured campus safety system briefly being forced to respond to something wildly out of place. It’s grounded in the reported locations and keeps the satire focused on bureaucratic mismatch rather than random animal humor.",2026-06-08T03:12:14.989671+00:00
+local_satire_64fa8c88a4,jesus_burgers_001,gemini-3.5-flash,generic_issue,"Write one Onion-style local satire headline about this issue:
+Issue: Jesus Burgers as a long-running Del Playa tradition combining free food, Christian outreach and Isla Vista party culture
+The headline should be funny, locally specific, and have a clear satirical target.
+Output only one headline.",Local Sophomore Only Accepts Jesus Christ as Savior Between Hours of 11:00 PM and 2:00 AM on Friday Nights**,**Local Sophomore Only Accepts Jesus Christ as Savior Between Hours of 11:00 PM and 2:00 AM on Friday Nights**,2026-06-08T03:12:16.217471+00:00
+local_satire_1d93e3658f,jesus_burgers_001,gemini-3.5-flash,source_grounded,"Write one Onion-style local satire headline based on the source below.
+
+Source title:
+‘Jesus people cooking Jesus Burgers’: a look into Del Playa’s 20-year tradition
+
+Facts:
+* Since 2001, Jesus Burgers has given out free burgers on Friday nights at 6686 Del Playa Drive in Isla Vista.
+* The group estimates it has served over 200,000 burgers and now gives out around 200 to 250 burgers per Friday night during the school year.
+* Jesus Burgers is connected to Isla Vista Mission and other Christian groups, and volunteers often offer free blessings or conversations about faith.
+* The Friday-night crowd includes intoxicated and hungry partygoers on Del Playa, creating a mix of party culture, religious outreach and late-night food demand.
+* Residents and volunteers describe the effort as a way to serve and care for Isla Vista, while also acknowledging that some students joke about it, misunderstand it or treat it as strange.
+
+Local tension:
+A religious outreach project has become part of Isla Vista’s Friday-night party ecosystem, where free burgers, blessings, intoxicated students and community care all coexist in the same Del Playa ritual.
+
+Requirements:
+* clearly grounded in the source issue
+* specific to UCSB, Isla Vista, or Santa Barbara when appropriate
+* clear satirical target
+* avoid random absurdity
+* avoid inventing facts not implied by the source
+* output only one headline.",Local Christian Group Trying To Save Souls By Giving Drunk UCSB Students The Only Thing They Actually Care About,Local Christian Group Trying To Save Souls By Giving Drunk UCSB Students The Only Thing They Actually Care About,2026-06-08T03:12:17.440031+00:00
+local_satire_6738a94882,jesus_burgers_001,gemini-3.5-flash,target_first_rank,"Write source-grounded Onion-style local satire from this campus/local source capsule.
+
+Source title:
+‘Jesus people cooking Jesus Burgers’: a look into Del Playa’s 20-year tradition
+
+Source date:
+2025-10-09
+
+Issue phrase:
+Jesus Burgers as a long-running Del Playa tradition combining free food, Christian outreach and Isla Vista party culture
+
+Facts:
+* Since 2001, Jesus Burgers has given out free burgers on Friday nights at 6686 Del Playa Drive in Isla Vista.
+* The group estimates it has served over 200,000 burgers and now gives out around 200 to 250 burgers per Friday night during the school year.
+* Jesus Burgers is connected to Isla Vista Mission and other Christian groups, and volunteers often offer free blessings or conversations about faith.
+* The Friday-night crowd includes intoxicated and hungry partygoers on Del Playa, creating a mix of party culture, religious outreach and late-night food demand.
+* Residents and volunteers describe the effort as a way to serve and care for Isla Vista, while also acknowledging that some students joke about it, misunderstand it or treat it as strange.
+
+Local tension:
+A religious outreach project has become part of Isla Vista’s Friday-night party ecosystem, where free burgers, blessings, intoxicated students and community care all coexist in the same Del Playa ritual.
+
+Step 1: identify the satirical target in one short phrase.
+Step 2: generate 5 candidate Onion-style local satire headlines.
+Step 3: select the best using source relevance, local specificity, topic nuance/target, satirical bite, and coherence/non-randomness.
+
+Output only:
+Target: ...
+Best headline: ...
+Brief reason: ...",Local Student Not Entirely Sure If He Accepted Jesus Christ As His Savior Or Just Really Wanted A Slice Of American Cheese,"Target: The transaction of exchanging spiritual salvation for a free, greasy late-night burger among highly intoxicated college students.
+
+Best headline: Local Student Not Entirely Sure If He Accepted Jesus Christ As His Savior Or Just Really Wanted A Slice Of American Cheese
+
+Brief reason: This headline perfectly captures the tension of the Del Playa tradition, highlighting how the high-stakes religious outreach of the volunteers is hilariously and realistically compromised by the primal, drunken late-night hunger of the Isla Vista partygoers.",2026-06-08T03:12:19.739587+00:00
+local_satire_d68625d83e,jesus_burgers_001,gpt-5.4-mini,generic_issue,"Write one Onion-style local satire headline about this issue:
+Issue: Jesus Burgers as a long-running Del Playa tradition combining free food, Christian outreach and Isla Vista party culture
+The headline should be funny, locally specific, and have a clear satirical target.
+Output only one headline.","Jesus Burgers Tradition Helps Isla Vista Students Find God, Free Food, and A Reason to Stay on Del Playa Until 2 A.M.","Jesus Burgers Tradition Helps Isla Vista Students Find God, Free Food, and A Reason to Stay on Del Playa Until 2 A.M.",2026-06-08T03:12:20.717909+00:00
+local_satire_32571de8ae,jesus_burgers_001,gpt-5.4-mini,source_grounded,"Write one Onion-style local satire headline based on the source below.
+
+Source title:
+‘Jesus people cooking Jesus Burgers’: a look into Del Playa’s 20-year tradition
+
+Facts:
+* Since 2001, Jesus Burgers has given out free burgers on Friday nights at 6686 Del Playa Drive in Isla Vista.
+* The group estimates it has served over 200,000 burgers and now gives out around 200 to 250 burgers per Friday night during the school year.
+* Jesus Burgers is connected to Isla Vista Mission and other Christian groups, and volunteers often offer free blessings or conversations about faith.
+* The Friday-night crowd includes intoxicated and hungry partygoers on Del Playa, creating a mix of party culture, religious outreach and late-night food demand.
+* Residents and volunteers describe the effort as a way to serve and care for Isla Vista, while also acknowledging that some students joke about it, misunderstand it or treat it as strange.
+
+Local tension:
+A religious outreach project has become part of Isla Vista’s Friday-night party ecosystem, where free burgers, blessings, intoxicated students and community care all coexist in the same Del Playa ritual.
+
+Requirements:
+* clearly grounded in the source issue
+* specific to UCSB, Isla Vista, or Santa Barbara when appropriate
+* clear satirical target
+* avoid random absurdity
+* avoid inventing facts not implied by the source
+* output only one headline.","Isla Vista’s Friday-Night Economy Now Powered by Free Burgers, Blessings and Regrettable Decisions","Isla Vista’s Friday-Night Economy Now Powered by Free Burgers, Blessings and Regrettable Decisions",2026-06-08T03:12:21.776932+00:00
+local_satire_d0997ca802,jesus_burgers_001,gpt-5.4-mini,target_first_rank,"Write source-grounded Onion-style local satire from this campus/local source capsule.
+
+Source title:
+‘Jesus people cooking Jesus Burgers’: a look into Del Playa’s 20-year tradition
+
+Source date:
+2025-10-09
+
+Issue phrase:
+Jesus Burgers as a long-running Del Playa tradition combining free food, Christian outreach and Isla Vista party culture
+
+Facts:
+* Since 2001, Jesus Burgers has given out free burgers on Friday nights at 6686 Del Playa Drive in Isla Vista.
+* The group estimates it has served over 200,000 burgers and now gives out around 200 to 250 burgers per Friday night during the school year.
+* Jesus Burgers is connected to Isla Vista Mission and other Christian groups, and volunteers often offer free blessings or conversations about faith.
+* The Friday-night crowd includes intoxicated and hungry partygoers on Del Playa, creating a mix of party culture, religious outreach and late-night food demand.
+* Residents and volunteers describe the effort as a way to serve and care for Isla Vista, while also acknowledging that some students joke about it, misunderstand it or treat it as strange.
+
+Local tension:
+A religious outreach project has become part of Isla Vista’s Friday-night party ecosystem, where free burgers, blessings, intoxicated students and community care all coexist in the same Del Playa ritual.
+
+Step 1: identify the satirical target in one short phrase.
+Step 2: generate 5 candidate Onion-style local satire headlines.
+Step 3: select the best using source relevance, local specificity, topic nuance/target, satirical bite, and coherence/non-randomness.
+
+Output only:
+Target: ...
+Best headline: ...
+Brief reason: ...","Jesus Burgers Now Most Reliable Thing On Del Playa Besides Regret, Hunger, And A Free Blessing","Target: Isla Vista’s bizarrely normalized collision of party culture, religious outreach, and late-night free food
+
+Best headline: Jesus Burgers Now Most Reliable Thing On Del Playa Besides Regret, Hunger, And A Free Blessing
+
+Brief reason: It’s tightly grounded in the source, names the local setting, and captures the core irony: a 20-year Christian outreach effort has become part of Isla Vista’s Friday-night party ritual, where intoxicated students line up for burgers and optional spiritual support.",2026-06-08T03:12:23.207691+00:00
+local_satire_fb68717cb4,iv_parking_compliance_001,gemini-3.5-flash,generic_issue,"Write one Onion-style local satire headline about this issue:
+Issue: Isla Vista parking compliance program and Tina the Toad outreach mascot
+The headline should be funny, locally specific, and have a clear satirical target.
+Output only one headline.",Isla Vista Student Ready to Risk $150 Street-Sweeping Ticket Just to See What Happens to Tina the Toad in the Tow Yard,Isla Vista Student Ready to Risk $150 Street-Sweeping Ticket Just to See What Happens to Tina the Toad in the Tow Yard,2026-06-08T03:12:24.607328+00:00
+local_satire_7c2f725e1f,iv_parking_compliance_001,gemini-3.5-flash,source_grounded,"Write one Onion-style local satire headline based on the source below.
+
+Source title:
+IVCSD implements I.V. parking compliance program
+
+Facts:
+* The Isla Vista Community Services District planned to implement a parking compliance program in November to address longstanding parking issues in Isla Vista.
+* The program aims to address health and safety concerns, mobility issues for pedestrians and disabled individuals and greenhouse gas emissions by enforcing statewide parking regulations.
+* Several Isla Vista streets regularly have 60-100% parking occupancy, making parking a persistent concern for residents, students and visitors.
+* IVCSD planned to introduce Tina the Toad, a Gen Z-oriented parking compliance mascot, to educate the community about parking laws in a non-threatening way through tabling, banners, giveaways and ticket-like guideline slips on cars.
+* The program would eventually test ticketing for visible noncompliance, move toward a zero-tolerance policy in April and need roughly one ticket per hour to break even financially.
+
+Local tension:
+Isla Vista has a real parking shortage and safety problem, but the public-facing solution combines enforcement, revenue-neutral ticketing and a friendly youth-branded mascot meant to make parking rules feel less threatening.
+
+Requirements:
+* clearly grounded in the source issue
+* specific to UCSB, Isla Vista, or Santa Barbara when appropriate
+* clear satirical target
+* avoid random absurdity
+* avoid inventing facts not implied by the source
+* output only one headline.",Isla Vista Hopes Cute Gen Z Mascot Will Soften Blow of Getting Ticketed to Fund Her Own Salary,Isla Vista Hopes Cute Gen Z Mascot Will Soften Blow of Getting Ticketed to Fund Her Own Salary,2026-06-08T03:12:26.150684+00:00
+local_satire_c63afbd4ca,iv_parking_compliance_001,gemini-3.5-flash,target_first_rank,"Write source-grounded Onion-style local satire from this campus/local source capsule.
+
+Source title:
+IVCSD implements I.V. parking compliance program
+
+Source date:
+2025-10-30
+
+Issue phrase:
+Isla Vista parking compliance program and Tina the Toad outreach mascot
+
+Facts:
+* The Isla Vista Community Services District planned to implement a parking compliance program in November to address longstanding parking issues in Isla Vista.
+* The program aims to address health and safety concerns, mobility issues for pedestrians and disabled individuals and greenhouse gas emissions by enforcing statewide parking regulations.
+* Several Isla Vista streets regularly have 60-100% parking occupancy, making parking a persistent concern for residents, students and visitors.
+* IVCSD planned to introduce Tina the Toad, a Gen Z-oriented parking compliance mascot, to educate the community about parking laws in a non-threatening way through tabling, banners, giveaways and ticket-like guideline slips on cars.
+* The program would eventually test ticketing for visible noncompliance, move toward a zero-tolerance policy in April and need roughly one ticket per hour to break even financially.
+
+Local tension:
+Isla Vista has a real parking shortage and safety problem, but the public-facing solution combines enforcement, revenue-neutral ticketing and a friendly youth-branded mascot meant to make parking rules feel less threatening.
+
+Step 1: identify the satirical target in one short phrase.
+Step 2: generate 5 candidate Onion-style local satire headlines.
+Step 3: select the best using source relevance, local specificity, topic nuance/target, satirical bite, and coherence/non-randomness.
+
+Output only:
+Target: ...
+Best headline: ...
+Brief reason: ...",Friendly Gen-Z Toad Mascot Deployed to Gently Explain Why Your Car Is Being Towed to Finance Her Salary**,"Target: The deployment of a friendly, Gen-Z-pandering mascot to cushion the blow of aggressive parking enforcement and quotas.
+
+Best headline: **Friendly Gen-Z Toad Mascot Deployed to Gently Explain Why Your Car Is Being Towed to Finance Her Salary**
+
+Brief reason: This headline perfectly captures the local tension between the warm-and-fuzzy outreach efforts (Tina the Toad) and the cold financial reality of the new parking program, which requires a steady stream of hourly tickets to break even.",2026-06-08T03:12:27.880607+00:00
+local_satire_c54227fc15,iv_parking_compliance_001,gpt-5.4-mini,generic_issue,"Write one Onion-style local satire headline about this issue:
+Issue: Isla Vista parking compliance program and Tina the Toad outreach mascot
+The headline should be funny, locally specific, and have a clear satirical target.
+Output only one headline.","Isla Vista Launches Parking Compliance Program, Deploys Tina the Toad to Guilt Students Into Moving Their Cars Every 72 Hours","Isla Vista Launches Parking Compliance Program, Deploys Tina the Toad to Guilt Students Into Moving Their Cars Every 72 Hours",2026-06-08T03:12:34.171439+00:00
+local_satire_b3161c70e5,iv_parking_compliance_001,gpt-5.4-mini,source_grounded,"Write one Onion-style local satire headline based on the source below.
+
+Source title:
+IVCSD implements I.V. parking compliance program
+
+Facts:
+* The Isla Vista Community Services District planned to implement a parking compliance program in November to address longstanding parking issues in Isla Vista.
+* The program aims to address health and safety concerns, mobility issues for pedestrians and disabled individuals and greenhouse gas emissions by enforcing statewide parking regulations.
+* Several Isla Vista streets regularly have 60-100% parking occupancy, making parking a persistent concern for residents, students and visitors.
+* IVCSD planned to introduce Tina the Toad, a Gen Z-oriented parking compliance mascot, to educate the community about parking laws in a non-threatening way through tabling, banners, giveaways and ticket-like guideline slips on cars.
+* The program would eventually test ticketing for visible noncompliance, move toward a zero-tolerance policy in April and need roughly one ticket per hour to break even financially.
+
+Local tension:
+Isla Vista has a real parking shortage and safety problem, but the public-facing solution combines enforcement, revenue-neutral ticketing and a friendly youth-branded mascot meant to make parking rules feel less threatening.
+
+Requirements:
+* clearly grounded in the source issue
+* specific to UCSB, Isla Vista, or Santa Barbara when appropriate
+* clear satirical target
+* avoid random absurdity
+* avoid inventing facts not implied by the source
+* output only one headline.",Isla Vista Parking Crisis Solved by Gen Z Toad Who Will Politely Ticket You Into Compliance,Isla Vista Parking Crisis Solved by Gen Z Toad Who Will Politely Ticket You Into Compliance,2026-06-08T03:12:35.231444+00:00
+local_satire_fb35558092,iv_parking_compliance_001,gpt-5.4-mini,target_first_rank,"Write source-grounded Onion-style local satire from this campus/local source capsule.
+
+Source title:
+IVCSD implements I.V. parking compliance program
+
+Source date:
+2025-10-30
+
+Issue phrase:
+Isla Vista parking compliance program and Tina the Toad outreach mascot
+
+Facts:
+* The Isla Vista Community Services District planned to implement a parking compliance program in November to address longstanding parking issues in Isla Vista.
+* The program aims to address health and safety concerns, mobility issues for pedestrians and disabled individuals and greenhouse gas emissions by enforcing statewide parking regulations.
+* Several Isla Vista streets regularly have 60-100% parking occupancy, making parking a persistent concern for residents, students and visitors.
+* IVCSD planned to introduce Tina the Toad, a Gen Z-oriented parking compliance mascot, to educate the community about parking laws in a non-threatening way through tabling, banners, giveaways and ticket-like guideline slips on cars.
+* The program would eventually test ticketing for visible noncompliance, move toward a zero-tolerance policy in April and need roughly one ticket per hour to break even financially.
+
+Local tension:
+Isla Vista has a real parking shortage and safety problem, but the public-facing solution combines enforcement, revenue-neutral ticketing and a friendly youth-branded mascot meant to make parking rules feel less threatening.
+
+Step 1: identify the satirical target in one short phrase.
+Step 2: generate 5 candidate Onion-style local satire headlines.
+Step 3: select the best using source relevance, local specificity, topic nuance/target, satirical bite, and coherence/non-randomness.
+
+Output only:
+Target: ...
+Best headline: ...
+Brief reason: ...",Isla Vista Launches Gen Z Toad Mascot To Explain Why Your Car Is Still Getting Ticketed,"Target: Youth-branded enforcement theater for a real parking crisis
+
+Best headline: Isla Vista Launches Gen Z Toad Mascot To Explain Why Your Car Is Still Getting Ticketed
+
+Brief reason: This best captures the local tension: a genuine parking and safety problem met with a friendly, campus-coded outreach mascot and “non-threatening” compliance messaging that still leads to enforcement and ticketing. It’s specific to Isla Vista, references Tina the Toad naturally, and keeps the Onion-style bite focused on the irony of making punishment feel approachable.",2026-06-08T03:12:36.588174+00:00
+local_satire_90dfceec46,ucsb_commencement_reversal_001,gemini-3.5-flash,generic_issue,"Write one Onion-style local satire headline about this issue:
+Issue: UCSB commencement relocation reversal after student backlash
+The headline should be funny, locally specific, and have a clear satirical target.
+Output only one headline.",UCSB Administrators Quietly Move Commencement Back to Campus After Realizing Angry Seniors Already Have Pitchforks Left Over from Deltopia,UCSB Administrators Quietly Move Commencement Back to Campus After Realizing Angry Seniors Already Have Pitchforks Left Over from Deltopia,2026-06-08T03:12:37.921284+00:00
+local_satire_7c6afab5d4,ucsb_commencement_reversal_001,gemini-3.5-flash,source_grounded,"Write one Onion-style local satire headline based on the source below.
+
+Source title:
+UCSB reverses decision to move commencement ceremonies to RecCen fields after student movement
+
+Facts:
+* UCSB initially announced that seven commencement ceremonies would be moved from Lagoon Lawn to the Recreation Center Fields, then reversed the decision after student backlash.
+* The university increased the ticket limit from six to 12 guests per student, while still keeping a ticketing system.
+* University officials said the original relocation was motivated by safety/security concerns and the need to maintain ceremony continuity amid campus disruptions nationwide.
+* Students objected to the short timing, ticket limits, travel costs for families and the loss of the symbolic Lagoon Lawn commencement setting.
+* Some class of 2024 students noted they had already missed a normal high-school graduation during the COVID-19 pandemic, making the campus ceremony especially meaningful.
+
+Local tension:
+A symbolic graduation ritual became a conflict between administrative security planning and students’ desire for a meaningful, family-inclusive ceremony at a traditional campus location.
+
+Requirements:
+* clearly grounded in the source issue
+* specific to UCSB, Isla Vista, or Santa Barbara when appropriate
+* clear satirical target
+* avoid random absurdity
+* avoid inventing facts not implied by the source
+* output only one headline.",UCSB Administrators Relieved To Learn Students Unbothered By Having High School and College Graduations Ruined,UCSB Administrators Relieved To Learn Students Unbothered By Having High School and College Graduations Ruined,2026-06-08T03:12:39.148176+00:00
+local_satire_d3ec4a61fb,ucsb_commencement_reversal_001,gemini-3.5-flash,target_first_rank,"Write source-grounded Onion-style local satire from this campus/local source capsule.
+
+Source title:
+UCSB reverses decision to move commencement ceremonies to RecCen fields after student movement
+
+Source date:
+2024-06-06
+
+Issue phrase:
+UCSB commencement relocation reversal after student backlash
+
+Facts:
+* UCSB initially announced that seven commencement ceremonies would be moved from Lagoon Lawn to the Recreation Center Fields, then reversed the decision after student backlash.
+* The university increased the ticket limit from six to 12 guests per student, while still keeping a ticketing system.
+* University officials said the original relocation was motivated by safety/security concerns and the need to maintain ceremony continuity amid campus disruptions nationwide.
+* Students objected to the short timing, ticket limits, travel costs for families and the loss of the symbolic Lagoon Lawn commencement setting.
+* Some class of 2024 students noted they had already missed a normal high-school graduation during the COVID-19 pandemic, making the campus ceremony especially meaningful.
+
+Local tension:
+A symbolic graduation ritual became a conflict between administrative security planning and students’ desire for a meaningful, family-inclusive ceremony at a traditional campus location.
+
+Step 1: identify the satirical target in one short phrase.
+Step 2: generate 5 candidate Onion-style local satire headlines.
+Step 3: select the best using source relevance, local specificity, topic nuance/target, satirical bite, and coherence/non-randomness.
+
+Output only:
+Target: ...
+Best headline: ...
+Brief reason: ...",UCSB Grads Relieved They Will Now Get To Walk Across Scenic Lawn Instead Of Chain-Link Security Perimeter,"Target: UCSB administrators prioritizing clinical security measures over the sentimental value of a scenic oceanfront graduation for COVID-era students.
+
+Best headline: UCSB Grads Relieved They Will Now Get To Walk Across Scenic Lawn Instead Of Chain-Link Security Perimeter
+
+Brief reason: This headline captures the specific local tension of the ""Lagoon Lawn"" setting versus the sterile ""RecCen fields,"" while dryly mocking the university's hyper-focus on security and containment that nearly ruined a milestone ceremony for a class that already missed their high school graduations.",2026-06-08T03:12:40.871739+00:00
+local_satire_4ca9cbf762,ucsb_commencement_reversal_001,gpt-5.4-mini,generic_issue,"Write one Onion-style local satire headline about this issue:
+Issue: UCSB commencement relocation reversal after student backlash
+The headline should be funny, locally specific, and have a clear satirical target.
+Output only one headline.",UCSB Reverses Commencement Relocation After Students Remind Administrators That “The Beach” Is Still Right There,UCSB Reverses Commencement Relocation After Students Remind Administrators That “The Beach” Is Still Right There,2026-06-08T03:12:42.125222+00:00
+local_satire_20509c7a5b,ucsb_commencement_reversal_001,gpt-5.4-mini,source_grounded,"Write one Onion-style local satire headline based on the source below.
+
+Source title:
+UCSB reverses decision to move commencement ceremonies to RecCen fields after student movement
+
+Facts:
+* UCSB initially announced that seven commencement ceremonies would be moved from Lagoon Lawn to the Recreation Center Fields, then reversed the decision after student backlash.
+* The university increased the ticket limit from six to 12 guests per student, while still keeping a ticketing system.
+* University officials said the original relocation was motivated by safety/security concerns and the need to maintain ceremony continuity amid campus disruptions nationwide.
+* Students objected to the short timing, ticket limits, travel costs for families and the loss of the symbolic Lagoon Lawn commencement setting.
+* Some class of 2024 students noted they had already missed a normal high-school graduation during the COVID-19 pandemic, making the campus ceremony especially meaningful.
+
+Local tension:
+A symbolic graduation ritual became a conflict between administrative security planning and students’ desire for a meaningful, family-inclusive ceremony at a traditional campus location.
+
+Requirements:
+* clearly grounded in the source issue
+* specific to UCSB, Isla Vista, or Santa Barbara when appropriate
+* clear satirical target
+* avoid random absurdity
+* avoid inventing facts not implied by the source
+* output only one headline.","UCSB, After Briefly Treating Commencement Like a Security Threat, Restores Students’ Right to Graduate on Lagoon Lawn","UCSB, After Briefly Treating Commencement Like a Security Threat, Restores Students’ Right to Graduate on Lagoon Lawn",2026-06-08T03:12:44.667201+00:00
+local_satire_c673bd6628,ucsb_commencement_reversal_001,gpt-5.4-mini,target_first_rank,"Write source-grounded Onion-style local satire from this campus/local source capsule.
+
+Source title:
+UCSB reverses decision to move commencement ceremonies to RecCen fields after student movement
+
+Source date:
+2024-06-06
+
+Issue phrase:
+UCSB commencement relocation reversal after student backlash
+
+Facts:
+* UCSB initially announced that seven commencement ceremonies would be moved from Lagoon Lawn to the Recreation Center Fields, then reversed the decision after student backlash.
+* The university increased the ticket limit from six to 12 guests per student, while still keeping a ticketing system.
+* University officials said the original relocation was motivated by safety/security concerns and the need to maintain ceremony continuity amid campus disruptions nationwide.
+* Students objected to the short timing, ticket limits, travel costs for families and the loss of the symbolic Lagoon Lawn commencement setting.
+* Some class of 2024 students noted they had already missed a normal high-school graduation during the COVID-19 pandemic, making the campus ceremony especially meaningful.
+
+Local tension:
+A symbolic graduation ritual became a conflict between administrative security planning and students’ desire for a meaningful, family-inclusive ceremony at a traditional campus location.
+
+Step 1: identify the satirical target in one short phrase.
+Step 2: generate 5 candidate Onion-style local satire headlines.
+Step 3: select the best using source relevance, local specificity, topic nuance/target, satirical bite, and coherence/non-randomness.
+
+Output only:
+Target: ...
+Best headline: ...
+Brief reason: ...",UCSB Reverses Plan to Move Commencement After Realizing Students Were Looking Forward to Graduating Somewhere Nice,"Target: University administrators treating commencement like a security logistics exercise instead of a once-in-a-lifetime family ritual
+
+Best headline: UCSB Reverses Plan to Move Commencement After Realizing Students Were Looking Forward to Graduating Somewhere Nice
+
+Brief reason: This headline is tightly source-grounded, locally specific, and captures the core absurdity: the university framed the change as safety-driven logistics, while students experienced it as the loss of a meaningful, symbolic ceremony. It also lands the Onion-style irony by implying the campus only backed down once it remembered graduation is supposed to feel celebratory, not like a venue downgrade.",2026-06-08T03:12:46.521453+00:00
+local_satire_f2a4395177,extravaganza_lineup_announcement_001,gemini-3.5-flash,generic_issue,"Write one Onion-style local satire headline about this issue:
+Issue: Extravaganza 2026 lineup announcement and student reactions
+The headline should be funny, locally specific, and have a clear satirical target.
+Output only one headline.",ASSU Admits Extravaganza 2026 Lineup Was Generated by Asking ChatGPT to Describe a ‘Vaguely Coachella-Adjacent Fever Dream’**,**ASSU Admits Extravaganza 2026 Lineup Was Generated by Asking ChatGPT to Describe a ‘Vaguely Coachella-Adjacent Fever Dream’**,2026-06-08T03:12:47.854597+00:00
+local_satire_1658c60821,extravaganza_lineup_announcement_001,gemini-3.5-flash,source_grounded,"Write one Onion-style local satire headline based on the source below.
+
+Source title:
+Dominic Fike announced to headline Extravaganza 2026
+
+Facts:
+* UCSB's Associated Students Program Board announced the Extravaganza 2026 lineup at Storke Lawn on May 7.
+* The lineup featured Dominic Fike as headliner, along with JT, Earl Sweatshirt and Jane Remover.
+* Extravaganza is UCSB's annual student-only music festival and was scheduled for May 17 at Harder Stadium.
+* The reveal used a 'Wild Wild X' western aesthetic, though an ASPB coordinator clarified that the theme was about the event's visual rollout rather than a clue about the artists.
+* Initial student reactions were mostly positive, especially compared with mixed reactions to the previous year's lineup.
+* Some students were excited by the major artists, while others said they were less familiar with parts of the lineup or compared it to past headliners like Playboi Carti and Steve Aoki.
+* An ASPB coordinator described how negative social media reactions to last year's Extravaganza affected the organizing team, while emphasizing that supportive responses can be quieter than criticism.
+
+Local tension:
+A student-run campus festival has to choose a lineup broad enough to satisfy a fragmented undergraduate audience, while organizers face immediate public judgment through campus social media and comparisons to past headliners.
+
+Requirements:
+* clearly grounded in the source issue
+* specific to UCSB, Isla Vista, or Santa Barbara when appropriate
+* clear satirical target
+* avoid random absurdity
+* avoid inventing facts not implied by the source
+* output only one headline.",UCSB Student Body Briefly Pauses Relentless Cyberbullying Of Event Organizers After Dominic Fike Lineup Announcement,UCSB Student Body Briefly Pauses Relentless Cyberbullying Of Event Organizers After Dominic Fike Lineup Announcement,2026-06-08T03:12:48.979496+00:00
+local_satire_66cbd47184,extravaganza_lineup_announcement_001,gemini-3.5-flash,target_first_rank,"Write source-grounded Onion-style local satire from this campus/local source capsule.
+
+Source title:
+Dominic Fike announced to headline Extravaganza 2026
+
+Source date:
+2026-05-11
+
+Issue phrase:
+Extravaganza 2026 lineup announcement and student reactions
+
+Facts:
+* UCSB's Associated Students Program Board announced the Extravaganza 2026 lineup at Storke Lawn on May 7.
+* The lineup featured Dominic Fike as headliner, along with JT, Earl Sweatshirt and Jane Remover.
+* Extravaganza is UCSB's annual student-only music festival and was scheduled for May 17 at Harder Stadium.
+* The reveal used a 'Wild Wild X' western aesthetic, though an ASPB coordinator clarified that the theme was about the event's visual rollout rather than a clue about the artists.
+* Initial student reactions were mostly positive, especially compared with mixed reactions to the previous year's lineup.
+* Some students were excited by the major artists, while others said they were less familiar with parts of the lineup or compared it to past headliners like Playboi Carti and Steve Aoki.
+* An ASPB coordinator described how negative social media reactions to last year's Extravaganza affected the organizing team, while emphasizing that supportive responses can be quieter than criticism.
+
+Local tension:
+A student-run campus festival has to choose a lineup broad enough to satisfy a fragmented undergraduate audience, while organizers face immediate public judgment through campus social media and comparisons to past headliners.
+
+Step 1: identify the satirical target in one short phrase.
+Step 2: generate 5 candidate Onion-style local satire headlines.
+Step 3: select the best using source relevance, local specificity, topic nuance/target, satirical bite, and coherence/non-randomness.
+
+Output only:
+Target: ...
+Best headline: ...
+Brief reason: ...",ASPB Organizers Quietly Lock Themselves in Office After Announcing Dominic Fike Instead of Reincarnated Jimi Hendrix,"Target: The impossible standard UCSB students hold the student-run concert board to, expecting Coachella-level talent on a free-admission budget.
+
+Candidate Headlines:
+1. ASPB Organizers Quietly Lock Themselves in Office After Announcing Dominic Fike Instead of Reincarnated Jimi Hendrix
+2. Local Sophomore Reluctantly Agrees to Walk All the Way to Harder Stadium for Free Dominic Fike and Earl Sweatshirt Concert
+3. 'Wild Wild X' Theme Confirmed to Represent the Lawless, Bloodthirsty Nature of UCSB Student Instagram Comments
+4. UCSB Student Who Listens Exclusively to Underground Soundcloud Lo-Fi Devastated to Find Extravaganza Lineup Features Artists People Have Heard Of
+5. ASPB Coordinator Reminds Students That Playboi Carti Does Not Actually Exist in This Fiscal Reality
+
+Best headline: ASPB Organizers Quietly Lock Themselves in Office After Announcing Dominic Fike Instead of Reincarnated Jimi Hendrix
+
+Brief reason: This headline perfectly captures the local tension of student organizers facing immediate, hyper-critical social media backlash from a fragmented student body, satirizing the absurdly high expectations UCSB undergraduates have for their free campus festival compared to the reality of booking major acts like Dominic Fike and Earl Sweatshirt.",2026-06-08T03:12:51.649392+00:00
+local_satire_22c2f865e7,extravaganza_lineup_announcement_001,gpt-5.4-mini,generic_issue,"Write one Onion-style local satire headline about this issue:
+Issue: Extravaganza 2026 lineup announcement and student reactions
+The headline should be funny, locally specific, and have a clear satirical target.
+Output only one headline.",Campus Erupts as Extravaganza 2026 Lineup Finally Gives Students Exactly One Artist They’ve Pretended to Like Since Freshman Year,Campus Erupts as Extravaganza 2026 Lineup Finally Gives Students Exactly One Artist They’ve Pretended to Like Since Freshman Year,2026-06-08T03:12:52.751959+00:00
+local_satire_25687b6272,extravaganza_lineup_announcement_001,gpt-5.4-mini,source_grounded,"Write one Onion-style local satire headline based on the source below.
+
+Source title:
+Dominic Fike announced to headline Extravaganza 2026
+
+Facts:
+* UCSB's Associated Students Program Board announced the Extravaganza 2026 lineup at Storke Lawn on May 7.
+* The lineup featured Dominic Fike as headliner, along with JT, Earl Sweatshirt and Jane Remover.
+* Extravaganza is UCSB's annual student-only music festival and was scheduled for May 17 at Harder Stadium.
+* The reveal used a 'Wild Wild X' western aesthetic, though an ASPB coordinator clarified that the theme was about the event's visual rollout rather than a clue about the artists.
+* Initial student reactions were mostly positive, especially compared with mixed reactions to the previous year's lineup.
+* Some students were excited by the major artists, while others said they were less familiar with parts of the lineup or compared it to past headliners like Playboi Carti and Steve Aoki.
+* An ASPB coordinator described how negative social media reactions to last year's Extravaganza affected the organizing team, while emphasizing that supportive responses can be quieter than criticism.
+
+Local tension:
+A student-run campus festival has to choose a lineup broad enough to satisfy a fragmented undergraduate audience, while organizers face immediate public judgment through campus social media and comparisons to past headliners.
+
+Requirements:
+* clearly grounded in the source issue
+* specific to UCSB, Isla Vista, or Santa Barbara when appropriate
+* clear satirical target
+* avoid random absurdity
+* avoid inventing facts not implied by the source
+* output only one headline.",UCSB Students React to Extravaganza 2026 Lineup by Comparing It to Every Headliner They’ve Ever Seen on Instagram,UCSB Students React to Extravaganza 2026 Lineup by Comparing It to Every Headliner They’ve Ever Seen on Instagram,2026-06-08T03:12:53.708689+00:00
+local_satire_586c1b2444,extravaganza_lineup_announcement_001,gpt-5.4-mini,target_first_rank,"Write source-grounded Onion-style local satire from this campus/local source capsule.
+
+Source title:
+Dominic Fike announced to headline Extravaganza 2026
+
+Source date:
+2026-05-11
+
+Issue phrase:
+Extravaganza 2026 lineup announcement and student reactions
+
+Facts:
+* UCSB's Associated Students Program Board announced the Extravaganza 2026 lineup at Storke Lawn on May 7.
+* The lineup featured Dominic Fike as headliner, along with JT, Earl Sweatshirt and Jane Remover.
+* Extravaganza is UCSB's annual student-only music festival and was scheduled for May 17 at Harder Stadium.
+* The reveal used a 'Wild Wild X' western aesthetic, though an ASPB coordinator clarified that the theme was about the event's visual rollout rather than a clue about the artists.
+* Initial student reactions were mostly positive, especially compared with mixed reactions to the previous year's lineup.
+* Some students were excited by the major artists, while others said they were less familiar with parts of the lineup or compared it to past headliners like Playboi Carti and Steve Aoki.
+* An ASPB coordinator described how negative social media reactions to last year's Extravaganza affected the organizing team, while emphasizing that supportive responses can be quieter than criticism.
+
+Local tension:
+A student-run campus festival has to choose a lineup broad enough to satisfy a fragmented undergraduate audience, while organizers face immediate public judgment through campus social media and comparisons to past headliners.
+
+Step 1: identify the satirical target in one short phrase.
+Step 2: generate 5 candidate Onion-style local satire headlines.
+Step 3: select the best using source relevance, local specificity, topic nuance/target, satirical bite, and coherence/non-randomness.
+
+Output only:
+Target: ...
+Best headline: ...
+Brief reason: ...",UCSB Students Declare Extravaganza 2026 “Actually Pretty Good” After Briefly Pretending To Know All Four Artists,"Target: Campus festival lineups as a referendum on everyone’s personal taste
+
+Best headline: UCSB Students Declare Extravaganza 2026 “Actually Pretty Good” After Briefly Pretending To Know All Four Artists
+
+Brief reason: It’s tightly grounded in the lineup reveal, student reactions, and the campus-wide habit of treating festival announcements like a public verdict on cultural sophistication. The joke lands on the fragmented audience and the social-media comparison machine without drifting away from the local source.",2026-06-08T03:12:55.265335+00:00
