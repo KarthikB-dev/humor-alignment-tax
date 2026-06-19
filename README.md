@@ -94,6 +94,46 @@ python3 src/scripts/generate_odp.py   # requires system odfpy
 cd presentation && pdflatex alignment_tax.tex && pdflatex alignment_tax.tex
 ```
 
+### 8. Source-Grounded Local Satire Study (Optional)
+
+This independent qualitative study tests whether models can generate
+Onion/Nexustentialism-style local satire from manually written campus/local news
+source capsules. It is not RAG: the scripts do not do web search or retrieval,
+and evaluator annotations are not fed to generation prompts.
+
+```bash
+uv run python -m src.scripts.generate_local_satire \
+  --sources data/local_satire_sources.jsonl \
+  --models gemini-3.5-flash,gpt-5.4-mini \
+  --conditions generic_issue,source_grounded,target_first_rank \
+  --dry-run
+
+uv run python -m src.scripts.generate_local_satire \
+  --sources data/local_satire_sources.jsonl \
+  --out outputs/local_satire_generations_gemini35_oai54mini.csv \
+  --models gemini-3.5-flash,gpt-5.4-mini \
+  --conditions generic_issue,source_grounded,target_first_rank \
+  --temperature 0.7
+
+uv run python -m src.scripts.create_local_satire_score_sheet \
+  --generations outputs/local_satire_generations_gemini35_oai54mini.csv \
+  --out outputs/local_satire_scores_template_gemini35_oai54mini.csv
+
+uv run python -m src.scripts.analyze_local_satire \
+  --scores outputs/local_satire_scores_completed_with_human_baseline.csv \
+  --out outputs/local_satire_summary_gemini35_oai54mini_human_baseline.csv \
+  --tag-out outputs/local_satire_failure_tags_gemini35_oai54mini_human_baseline.csv
+```
+
+See `docs/local_satire_study.md` for the full workflow and rubric.
+
+Current local-satire artifacts:
+
+- `data/local_satire_sources.jsonl`: manual source capsules
+- `outputs/local_satire_generations_gemini35_oai54mini.csv`: generated headlines
+- `outputs/local_satire_scores_completed_with_human_baseline.csv`: completed rubric scores
+- `outputs/local_satire_summary_gemini35_oai54mini_human_baseline.csv`: grouped score summary
+
 ## Hardware Requirements
 
 Designed for a single **RTX 5070 Ti (16 GB VRAM)**:

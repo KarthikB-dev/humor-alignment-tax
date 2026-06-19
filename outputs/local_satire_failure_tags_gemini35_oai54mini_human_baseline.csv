@@ -1,0 +1,12 @@
+failure_tag,model,prompt_condition,count
+grounded_but_not_funny,gpt-5.4-mini,target_first_rank,3
+grounded_but_not_funny,gpt-5.4-mini,generic_issue,2
+grounded_but_not_funny,gpt-5.4-mini,source_grounded,2
+hallucinated_local_detail,gemini-3.5-flash,generic_issue,2
+misses_source_tension,gemini-3.5-flash,generic_issue,2
+funny_but_not_grounded,gemini-3.5-flash,generic_issue,1
+funny_but_not_grounded,human_nexustentialism,human_baseline,1
+hallucinated_local_detail,gemini-3.5-flash,source_grounded,1
+hallucinated_local_detail,gemini-3.5-flash,target_first_rank,1
+misses_source_tension,gpt-5.4-mini,generic_issue,1
+random_absurdity,gemini-3.5-flash,target_first_rank,1
